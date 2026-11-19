@@ -1,0 +1,674 @@
+{
+  "timestamp": "2026-11-18 21:46:19",
+  "overall_status": "PASSED",
+  "summary": {
+    "total_checks": 75,
+    "passed_checks": 75,
+    "failed_checks": 0,
+    "pass_rate_pct": 100.0
+  },
+  "by_category": {
+    "Primary Key": {
+      "passed": 12,
+      "failed": 0
+    },
+    "Nullability": {
+      "passed": 41,
+      "failed": 0
+    },
+    "Referential Integrity": {
+      "passed": 6,
+      "failed": 0
+    },
+    "Numeric Sanity": {
+      "passed": 9,
+      "failed": 0
+    },
+    "Mathematical Consistency": {
+      "passed": 3,
+      "failed": 0
+    },
+    "Chronological Logic": {
+      "passed": 2,
+      "failed": 0
+    },
+    "Business Logic": {
+      "passed": 2,
+      "failed": 0
+    }
+  },
+  "dataset_metrics": {
+    "customers": {
+      "row_count": 1500,
+      "column_count": 10,
+      "null_count": 0
+    },
+    "products": {
+      "row_count": 200,
+      "column_count": 8,
+      "null_count": 0
+    },
+    "orders": {
+      "row_count": 10500,
+      "column_count": 8,
+      "null_count": 0
+    },
+    "order_items": {
+      "row_count": 22163,
+      "column_count": 7,
+      "null_count": 0
+    },
+    "payments": {
+      "row_count": 10500,
+      "column_count": 6,
+      "null_count": 0
+    },
+    "events": {
+      "row_count": 40375,
+      "column_count": 6,
+      "null_count": 8476
+    }
+  },
+  "detailed_results": [
+    {
+      "check_name": "pk_not_null_customer_id",
+      "category": "Primary Key",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key customer_id has 0 nulls."
+    },
+    {
+      "check_name": "pk_unique_customer_id",
+      "category": "Primary Key",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key customer_id has 0 duplicate IDs."
+    },
+    {
+      "check_name": "pk_not_null_product_id",
+      "category": "Primary Key",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key product_id has 0 nulls."
+    },
+    {
+      "check_name": "pk_unique_product_id",
+      "category": "Primary Key",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key product_id has 0 duplicate IDs."
+    },
+    {
+      "check_name": "pk_not_null_order_id",
+      "category": "Primary Key",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key order_id has 0 nulls."
+    },
+    {
+      "check_name": "pk_unique_order_id",
+      "category": "Primary Key",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key order_id has 0 duplicate IDs."
+    },
+    {
+      "check_name": "pk_not_null_order_item_id",
+      "category": "Primary Key",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key order_item_id has 0 nulls."
+    },
+    {
+      "check_name": "pk_unique_order_item_id",
+      "category": "Primary Key",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key order_item_id has 0 duplicate IDs."
+    },
+    {
+      "check_name": "pk_not_null_payment_id",
+      "category": "Primary Key",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key payment_id has 0 nulls."
+    },
+    {
+      "check_name": "pk_unique_payment_id",
+      "category": "Primary Key",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key payment_id has 0 duplicate IDs."
+    },
+    {
+      "check_name": "pk_not_null_event_id",
+      "category": "Primary Key",
+      "table": "events",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key event_id has 0 nulls."
+    },
+    {
+      "check_name": "pk_unique_event_id",
+      "category": "Primary Key",
+      "table": "events",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Primary key event_id has 0 duplicate IDs."
+    },
+    {
+      "check_name": "not_null_customer_id",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field customer_id in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_first_name",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field first_name in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_last_name",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field last_name in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_email",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field email in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_gender",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field gender in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_age",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field age in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_city",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field city in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_state",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field state in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_signup_date",
+      "category": "Nullability",
+      "table": "customers",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field signup_date in customers has 0 nulls."
+    },
+    {
+      "check_name": "not_null_product_id",
+      "category": "Nullability",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field product_id in products has 0 nulls."
+    },
+    {
+      "check_name": "not_null_product_name",
+      "category": "Nullability",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field product_name in products has 0 nulls."
+    },
+    {
+      "check_name": "not_null_category",
+      "category": "Nullability",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field category in products has 0 nulls."
+    },
+    {
+      "check_name": "not_null_subcategory",
+      "category": "Nullability",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field subcategory in products has 0 nulls."
+    },
+    {
+      "check_name": "not_null_price",
+      "category": "Nullability",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field price in products has 0 nulls."
+    },
+    {
+      "check_name": "not_null_cost",
+      "category": "Nullability",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field cost in products has 0 nulls."
+    },
+    {
+      "check_name": "not_null_stock_quantity",
+      "category": "Nullability",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field stock_quantity in products has 0 nulls."
+    },
+    {
+      "check_name": "not_null_order_id",
+      "category": "Nullability",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field order_id in orders has 0 nulls."
+    },
+    {
+      "check_name": "not_null_customer_id",
+      "category": "Nullability",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field customer_id in orders has 0 nulls."
+    },
+    {
+      "check_name": "not_null_order_date",
+      "category": "Nullability",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field order_date in orders has 0 nulls."
+    },
+    {
+      "check_name": "not_null_order_status",
+      "category": "Nullability",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field order_status in orders has 0 nulls."
+    },
+    {
+      "check_name": "not_null_shipping_city",
+      "category": "Nullability",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field shipping_city in orders has 0 nulls."
+    },
+    {
+      "check_name": "not_null_shipping_state",
+      "category": "Nullability",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field shipping_state in orders has 0 nulls."
+    },
+    {
+      "check_name": "not_null_payment_method",
+      "category": "Nullability",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field payment_method in orders has 0 nulls."
+    },
+    {
+      "check_name": "not_null_total_amount",
+      "category": "Nullability",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field total_amount in orders has 0 nulls."
+    },
+    {
+      "check_name": "not_null_order_item_id",
+      "category": "Nullability",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field order_item_id in order_items has 0 nulls."
+    },
+    {
+      "check_name": "not_null_order_id",
+      "category": "Nullability",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field order_id in order_items has 0 nulls."
+    },
+    {
+      "check_name": "not_null_product_id",
+      "category": "Nullability",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field product_id in order_items has 0 nulls."
+    },
+    {
+      "check_name": "not_null_quantity",
+      "category": "Nullability",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field quantity in order_items has 0 nulls."
+    },
+    {
+      "check_name": "not_null_unit_price",
+      "category": "Nullability",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field unit_price in order_items has 0 nulls."
+    },
+    {
+      "check_name": "not_null_discount",
+      "category": "Nullability",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field discount in order_items has 0 nulls."
+    },
+    {
+      "check_name": "not_null_subtotal",
+      "category": "Nullability",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field subtotal in order_items has 0 nulls."
+    },
+    {
+      "check_name": "not_null_payment_id",
+      "category": "Nullability",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field payment_id in payments has 0 nulls."
+    },
+    {
+      "check_name": "not_null_order_id",
+      "category": "Nullability",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field order_id in payments has 0 nulls."
+    },
+    {
+      "check_name": "not_null_payment_method",
+      "category": "Nullability",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field payment_method in payments has 0 nulls."
+    },
+    {
+      "check_name": "not_null_payment_status",
+      "category": "Nullability",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field payment_status in payments has 0 nulls."
+    },
+    {
+      "check_name": "not_null_payment_amount",
+      "category": "Nullability",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field payment_amount in payments has 0 nulls."
+    },
+    {
+      "check_name": "not_null_payment_date",
+      "category": "Nullability",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field payment_date in payments has 0 nulls."
+    },
+    {
+      "check_name": "not_null_event_id",
+      "category": "Nullability",
+      "table": "events",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field event_id in events has 0 nulls."
+    },
+    {
+      "check_name": "not_null_event_type",
+      "category": "Nullability",
+      "table": "events",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field event_type in events has 0 nulls."
+    },
+    {
+      "check_name": "not_null_event_timestamp",
+      "category": "Nullability",
+      "table": "events",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field event_timestamp in events has 0 nulls."
+    },
+    {
+      "check_name": "not_null_session_id",
+      "category": "Nullability",
+      "table": "events",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "Field session_id in events has 0 nulls."
+    },
+    {
+      "check_name": "fk_orders_customer_id_in_customers",
+      "category": "Referential Integrity",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 orphaned records in orders.customer_id referencing customers.customer_id."
+    },
+    {
+      "check_name": "fk_order_items_order_id_in_orders",
+      "category": "Referential Integrity",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 orphaned records in order_items.order_id referencing orders.order_id."
+    },
+    {
+      "check_name": "fk_order_items_product_id_in_products",
+      "category": "Referential Integrity",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 orphaned records in order_items.product_id referencing products.product_id."
+    },
+    {
+      "check_name": "fk_payments_order_id_in_orders",
+      "category": "Referential Integrity",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 orphaned records in payments.order_id referencing orders.order_id."
+    },
+    {
+      "check_name": "fk_events_customer_id_in_customers",
+      "category": "Referential Integrity",
+      "table": "events",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 invalid customer_ids in events."
+    },
+    {
+      "check_name": "fk_events_product_id_in_products",
+      "category": "Referential Integrity",
+      "table": "events",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 invalid product_ids in events."
+    },
+    {
+      "check_name": "products_price_positive",
+      "category": "Numeric Sanity",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 products have price <= 0."
+    },
+    {
+      "check_name": "products_cost_positive",
+      "category": "Numeric Sanity",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 products have cost <= 0."
+    },
+    {
+      "check_name": "products_cost_leq_price",
+      "category": "Numeric Sanity",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 products have manufacturing cost > price."
+    },
+    {
+      "check_name": "products_stock_non_negative",
+      "category": "Numeric Sanity",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 products have negative stock quantity."
+    },
+    {
+      "check_name": "products_rating_valid_range",
+      "category": "Numeric Sanity",
+      "table": "products",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 products have ratings outside [1.0, 5.0]."
+    },
+    {
+      "check_name": "order_items_quantity_gte_1",
+      "category": "Numeric Sanity",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 items have quantity < 1."
+    },
+    {
+      "check_name": "order_items_unit_price_positive",
+      "category": "Numeric Sanity",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 items have non-positive unit_price."
+    },
+    {
+      "check_name": "order_items_subtotal_consistency",
+      "category": "Mathematical Consistency",
+      "table": "order_items",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 items have subtotal mismatching qty * price - discount."
+    },
+    {
+      "check_name": "orders_total_amount_non_negative",
+      "category": "Numeric Sanity",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 orders have negative total_amount."
+    },
+    {
+      "check_name": "orders_total_matches_items_subtotal",
+      "category": "Mathematical Consistency",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 orders have total_amount mismatching sum of line items."
+    },
+    {
+      "check_name": "payments_amount_non_negative",
+      "category": "Numeric Sanity",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 payments have negative amount."
+    },
+    {
+      "check_name": "payments_amount_matches_order_total",
+      "category": "Mathematical Consistency",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 payments have amount mismatching order total."
+    },
+    {
+      "check_name": "order_date_after_customer_signup_date",
+      "category": "Chronological Logic",
+      "table": "orders",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 orders placed before customer signup_date."
+    },
+    {
+      "check_name": "payment_date_gte_order_date",
+      "category": "Chronological Logic",
+      "table": "payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 payments occurred before order_date."
+    },
+    {
+      "check_name": "fulfilled_orders_payment_not_failed",
+      "category": "Business Logic",
+      "table": "orders_payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 completed/shipped orders have failed payment status."
+    },
+    {
+      "check_name": "cancelled_orders_refunded_or_failed",
+      "category": "Business Logic",
+      "table": "orders_payments",
+      "status": "PASSED",
+      "failed_count": 0,
+      "details": "0 cancelled orders have non-refunded/non-failed payments."
+    }
+  ]
+}

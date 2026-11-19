@@ -1,0 +1,1501 @@
+customer_id,first_name,last_name,email,gender,age,city,state,signup_date,customer_segment
+CUST-000001,Patricia,Scott,patricia.scott1@yahoo.com,F,41,San Diego,CA,2024-03-12 03:43:54,Corporate
+CUST-000002,Brenda,Lopez,brenda.lopez2@proton.me,F,34,Boston,MA,2024-01-17 01:05:05,Consumer
+CUST-000003,Mark,Cook,mark.cook3@proton.me,M,33,New York,NY,2024-10-14 07:14:22,Consumer
+CUST-000004,Carolyn,Cooper,carolyn.cooper4@icloud.com,F,33,San Diego,CA,2024-08-17 21:27:16,Small Business
+CUST-000005,James,Lee,james.lee5@fastmail.com,M,54,Boston,MA,2024-06-23 10:07:01,Consumer
+CUST-000006,Kevin,Wilson,kevin.wilson6@gmail.com,M,45,Denver,CO,2024-02-19 13:04:12,VIP
+CUST-000007,Helen,King,helen.king7@gmail.com,F,30,Atlanta,GA,2024-10-01 04:32:41,Consumer
+CUST-000008,Stephanie,Hernandez,stephanie.hernandez8@proton.me,F,42,San Jose,CA,2024-11-17 22:31:10,Consumer
+CUST-000009,Deborah,Harris,deborah.harris9@fastmail.com,F,38,Chicago,IL,2024-01-24 08:17:51,Consumer
+CUST-000010,Barbara,Robinson,barbara.robinson10@gmail.com,F,18,Denver,CO,2024-05-22 16:30:29,Consumer
+CUST-000011,Deborah,Lee,deborah.lee11@outlook.com,F,23,Seattle,WA,2024-04-17 09:43:13,Consumer
+CUST-000012,Rachel,Martinez,rachel.martinez12@proton.me,F,39,Philadelphia,PA,2024-09-30 08:54:47,Consumer
+CUST-000013,Edward,Wright,edward.wright13@fastmail.com,M,53,Minneapolis,MN,2024-04-22 11:48:24,Consumer
+CUST-000014,Linda,Robinson,linda.robinson14@gmail.com,F,33,Austin,TX,2024-07-24 09:44:53,Consumer
+CUST-000015,Larry,Green,larry.green15@yahoo.com,M,29,Miami,FL,2024-07-21 23:24:19,Consumer
+CUST-000016,Steven,Moore,steven.moore16@yahoo.com,M,37,Minneapolis,MN,2024-10-02 09:33:58,Consumer
+CUST-000017,Laura,Phillips,laura.phillips17@outlook.com,F,28,San Diego,CA,2024-03-11 18:33:04,Corporate
+CUST-000018,Linda,Anderson,linda.anderson18@yahoo.com,F,32,Philadelphia,PA,2024-12-14 15:22:13,Consumer
+CUST-000019,Stephanie,Carter,stephanie.carter19@proton.me,F,35,Atlanta,GA,2024-09-27 09:09:13,Consumer
+CUST-000020,Mary,Anderson,mary.anderson20@fastmail.com,F,23,Minneapolis,MN,2024-05-16 23:20:12,Small Business
+CUST-000021,Andrew,Parker,andrew.parker21@yahoo.com,M,45,Atlanta,GA,2024-01-02 09:35:22,Consumer
+CUST-000022,Lisa,Cook,lisa.cook22@gmail.com,F,21,San Jose,CA,2024-11-23 18:29:00,Consumer
+CUST-000023,Karen,Mitchell,karen.mitchell23@yahoo.com,F,20,Minneapolis,MN,2024-09-28 00:01:14,VIP
+CUST-000024,Angela,Williams,angela.williams24@gmail.com,F,38,Seattle,WA,2024-06-06 08:43:05,Corporate
+CUST-000025,Larry,Hernandez,larry.hernandez25@gmail.com,M,44,Miami,FL,2024-02-05 19:23:42,Consumer
+CUST-000026,Sarah,Stewart,sarah.stewart26@proton.me,F,38,Philadelphia,PA,2024-05-15 19:12:43,Consumer
+CUST-000027,Laura,Ramirez,laura.ramirez27@proton.me,F,34,San Antonio,TX,2024-06-08 14:31:36,Consumer
+CUST-000028,Nicole,Mitchell,nicole.mitchell28@icloud.com,Other,32,Portland,OR,2024-08-19 04:24:20,Consumer
+CUST-000029,David,Baker,david.baker29@gmail.com,M,30,Charlotte,NC,2024-10-10 08:22:41,Consumer
+CUST-000030,Mary,Martinez,mary.martinez30@fastmail.com,F,48,Los Angeles,CA,2024-04-27 02:27:14,Consumer
+CUST-000031,Amanda,Martinez,amanda.martinez31@proton.me,F,39,San Diego,CA,2024-05-22 17:40:24,Consumer
+CUST-000032,Thomas,Stewart,thomas.stewart32@yahoo.com,M,31,Miami,FL,2024-07-27 06:55:57,VIP
+CUST-000033,Gregory,Parker,gregory.parker33@outlook.com,M,27,Boston,MA,2024-07-29 17:00:13,Consumer
+CUST-000034,Linda,Gonzalez,linda.gonzalez34@gmail.com,F,43,Denver,CO,2024-06-22 03:58:42,Small Business
+CUST-000035,Matthew,Morgan,matthew.morgan35@icloud.com,M,48,Phoenix,AZ,2024-08-04 06:40:50,Corporate
+CUST-000036,Donald,Martinez,donald.martinez36@icloud.com,M,47,Minneapolis,MN,2024-02-20 01:50:30,Consumer
+CUST-000037,Brenda,Johnson,brenda.johnson37@gmail.com,F,25,San Diego,CA,2024-03-26 14:47:49,Small Business
+CUST-000038,Anthony,Phillips,anthony.phillips38@gmail.com,M,32,Philadelphia,PA,2024-07-13 00:04:42,Consumer
+CUST-000039,Eric,Collins,eric.collins39@outlook.com,Other,30,Boston,MA,2024-12-22 20:14:05,Consumer
+CUST-000040,Angela,Martin,angela.martin40@yahoo.com,F,33,San Jose,CA,2024-04-21 02:07:45,Consumer
+CUST-000041,Brenda,Davis,brenda.davis41@fastmail.com,F,45,Austin,TX,2024-01-30 01:49:32,Small Business
+CUST-000042,Shirley,Ortiz,shirley.ortiz42@yahoo.com,F,52,Los Angeles,CA,2024-09-17 02:55:00,Consumer
+CUST-000043,Elizabeth,Rodriguez,elizabeth.rodriguez43@fastmail.com,F,40,San Diego,CA,2024-07-25 04:21:53,Corporate
+CUST-000044,Emma,Young,emma.young44@proton.me,F,28,Salt Lake City,UT,2024-01-21 22:33:03,Consumer
+CUST-000045,Gregory,Gutierrez,gregory.gutierrez45@outlook.com,M,35,Dallas,TX,2024-04-14 11:26:20,Consumer
+CUST-000046,Ronald,Taylor,ronald.taylor46@fastmail.com,M,54,San Jose,CA,2024-08-22 11:30:41,Consumer
+CUST-000047,Elizabeth,Johnson,elizabeth.johnson47@icloud.com,F,37,Salt Lake City,UT,2024-10-15 03:38:24,Consumer
+CUST-000048,Anthony,Cook,anthony.cook48@outlook.com,M,32,Phoenix,AZ,2024-06-27 02:30:16,Consumer
+CUST-000049,Deborah,Torres,deborah.torres49@yahoo.com,F,33,Atlanta,GA,2024-10-05 11:00:51,Consumer
+CUST-000050,Christine,Ortiz,christine.ortiz50@gmail.com,F,40,Minneapolis,MN,2024-06-02 03:46:17,Corporate
+CUST-000051,Sarah,King,sarah.king51@gmail.com,F,26,Houston,TX,2024-10-10 05:39:34,Small Business
+CUST-000052,Scott,Clark,scott.clark52@fastmail.com,M,29,Austin,TX,2024-04-14 23:05:30,Small Business
+CUST-000053,Shirley,Morales,shirley.morales53@outlook.com,F,46,Los Angeles,CA,2024-02-17 23:05:36,Small Business
+CUST-000054,Paul,Garcia,paul.garcia54@gmail.com,M,39,Austin,TX,2024-03-07 23:11:47,Consumer
+CUST-000055,Nancy,Cruz,nancy.cruz55@proton.me,F,37,Boston,MA,2024-10-14 00:21:07,Small Business
+CUST-000056,Frank,Martin,frank.martin56@proton.me,M,47,Los Angeles,CA,2024-07-08 21:12:30,Small Business
+CUST-000057,Laura,Taylor,laura.taylor57@gmail.com,F,27,San Jose,CA,2024-07-05 01:27:09,Consumer
+CUST-000058,Betty,Young,betty.young58@fastmail.com,F,32,Houston,TX,2024-06-30 20:23:05,Consumer
+CUST-000059,Sharon,Martin,sharon.martin59@yahoo.com,F,39,Philadelphia,PA,2024-03-31 15:00:40,Consumer
+CUST-000060,Kevin,Evans,kevin.evans60@fastmail.com,M,39,San Diego,CA,2024-05-16 05:47:46,Consumer
+CUST-000061,Susan,Carter,susan.carter61@gmail.com,F,19,Miami,FL,2024-04-23 07:15:58,Consumer
+CUST-000062,Kathleen,Hall,kathleen.hall62@outlook.com,F,30,San Diego,CA,2024-04-24 00:51:41,Consumer
+CUST-000063,Rebecca,Nelson,rebecca.nelson63@outlook.com,F,34,Chicago,IL,2024-05-22 12:47:05,Consumer
+CUST-000064,Rebecca,Morgan,rebecca.morgan64@outlook.com,F,40,New York,NY,2024-02-29 09:30:37,Corporate
+CUST-000065,Steven,Jones,steven.jones65@gmail.com,M,39,Salt Lake City,UT,2024-08-10 12:35:09,VIP
+CUST-000066,Carol,Parker,carol.parker66@proton.me,F,35,Portland,OR,2024-02-29 14:01:28,Consumer
+CUST-000067,Margaret,Allen,margaret.allen67@gmail.com,F,18,Boston,MA,2024-01-01 18:55:46,Consumer
+CUST-000068,Brenda,Sanchez,brenda.sanchez68@outlook.com,F,35,Boston,MA,2024-02-05 12:01:19,Consumer
+CUST-000069,Debra,Thomas,debra.thomas69@fastmail.com,F,36,San Jose,CA,2024-09-16 11:15:38,Consumer
+CUST-000070,Carol,Phillips,carol.phillips70@fastmail.com,F,65,San Jose,CA,2024-10-10 04:38:03,Consumer
+CUST-000071,Gregory,Carter,gregory.carter71@fastmail.com,M,33,Philadelphia,PA,2024-11-11 20:43:13,Consumer
+CUST-000072,Stephen,Smith,stephen.smith72@outlook.com,M,39,San Jose,CA,2024-04-17 15:39:06,Consumer
+CUST-000073,Helen,Adams,helen.adams73@icloud.com,F,49,Atlanta,GA,2024-08-14 07:46:50,Consumer
+CUST-000074,Heather,Perez,heather.perez74@fastmail.com,F,45,Chicago,IL,2024-05-25 18:46:01,Corporate
+CUST-000075,Samantha,Nelson,samantha.nelson75@gmail.com,F,52,San Diego,CA,2024-12-10 11:18:07,Consumer
+CUST-000076,Matthew,Jackson,matthew.jackson76@gmail.com,M,19,Los Angeles,CA,2024-05-05 17:17:57,Consumer
+CUST-000077,Elizabeth,Collins,elizabeth.collins77@icloud.com,F,24,Charlotte,NC,2024-04-09 13:58:48,Consumer
+CUST-000078,Ashley,Jackson,ashley.jackson78@fastmail.com,F,29,New York,NY,2024-02-24 15:28:44,Consumer
+CUST-000079,Frank,Gutierrez,frank.gutierrez79@icloud.com,M,18,Los Angeles,CA,2024-10-12 09:04:22,Consumer
+CUST-000080,Jessica,Collins,jessica.collins80@yahoo.com,F,36,Atlanta,GA,2024-12-07 19:20:16,Consumer
+CUST-000081,Amy,Green,amy.green81@icloud.com,Other,24,Salt Lake City,UT,2024-09-15 15:32:13,Small Business
+CUST-000082,Pamela,Edwards,pamela.edwards82@yahoo.com,F,54,Miami,FL,2024-08-18 09:26:12,Consumer
+CUST-000083,Katherine,Scott,katherine.scott83@proton.me,F,26,Miami,FL,2024-11-16 08:42:38,Small Business
+CUST-000084,David,Torres,david.torres84@yahoo.com,M,32,Dallas,TX,2024-06-20 11:38:24,Small Business
+CUST-000085,Barbara,Moore,barbara.moore85@yahoo.com,F,45,San Diego,CA,2024-07-15 05:33:48,Small Business
+CUST-000086,Elizabeth,Turner,elizabeth.turner86@icloud.com,F,21,Austin,TX,2024-10-04 16:57:49,Consumer
+CUST-000087,Anthony,Turner,anthony.turner87@icloud.com,M,18,Charlotte,NC,2024-12-22 00:42:40,Consumer
+CUST-000088,Emma,Carter,emma.carter88@icloud.com,F,38,New York,NY,2024-06-29 10:52:19,Small Business
+CUST-000089,Sharon,Morgan,sharon.morgan89@fastmail.com,F,39,Minneapolis,MN,2024-11-04 08:01:46,Consumer
+CUST-000090,Paul,Parker,paul.parker90@icloud.com,M,45,New York,NY,2024-07-18 12:14:17,Consumer
+CUST-000091,Rebecca,Perez,rebecca.perez91@icloud.com,F,42,Phoenix,AZ,2024-11-14 19:26:48,Small Business
+CUST-000092,Ronald,Brown,ronald.brown92@gmail.com,M,39,Boston,MA,2024-03-10 16:48:35,Corporate
+CUST-000093,Steven,Carter,steven.carter93@outlook.com,M,27,San Antonio,TX,2024-08-20 11:54:00,Consumer
+CUST-000094,Edward,Scott,edward.scott94@icloud.com,M,38,Dallas,TX,2024-02-11 17:07:24,Small Business
+CUST-000095,Jonathan,Miller,jonathan.miller95@outlook.com,M,39,San Diego,CA,2024-11-28 02:29:53,Consumer
+CUST-000096,Christine,Garcia,christine.garcia96@gmail.com,F,27,San Diego,CA,2024-04-12 00:44:31,Consumer
+CUST-000097,Ashley,Taylor,ashley.taylor97@icloud.com,F,58,Houston,TX,2024-10-15 07:56:09,Corporate
+CUST-000098,Steven,Mitchell,steven.mitchell98@yahoo.com,M,41,Salt Lake City,UT,2024-11-06 04:10:12,Consumer
+CUST-000099,Nancy,Flores,nancy.flores99@gmail.com,F,24,Charlotte,NC,2024-01-14 11:21:28,Consumer
+CUST-000100,Stephanie,Gomez,stephanie.gomez100@fastmail.com,F,45,San Antonio,TX,2024-02-08 21:33:27,Corporate
+CUST-000101,Katherine,Young,katherine.young101@gmail.com,F,47,San Jose,CA,2024-12-16 21:51:37,Corporate
+CUST-000102,Emma,Garcia,emma.garcia102@outlook.com,F,40,Minneapolis,MN,2024-08-07 13:29:31,Consumer
+CUST-000103,Samuel,Baker,samuel.baker103@gmail.com,M,33,Boston,MA,2024-09-07 03:50:33,Consumer
+CUST-000104,George,Collins,george.collins104@fastmail.com,M,26,Phoenix,AZ,2024-08-10 06:24:46,Consumer
+CUST-000105,Christine,Wright,christine.wright105@proton.me,F,35,Minneapolis,MN,2024-09-04 16:55:31,Small Business
+CUST-000106,Justin,Wright,justin.wright106@outlook.com,M,40,San Diego,CA,2024-02-14 10:09:19,Consumer
+CUST-000107,Ashley,Reyes,ashley.reyes107@proton.me,F,36,Salt Lake City,UT,2024-12-08 13:47:54,Consumer
+CUST-000108,Gary,Adams,gary.adams108@yahoo.com,M,53,Miami,FL,2024-04-18 12:55:07,Consumer
+CUST-000109,Amanda,Scott,amanda.scott109@proton.me,F,43,Dallas,TX,2024-10-11 00:22:10,Consumer
+CUST-000110,Margaret,Hernandez,margaret.hernandez110@yahoo.com,F,25,Boston,MA,2024-09-07 20:12:48,Consumer
+CUST-000111,Carolyn,Stewart,carolyn.stewart111@fastmail.com,F,23,Miami,FL,2024-08-17 00:37:40,Small Business
+CUST-000112,Mark,Phillips,mark.phillips112@fastmail.com,M,41,San Diego,CA,2024-06-05 21:10:25,VIP
+CUST-000113,Stephen,Ortiz,stephen.ortiz113@outlook.com,M,33,Boston,MA,2024-10-08 12:02:37,Consumer
+CUST-000114,Ryan,Wright,ryan.wright114@outlook.com,M,44,Dallas,TX,2024-04-28 04:23:34,Small Business
+CUST-000115,Carol,Thomas,carol.thomas115@fastmail.com,F,41,Minneapolis,MN,2024-12-19 06:44:27,VIP
+CUST-000116,Jacob,Scott,jacob.scott116@fastmail.com,M,35,Charlotte,NC,2024-09-25 21:43:42,Small Business
+CUST-000117,Richard,Harris,richard.harris117@outlook.com,M,25,San Diego,CA,2024-07-03 06:31:59,Small Business
+CUST-000118,Patrick,Morgan,patrick.morgan118@yahoo.com,M,18,Dallas,TX,2024-01-24 01:59:06,Consumer
+CUST-000119,Carolyn,Taylor,carolyn.taylor119@fastmail.com,F,38,Miami,FL,2024-02-22 00:26:47,Small Business
+CUST-000120,Amy,Morris,amy.morris120@icloud.com,F,21,Austin,TX,2024-04-04 01:52:14,Corporate
+CUST-000121,Jacob,Anderson,jacob.anderson121@gmail.com,M,25,Denver,CO,2024-09-08 02:41:50,Consumer
+CUST-000122,Rachel,Miller,rachel.miller122@yahoo.com,F,37,Phoenix,AZ,2024-10-15 11:03:44,VIP
+CUST-000123,Donald,Thomas,donald.thomas123@proton.me,M,36,Boston,MA,2024-11-06 21:42:15,Small Business
+CUST-000124,Sandra,Gutierrez,sandra.gutierrez124@icloud.com,F,22,Atlanta,GA,2024-08-14 10:49:34,Corporate
+CUST-000125,Laura,Flores,laura.flores125@proton.me,F,48,Salt Lake City,UT,2024-01-31 22:11:45,Consumer
+CUST-000126,Susan,Clark,susan.clark126@fastmail.com,F,48,San Antonio,TX,2024-05-15 02:57:21,Consumer
+CUST-000127,Daniel,Peterson,daniel.peterson127@gmail.com,M,42,Philadelphia,PA,2024-01-02 14:52:25,Small Business
+CUST-000128,Scott,Stewart,scott.stewart128@outlook.com,M,42,Los Angeles,CA,2024-04-28 10:29:22,Small Business
+CUST-000129,Carolyn,Collins,carolyn.collins129@gmail.com,F,42,San Diego,CA,2024-05-15 22:45:27,Corporate
+CUST-000130,Margaret,Diaz,margaret.diaz130@gmail.com,F,72,Minneapolis,MN,2024-04-25 23:34:46,Consumer
+CUST-000131,Paul,Jackson,paul.jackson131@gmail.com,M,47,Los Angeles,CA,2024-03-25 11:11:59,Small Business
+CUST-000132,Emma,Torres,emma.torres132@icloud.com,F,43,Houston,TX,2024-08-27 11:04:17,Consumer
+CUST-000133,Emily,Cook,emily.cook133@proton.me,F,26,Miami,FL,2024-08-12 02:55:43,Consumer
+CUST-000134,Laura,Adams,laura.adams134@proton.me,F,33,Dallas,TX,2024-01-14 03:19:30,Consumer
+CUST-000135,Alexander,Williams,alexander.williams135@fastmail.com,M,63,Dallas,TX,2024-10-22 01:27:53,Consumer
+CUST-000136,Lisa,Stewart,lisa.stewart136@proton.me,F,18,Atlanta,GA,2024-05-22 06:36:28,Consumer
+CUST-000137,Karen,Morales,karen.morales137@gmail.com,Other,30,Miami,FL,2024-06-27 14:52:03,Consumer
+CUST-000138,Gregory,Wilson,gregory.wilson138@yahoo.com,M,49,Austin,TX,2024-07-29 18:02:22,Consumer
+CUST-000139,Ronald,Peterson,ronald.peterson139@gmail.com,M,27,Atlanta,GA,2024-02-15 11:27:04,Consumer
+CUST-000140,Joseph,Phillips,joseph.phillips140@proton.me,M,44,New York,NY,2024-12-02 19:45:18,Consumer
+CUST-000141,Michael,Harris,michael.harris141@proton.me,M,36,Seattle,WA,2024-11-14 18:08:58,Consumer
+CUST-000142,Linda,Clark,linda.clark142@outlook.com,F,28,Minneapolis,MN,2024-03-08 10:29:12,Consumer
+CUST-000143,Frank,Morales,frank.morales143@gmail.com,M,18,New York,NY,2024-11-18 22:10:06,Corporate
+CUST-000144,Janet,Lee,janet.lee144@outlook.com,F,38,Minneapolis,MN,2024-01-08 20:06:24,Consumer
+CUST-000145,Mark,Anderson,mark.anderson145@icloud.com,M,26,Houston,TX,2024-11-27 05:36:21,Consumer
+CUST-000146,Janet,Nguyen,janet.nguyen146@proton.me,F,34,Dallas,TX,2024-07-31 17:34:02,VIP
+CUST-000147,Gary,Collins,gary.collins147@proton.me,Other,42,Phoenix,AZ,2024-07-15 06:56:23,Consumer
+CUST-000148,Shirley,Moore,shirley.moore148@gmail.com,F,46,Dallas,TX,2024-07-31 12:22:28,Consumer
+CUST-000149,Shirley,Wright,shirley.wright149@gmail.com,F,30,San Jose,CA,2024-06-01 21:22:11,Consumer
+CUST-000150,Debra,Morales,debra.morales150@yahoo.com,F,28,Atlanta,GA,2024-10-02 17:38:03,Corporate
+CUST-000151,Stephen,Cooper,stephen.cooper151@icloud.com,M,20,Atlanta,GA,2024-06-13 06:52:07,VIP
+CUST-000152,Jacob,Roberts,jacob.roberts152@yahoo.com,Other,47,Boston,MA,2024-01-23 11:35:04,Corporate
+CUST-000153,Janet,Carter,janet.carter153@icloud.com,F,61,Phoenix,AZ,2024-09-10 01:20:52,Consumer
+CUST-000154,Justin,Nelson,justin.nelson154@gmail.com,M,48,Atlanta,GA,2024-02-21 19:08:57,Consumer
+CUST-000155,Mary,Jackson,mary.jackson155@icloud.com,F,51,Phoenix,AZ,2024-02-08 17:05:37,Consumer
+CUST-000156,Kimberly,Baker,kimberly.baker156@proton.me,F,27,Denver,CO,2024-11-28 02:55:27,Consumer
+CUST-000157,Rachel,Morgan,rachel.morgan157@icloud.com,F,41,Austin,TX,2024-11-16 17:45:56,Consumer
+CUST-000158,Jennifer,Rodriguez,jennifer.rodriguez158@yahoo.com,F,45,San Jose,CA,2024-04-26 03:17:26,Consumer
+CUST-000159,Richard,Gonzalez,richard.gonzalez159@icloud.com,M,18,Philadelphia,PA,2024-12-21 10:54:11,Consumer
+CUST-000160,Jennifer,Adams,jennifer.adams160@gmail.com,F,23,San Jose,CA,2024-07-02 13:38:51,Consumer
+CUST-000161,Donald,Ortiz,donald.ortiz161@icloud.com,M,55,Charlotte,NC,2024-12-15 06:33:20,Consumer
+CUST-000162,William,Carter,william.carter162@proton.me,M,18,San Diego,CA,2024-09-11 21:13:55,Consumer
+CUST-000163,Ryan,Allen,ryan.allen163@icloud.com,M,53,Dallas,TX,2024-12-07 00:20:31,Consumer
+CUST-000164,Kathleen,Torres,kathleen.torres164@fastmail.com,F,18,Minneapolis,MN,2024-03-21 02:41:21,Small Business
+CUST-000165,Brian,Hill,brian.hill165@fastmail.com,M,24,Boston,MA,2024-12-19 09:06:20,Consumer
+CUST-000166,Joshua,Sanchez,joshua.sanchez166@icloud.com,M,41,Miami,FL,2024-02-24 08:38:11,Consumer
+CUST-000167,Brian,Nguyen,brian.nguyen167@fastmail.com,M,36,San Jose,CA,2024-01-12 23:57:55,Small Business
+CUST-000168,James,Miller,james.miller168@proton.me,M,31,Miami,FL,2024-05-26 08:22:42,Consumer
+CUST-000169,Melissa,Lewis,melissa.lewis169@fastmail.com,F,55,San Antonio,TX,2024-11-13 09:07:30,Consumer
+CUST-000170,Maria,Moore,maria.moore170@fastmail.com,F,21,Houston,TX,2024-11-17 23:31:57,Consumer
+CUST-000171,Jeffrey,Jones,jeffrey.jones171@proton.me,M,34,Seattle,WA,2024-03-08 03:16:53,VIP
+CUST-000172,Carol,Turner,carol.turner172@yahoo.com,F,43,San Antonio,TX,2024-03-08 19:38:21,Small Business
+CUST-000173,Deborah,Ortiz,deborah.ortiz173@proton.me,F,39,Dallas,TX,2024-03-25 09:21:21,Consumer
+CUST-000174,Amy,Nguyen,amy.nguyen174@fastmail.com,F,28,Austin,TX,2024-02-28 17:03:05,Consumer
+CUST-000175,Karen,Lewis,karen.lewis175@fastmail.com,F,28,Denver,CO,2024-10-12 13:19:02,Consumer
+CUST-000176,Ronald,Johnson,ronald.johnson176@outlook.com,M,46,Minneapolis,MN,2024-03-04 16:33:29,Corporate
+CUST-000177,Alexander,King,alexander.king177@proton.me,M,46,Denver,CO,2024-11-22 13:31:29,Corporate
+CUST-000178,Mark,Stewart,mark.stewart178@gmail.com,M,39,Salt Lake City,UT,2024-10-14 11:56:32,Small Business
+CUST-000179,Sandra,Rodriguez,sandra.rodriguez179@fastmail.com,F,26,Atlanta,GA,2024-12-24 11:00:08,Corporate
+CUST-000180,Jessica,Moore,jessica.moore180@gmail.com,F,29,Los Angeles,CA,2024-06-04 17:56:09,Small Business
+CUST-000181,Donald,Morgan,donald.morgan181@yahoo.com,M,35,Denver,CO,2024-08-20 13:30:29,Consumer
+CUST-000182,Heather,Cooper,heather.cooper182@icloud.com,F,37,Charlotte,NC,2024-03-20 15:06:19,Corporate
+CUST-000183,Angela,Evans,angela.evans183@outlook.com,F,42,Los Angeles,CA,2024-12-19 13:29:26,Small Business
+CUST-000184,Jeffrey,Walker,jeffrey.walker184@outlook.com,M,33,Houston,TX,2024-12-17 13:22:27,Consumer
+CUST-000185,Christine,Rivera,christine.rivera185@gmail.com,F,45,Denver,CO,2024-05-21 06:54:38,Consumer
+CUST-000186,Kathleen,Lopez,kathleen.lopez186@fastmail.com,F,45,San Antonio,TX,2024-11-24 23:16:59,Small Business
+CUST-000187,Patricia,Miller,patricia.miller187@outlook.com,F,51,San Diego,CA,2024-03-05 20:33:20,Consumer
+CUST-000188,Stephen,Clark,stephen.clark188@proton.me,M,36,San Antonio,TX,2024-04-29 11:57:44,Small Business
+CUST-000189,Helen,Smith,helen.smith189@outlook.com,F,39,Phoenix,AZ,2024-03-07 19:40:07,VIP
+CUST-000190,Daniel,Anderson,daniel.anderson190@fastmail.com,M,34,New York,NY,2024-03-08 00:32:27,Consumer
+CUST-000191,Donald,Adams,donald.adams191@gmail.com,M,26,Philadelphia,PA,2024-05-15 01:54:28,Consumer
+CUST-000192,Timothy,Ortiz,timothy.ortiz192@gmail.com,M,61,Chicago,IL,2024-08-31 16:19:16,Consumer
+CUST-000193,Shirley,Wilson,shirley.wilson193@icloud.com,F,49,Portland,OR,2024-04-23 22:23:43,Corporate
+CUST-000194,Gregory,Gutierrez,gregory.gutierrez194@outlook.com,M,45,Atlanta,GA,2024-11-25 01:08:02,Corporate
+CUST-000195,Jacob,Phillips,jacob.phillips195@icloud.com,M,35,Houston,TX,2024-09-08 16:08:58,Consumer
+CUST-000196,William,Adams,william.adams196@proton.me,M,25,Phoenix,AZ,2024-02-03 04:35:40,Consumer
+CUST-000197,Benjamin,Peterson,benjamin.peterson197@fastmail.com,M,47,Austin,TX,2024-07-14 21:45:01,Consumer
+CUST-000198,Kathleen,Cook,kathleen.cook198@proton.me,F,34,Boston,MA,2024-02-20 04:09:56,Consumer
+CUST-000199,Christine,Peterson,christine.peterson199@fastmail.com,F,40,San Antonio,TX,2024-08-08 16:26:26,Consumer
+CUST-000200,Sharon,Baker,sharon.baker200@icloud.com,F,29,Denver,CO,2024-07-31 03:27:43,Consumer
+CUST-000201,Kenneth,Allen,kenneth.allen201@outlook.com,M,38,Phoenix,AZ,2024-12-17 17:16:03,Consumer
+CUST-000202,William,Lopez,william.lopez202@icloud.com,M,29,Houston,TX,2024-07-09 04:44:14,Small Business
+CUST-000203,Nicole,Bailey,nicole.bailey203@proton.me,F,30,Austin,TX,2024-12-09 04:27:01,Consumer
+CUST-000204,Gregory,Diaz,gregory.diaz204@fastmail.com,M,38,Los Angeles,CA,2024-05-27 21:51:36,VIP
+CUST-000205,Richard,Cook,richard.cook205@yahoo.com,M,18,Phoenix,AZ,2024-12-02 17:33:21,Small Business
+CUST-000206,Richard,Hall,richard.hall206@proton.me,M,19,Seattle,WA,2024-02-28 10:08:32,Small Business
+CUST-000207,Laura,Bailey,laura.bailey207@proton.me,F,27,Salt Lake City,UT,2024-12-11 23:23:59,Corporate
+CUST-000208,Helen,Wright,helen.wright208@gmail.com,F,33,Philadelphia,PA,2024-05-19 11:14:59,Consumer
+CUST-000209,Melissa,Smith,melissa.smith209@yahoo.com,F,46,Phoenix,AZ,2024-10-16 23:55:59,Consumer
+CUST-000210,Charles,Brown,charles.brown210@gmail.com,M,34,Portland,OR,2024-04-20 13:41:48,Consumer
+CUST-000211,Kevin,Lee,kevin.lee211@outlook.com,M,35,San Jose,CA,2024-06-15 20:39:55,Consumer
+CUST-000212,Linda,Martin,linda.martin212@yahoo.com,F,32,Salt Lake City,UT,2024-01-26 02:58:13,Consumer
+CUST-000213,Gregory,Diaz,gregory.diaz213@icloud.com,M,39,Salt Lake City,UT,2024-08-14 15:04:47,Corporate
+CUST-000214,Nicholas,Anderson,nicholas.anderson214@outlook.com,M,26,Boston,MA,2024-02-26 10:18:45,Consumer
+CUST-000215,Nicole,Morales,nicole.morales215@proton.me,F,34,San Jose,CA,2024-01-24 08:01:43,Consumer
+CUST-000216,Scott,Davis,scott.davis216@gmail.com,M,40,San Antonio,TX,2024-06-03 07:41:26,Small Business
+CUST-000217,Kimberly,Nguyen,kimberly.nguyen217@outlook.com,F,38,Houston,TX,2024-01-04 18:06:33,Consumer
+CUST-000218,Lisa,Taylor,lisa.taylor218@icloud.com,F,36,Minneapolis,MN,2024-12-26 08:22:41,Consumer
+CUST-000219,Debra,Rivera,debra.rivera219@gmail.com,F,36,Denver,CO,2024-01-22 15:52:56,Consumer
+CUST-000220,David,Green,david.green220@proton.me,M,41,Boston,MA,2024-10-20 14:43:28,Corporate
+CUST-000221,Sharon,Nguyen,sharon.nguyen221@gmail.com,F,61,Denver,CO,2024-01-11 11:49:28,Consumer
+CUST-000222,Brandon,Collins,brandon.collins222@fastmail.com,M,26,Seattle,WA,2024-02-15 15:54:00,Small Business
+CUST-000223,Ashley,Parker,ashley.parker223@proton.me,F,62,Denver,CO,2024-09-25 02:51:48,Consumer
+CUST-000224,Joshua,Baker,joshua.baker224@yahoo.com,M,26,Austin,TX,2024-03-27 02:46:51,Consumer
+CUST-000225,Jessica,Ortiz,jessica.ortiz225@proton.me,F,18,San Antonio,TX,2024-06-27 12:46:59,Consumer
+CUST-000226,Christine,Jackson,christine.jackson226@yahoo.com,F,29,Houston,TX,2024-03-15 09:19:10,Consumer
+CUST-000227,Scott,Martin,scott.martin227@fastmail.com,M,40,Chicago,IL,2024-03-31 22:51:46,Consumer
+CUST-000228,Emma,Edwards,emma.edwards228@fastmail.com,F,58,Charlotte,NC,2024-11-25 23:07:49,Small Business
+CUST-000229,Samuel,Green,samuel.green229@yahoo.com,Other,25,Atlanta,GA,2024-02-04 17:04:22,Small Business
+CUST-000230,Joshua,Scott,joshua.scott230@proton.me,M,41,Los Angeles,CA,2024-06-29 18:28:17,Small Business
+CUST-000231,Ryan,Edwards,ryan.edwards231@gmail.com,M,20,Los Angeles,CA,2024-07-07 10:27:07,Small Business
+CUST-000232,William,Cook,william.cook232@icloud.com,M,57,Atlanta,GA,2024-10-24 20:10:55,Small Business
+CUST-000233,Heather,Garcia,heather.garcia233@icloud.com,F,50,Charlotte,NC,2024-11-29 06:51:12,VIP
+CUST-000234,Jacob,Cook,jacob.cook234@yahoo.com,M,30,Los Angeles,CA,2024-08-18 03:46:06,Consumer
+CUST-000235,Amanda,Hernandez,amanda.hernandez235@proton.me,F,18,Philadelphia,PA,2024-01-21 09:01:12,VIP
+CUST-000236,Cynthia,Ortiz,cynthia.ortiz236@proton.me,F,52,Salt Lake City,UT,2024-03-22 13:14:56,Small Business
+CUST-000237,Andrew,Roberts,andrew.roberts237@icloud.com,M,34,Austin,TX,2024-12-13 21:46:06,Consumer
+CUST-000238,Benjamin,Nelson,benjamin.nelson238@gmail.com,M,50,Austin,TX,2024-02-18 20:18:53,Consumer
+CUST-000239,Donna,Allen,donna.allen239@fastmail.com,F,36,Salt Lake City,UT,2024-03-17 12:08:14,Corporate
+CUST-000240,Gregory,Jackson,gregory.jackson240@outlook.com,M,36,San Jose,CA,2024-12-01 14:16:14,Small Business
+CUST-000241,Patrick,Hernandez,patrick.hernandez241@outlook.com,M,30,Minneapolis,MN,2024-07-11 23:25:43,Consumer
+CUST-000242,Sarah,Ortiz,sarah.ortiz242@gmail.com,F,43,Boston,MA,2024-09-17 13:10:25,Consumer
+CUST-000243,Joshua,White,joshua.white243@yahoo.com,M,37,Austin,TX,2024-09-05 06:59:26,Consumer
+CUST-000244,Thomas,Martin,thomas.martin244@gmail.com,M,42,San Jose,CA,2024-02-21 18:29:03,Corporate
+CUST-000245,Heather,Ortiz,heather.ortiz245@gmail.com,F,18,Austin,TX,2024-11-12 04:46:16,Consumer
+CUST-000246,Karen,Lee,karen.lee246@yahoo.com,F,51,Salt Lake City,UT,2024-03-25 15:56:06,Corporate
+CUST-000247,George,Walker,george.walker247@icloud.com,M,54,Salt Lake City,UT,2024-05-25 16:20:41,Consumer
+CUST-000248,Donald,Flores,donald.flores248@icloud.com,M,37,San Antonio,TX,2024-07-07 20:46:06,Small Business
+CUST-000249,Betty,Torres,betty.torres249@icloud.com,Other,60,Portland,OR,2024-09-27 15:14:34,Small Business
+CUST-000250,Margaret,Moore,margaret.moore250@outlook.com,F,57,Los Angeles,CA,2024-11-24 17:29:51,Consumer
+CUST-000251,Pamela,Wilson,pamela.wilson251@fastmail.com,F,43,Portland,OR,2024-03-04 10:22:43,Corporate
+CUST-000252,Christopher,Wright,christopher.wright252@icloud.com,M,52,Portland,OR,2024-03-16 15:55:40,Consumer
+CUST-000253,Mark,Edwards,mark.edwards253@outlook.com,M,48,New York,NY,2024-07-31 01:56:20,Consumer
+CUST-000254,George,Walker,george.walker254@icloud.com,M,18,Chicago,IL,2024-07-10 08:10:30,Consumer
+CUST-000255,Richard,Nelson,richard.nelson255@yahoo.com,M,32,Phoenix,AZ,2024-01-20 10:26:41,Consumer
+CUST-000256,Amy,Moore,amy.moore256@fastmail.com,F,44,Miami,FL,2024-08-17 22:24:14,Corporate
+CUST-000257,William,Williams,william.williams257@outlook.com,M,55,San Antonio,TX,2024-03-17 19:58:52,Small Business
+CUST-000258,Helen,Ortiz,helen.ortiz258@icloud.com,F,19,Houston,TX,2024-05-27 08:39:07,Small Business
+CUST-000259,Michael,Walker,michael.walker259@icloud.com,M,18,Salt Lake City,UT,2024-08-22 02:17:12,Consumer
+CUST-000260,Gary,Morgan,gary.morgan260@gmail.com,M,35,Portland,OR,2024-10-21 08:48:31,VIP
+CUST-000261,Donna,Diaz,donna.diaz261@gmail.com,F,18,Salt Lake City,UT,2024-06-29 08:45:31,Consumer
+CUST-000262,Lisa,Hernandez,lisa.hernandez262@proton.me,F,34,Seattle,WA,2024-02-04 19:09:11,Consumer
+CUST-000263,Shirley,Peterson,shirley.peterson263@gmail.com,F,40,Denver,CO,2024-08-28 01:35:06,Consumer
+CUST-000264,Deborah,Allen,deborah.allen264@fastmail.com,F,24,New York,NY,2024-07-01 02:27:35,Consumer
+CUST-000265,Gregory,Wilson,gregory.wilson265@proton.me,M,35,Austin,TX,2024-03-09 01:36:51,Corporate
+CUST-000266,Kevin,Thompson,kevin.thompson266@fastmail.com,M,47,Atlanta,GA,2024-12-22 17:25:22,Consumer
+CUST-000267,Sarah,Rodriguez,sarah.rodriguez267@fastmail.com,F,29,Atlanta,GA,2024-01-19 10:41:02,Consumer
+CUST-000268,Matthew,Garcia,matthew.garcia268@outlook.com,M,26,San Jose,CA,2024-09-20 14:29:56,Consumer
+CUST-000269,Deborah,Stewart,deborah.stewart269@outlook.com,Other,34,Los Angeles,CA,2024-11-27 06:57:28,Consumer
+CUST-000270,Michael,Nelson,michael.nelson270@outlook.com,M,23,Houston,TX,2024-07-07 15:54:32,Consumer
+CUST-000271,Heather,Cruz,heather.cruz271@icloud.com,F,59,Austin,TX,2024-04-05 18:03:58,Consumer
+CUST-000272,Deborah,Gutierrez,deborah.gutierrez272@outlook.com,F,36,Chicago,IL,2024-08-05 02:52:25,Corporate
+CUST-000273,Daniel,Cooper,daniel.cooper273@outlook.com,M,27,Austin,TX,2024-02-22 02:54:54,Small Business
+CUST-000274,Andrew,Flores,andrew.flores274@icloud.com,M,38,Salt Lake City,UT,2024-08-06 06:04:02,Small Business
+CUST-000275,Melissa,Edwards,melissa.edwards275@gmail.com,F,34,Seattle,WA,2024-11-10 15:50:08,Small Business
+CUST-000276,Michael,Martinez,michael.martinez276@fastmail.com,M,33,Denver,CO,2024-07-05 18:40:51,Corporate
+CUST-000277,Rachel,Lee,rachel.lee277@gmail.com,F,29,Phoenix,AZ,2024-11-07 15:57:12,Consumer
+CUST-000278,David,Walker,david.walker278@fastmail.com,M,29,Seattle,WA,2024-07-04 13:56:21,Consumer
+CUST-000279,Jennifer,Martin,jennifer.martin279@fastmail.com,F,18,Atlanta,GA,2024-07-08 13:32:40,Consumer
+CUST-000280,David,Moore,david.moore280@proton.me,M,52,Seattle,WA,2024-07-22 11:26:47,Corporate
+CUST-000281,Ashley,Anderson,ashley.anderson281@gmail.com,F,42,Philadelphia,PA,2024-09-12 18:51:01,Consumer
+CUST-000282,Stephen,Thomas,stephen.thomas282@outlook.com,M,39,Dallas,TX,2024-12-26 16:14:53,Consumer
+CUST-000283,Brandon,Torres,brandon.torres283@fastmail.com,M,34,Miami,FL,2024-04-12 04:27:54,Consumer
+CUST-000284,David,Edwards,david.edwards284@yahoo.com,M,24,Atlanta,GA,2024-02-14 11:38:09,Consumer
+CUST-000285,Janet,Rodriguez,janet.rodriguez285@proton.me,F,26,Minneapolis,MN,2024-05-28 10:55:15,Consumer
+CUST-000286,Janet,Thompson,janet.thompson286@outlook.com,F,18,Portland,OR,2024-04-24 04:25:07,Consumer
+CUST-000287,Paul,Walker,paul.walker287@icloud.com,Other,28,New York,NY,2024-07-03 20:10:16,Consumer
+CUST-000288,Kathleen,Peterson,kathleen.peterson288@yahoo.com,F,23,Salt Lake City,UT,2024-02-14 02:23:37,Small Business
+CUST-000289,Patrick,Morris,patrick.morris289@proton.me,M,56,Boston,MA,2024-07-28 20:55:53,Corporate
+CUST-000290,Kenneth,Martinez,kenneth.martinez290@icloud.com,M,46,Atlanta,GA,2024-12-14 18:50:11,Consumer
+CUST-000291,Stephen,White,stephen.white291@yahoo.com,M,36,Boston,MA,2024-09-14 02:01:03,Consumer
+CUST-000292,Anna,Martin,anna.martin292@outlook.com,F,25,Philadelphia,PA,2024-03-23 11:44:51,Corporate
+CUST-000293,Sandra,Hall,sandra.hall293@proton.me,F,23,San Jose,CA,2024-02-10 09:07:27,Consumer
+CUST-000294,Stephen,Scott,stephen.scott294@yahoo.com,M,33,San Jose,CA,2024-11-10 19:25:24,Consumer
+CUST-000295,Samuel,Perez,samuel.perez295@proton.me,M,47,Charlotte,NC,2024-03-19 06:13:59,Consumer
+CUST-000296,Maria,Baker,maria.baker296@proton.me,F,58,Los Angeles,CA,2024-01-15 02:57:26,VIP
+CUST-000297,Samuel,King,samuel.king297@fastmail.com,M,19,San Antonio,TX,2024-10-19 15:10:02,Consumer
+CUST-000298,Patricia,Murphy,patricia.murphy298@fastmail.com,F,42,Minneapolis,MN,2024-05-28 23:22:16,Consumer
+CUST-000299,Amy,Young,amy.young299@fastmail.com,F,28,Denver,CO,2024-06-01 16:30:46,Consumer
+CUST-000300,Michael,Lee,michael.lee300@icloud.com,M,30,Boston,MA,2024-09-04 16:54:35,Consumer
+CUST-000301,Scott,Jackson,scott.jackson301@outlook.com,M,36,Austin,TX,2024-06-25 14:31:00,Consumer
+CUST-000302,George,Rogers,george.rogers302@proton.me,M,26,Houston,TX,2024-06-12 08:48:05,VIP
+CUST-000303,Paul,Edwards,paul.edwards303@yahoo.com,M,33,Phoenix,AZ,2024-02-19 01:50:32,VIP
+CUST-000304,Edward,Turner,edward.turner304@yahoo.com,M,25,Philadelphia,PA,2024-06-16 21:01:58,Small Business
+CUST-000305,Margaret,Lee,margaret.lee305@icloud.com,F,29,Portland,OR,2024-08-27 18:09:33,Consumer
+CUST-000306,Angela,Williams,angela.williams306@gmail.com,F,45,Denver,CO,2024-09-15 16:38:50,Corporate
+CUST-000307,Betty,Rivera,betty.rivera307@gmail.com,F,37,Los Angeles,CA,2024-05-24 18:01:06,Consumer
+CUST-000308,Christine,Stewart,christine.stewart308@outlook.com,F,45,Minneapolis,MN,2024-01-05 03:54:49,Consumer
+CUST-000309,Steven,Campbell,steven.campbell309@icloud.com,M,28,Seattle,WA,2024-01-24 14:35:05,Consumer
+CUST-000310,Stephen,Harris,stephen.harris310@outlook.com,M,42,Minneapolis,MN,2024-05-27 02:40:37,Consumer
+CUST-000311,Jeffrey,Peterson,jeffrey.peterson311@outlook.com,M,18,Salt Lake City,UT,2024-12-14 22:14:50,Consumer
+CUST-000312,Richard,Gomez,richard.gomez312@outlook.com,M,36,Austin,TX,2024-10-12 13:18:40,Consumer
+CUST-000313,Margaret,Rogers,margaret.rogers313@icloud.com,F,43,Portland,OR,2024-01-21 01:38:58,Consumer
+CUST-000314,Patrick,Nelson,patrick.nelson314@icloud.com,M,18,Portland,OR,2024-08-21 05:25:21,Consumer
+CUST-000315,Shirley,Moore,shirley.moore315@outlook.com,F,28,Salt Lake City,UT,2024-06-12 05:54:59,Consumer
+CUST-000316,Brandon,Hill,brandon.hill316@proton.me,M,36,Austin,TX,2024-09-16 18:33:29,Consumer
+CUST-000317,Janet,Hill,janet.hill317@icloud.com,F,48,New York,NY,2024-07-07 12:03:36,Consumer
+CUST-000318,Sharon,Flores,sharon.flores318@fastmail.com,F,29,New York,NY,2024-11-01 17:16:45,Corporate
+CUST-000319,Samuel,Robinson,samuel.robinson319@fastmail.com,M,42,Los Angeles,CA,2024-10-25 17:29:33,Consumer
+CUST-000320,Benjamin,Carter,benjamin.carter320@yahoo.com,M,53,San Diego,CA,2024-01-17 20:50:47,Consumer
+CUST-000321,Jessica,Harris,jessica.harris321@gmail.com,F,42,Atlanta,GA,2024-06-09 15:14:50,Small Business
+CUST-000322,Frank,Clark,frank.clark322@icloud.com,M,33,Portland,OR,2024-11-09 17:10:14,VIP
+CUST-000323,Heather,Davis,heather.davis323@fastmail.com,F,40,Phoenix,AZ,2024-09-22 07:32:56,Small Business
+CUST-000324,Debra,Morris,debra.morris324@proton.me,F,28,Denver,CO,2024-06-09 06:18:19,Consumer
+CUST-000325,Jonathan,Baker,jonathan.baker325@proton.me,M,37,Seattle,WA,2024-12-12 23:25:19,Consumer
+CUST-000326,Kimberly,Morris,kimberly.morris326@yahoo.com,F,34,San Diego,CA,2024-05-22 20:19:09,Small Business
+CUST-000327,Joshua,Torres,joshua.torres327@fastmail.com,M,40,San Antonio,TX,2024-12-19 17:48:14,Consumer
+CUST-000328,Brian,Bailey,brian.bailey328@fastmail.com,M,31,Dallas,TX,2024-05-27 04:26:14,Consumer
+CUST-000329,Brenda,Carter,brenda.carter329@icloud.com,F,40,Seattle,WA,2024-03-15 10:34:30,Corporate
+CUST-000330,Patrick,Hernandez,patrick.hernandez330@outlook.com,M,30,Atlanta,GA,2024-12-01 09:20:12,Consumer
+CUST-000331,Betty,Sanchez,betty.sanchez331@proton.me,F,46,Dallas,TX,2024-10-14 09:53:21,Consumer
+CUST-000332,Brandon,Walker,brandon.walker332@yahoo.com,M,32,Los Angeles,CA,2024-12-08 19:20:04,Small Business
+CUST-000333,Mark,Miller,mark.miller333@gmail.com,M,18,Boston,MA,2024-06-18 17:11:58,Consumer
+CUST-000334,Thomas,Smith,thomas.smith334@proton.me,M,23,Philadelphia,PA,2024-07-27 23:46:15,Consumer
+CUST-000335,Amy,Morris,amy.morris335@fastmail.com,F,36,San Antonio,TX,2024-05-27 11:41:36,Consumer
+CUST-000336,Michael,Lopez,michael.lopez336@fastmail.com,M,56,Charlotte,NC,2024-04-28 19:29:03,Small Business
+CUST-000337,Jennifer,Thompson,jennifer.thompson337@icloud.com,F,45,Philadelphia,PA,2024-01-19 14:27:14,Small Business
+CUST-000338,Lisa,Nguyen,lisa.nguyen338@gmail.com,F,18,New York,NY,2024-06-01 20:40:43,Consumer
+CUST-000339,Amanda,Torres,amanda.torres339@icloud.com,F,18,Minneapolis,MN,2024-09-25 17:58:58,Consumer
+CUST-000340,Sarah,Cook,sarah.cook340@icloud.com,F,49,Dallas,TX,2024-04-08 04:06:04,Corporate
+CUST-000341,Ryan,Allen,ryan.allen341@fastmail.com,M,43,Philadelphia,PA,2024-01-08 12:16:25,Small Business
+CUST-000342,Emma,Harris,emma.harris342@yahoo.com,F,63,Salt Lake City,UT,2024-11-23 14:45:48,Corporate
+CUST-000343,Shirley,Adams,shirley.adams343@gmail.com,F,30,Denver,CO,2024-12-08 03:28:22,Consumer
+CUST-000344,Thomas,Morris,thomas.morris344@outlook.com,M,25,San Diego,CA,2024-01-04 09:29:41,Corporate
+CUST-000345,Jeffrey,Wright,jeffrey.wright345@outlook.com,M,36,San Jose,CA,2024-10-25 20:51:28,Corporate
+CUST-000346,Samuel,Campbell,samuel.campbell346@fastmail.com,M,30,San Diego,CA,2024-02-01 04:18:15,Small Business
+CUST-000347,Christopher,Phillips,christopher.phillips347@fastmail.com,M,48,Portland,OR,2024-12-26 11:19:20,Consumer
+CUST-000348,Katherine,Nguyen,katherine.nguyen348@outlook.com,F,29,Salt Lake City,UT,2024-04-23 07:58:41,Small Business
+CUST-000349,Amy,Martin,amy.martin349@icloud.com,F,32,Salt Lake City,UT,2024-07-10 15:08:25,Corporate
+CUST-000350,Amy,Morgan,amy.morgan350@fastmail.com,F,24,San Antonio,TX,2024-05-06 21:41:34,Consumer
+CUST-000351,Barbara,Ortiz,barbara.ortiz351@icloud.com,F,45,Portland,OR,2024-12-26 13:10:19,Corporate
+CUST-000352,Larry,Anderson,larry.anderson352@gmail.com,M,24,Minneapolis,MN,2024-09-15 07:21:37,Consumer
+CUST-000353,Karen,Perez,karen.perez353@outlook.com,F,40,Portland,OR,2024-08-14 04:13:55,Consumer
+CUST-000354,Janet,Morales,janet.morales354@gmail.com,F,58,Portland,OR,2024-08-16 02:01:32,Consumer
+CUST-000355,Nicholas,Turner,nicholas.turner355@icloud.com,M,18,Charlotte,NC,2024-01-30 20:20:42,Consumer
+CUST-000356,Joshua,Williams,joshua.williams356@icloud.com,M,53,Dallas,TX,2024-01-02 07:56:00,Small Business
+CUST-000357,Jennifer,Diaz,jennifer.diaz357@outlook.com,F,39,Chicago,IL,2024-10-04 02:11:37,Consumer
+CUST-000358,Elizabeth,Stewart,elizabeth.stewart358@gmail.com,F,22,San Jose,CA,2024-07-28 06:33:10,Consumer
+CUST-000359,Christine,Turner,christine.turner359@outlook.com,F,37,Denver,CO,2024-08-17 13:44:39,Corporate
+CUST-000360,Alexander,Cooper,alexander.cooper360@yahoo.com,M,44,Seattle,WA,2024-03-01 06:29:52,Small Business
+CUST-000361,Elizabeth,Ortiz,elizabeth.ortiz361@yahoo.com,Other,26,San Diego,CA,2024-01-02 00:49:39,Consumer
+CUST-000362,Kathleen,Cooper,kathleen.cooper362@icloud.com,F,41,Minneapolis,MN,2024-07-13 08:21:42,Consumer
+CUST-000363,Brian,Martin,brian.martin363@outlook.com,M,55,San Antonio,TX,2024-02-27 01:10:22,Small Business
+CUST-000364,Sharon,Williams,sharon.williams364@yahoo.com,F,29,San Antonio,TX,2024-02-04 03:40:24,Small Business
+CUST-000365,Cynthia,Miller,cynthia.miller365@yahoo.com,F,24,Los Angeles,CA,2024-07-24 15:58:55,VIP
+CUST-000366,Anthony,Davis,anthony.davis366@yahoo.com,M,34,Portland,OR,2024-05-28 08:31:32,Small Business
+CUST-000367,Maria,Green,maria.green367@proton.me,F,36,Salt Lake City,UT,2024-12-10 11:40:30,Consumer
+CUST-000368,Charles,Gutierrez,charles.gutierrez368@yahoo.com,M,49,Boston,MA,2024-06-02 10:01:04,Consumer
+CUST-000369,Justin,Thompson,justin.thompson369@fastmail.com,M,34,Boston,MA,2024-10-11 18:02:42,Small Business
+CUST-000370,Brian,Carter,brian.carter370@proton.me,M,30,Austin,TX,2024-12-22 15:09:28,Consumer
+CUST-000371,Joshua,Carter,joshua.carter371@yahoo.com,M,23,Minneapolis,MN,2024-08-30 08:46:24,Consumer
+CUST-000372,Michelle,Jackson,michelle.jackson372@icloud.com,F,18,Los Angeles,CA,2024-10-14 15:01:30,Small Business
+CUST-000373,Pamela,Ortiz,pamela.ortiz373@yahoo.com,F,20,Denver,CO,2024-05-04 09:17:02,Corporate
+CUST-000374,Samuel,Hernandez,samuel.hernandez374@icloud.com,M,20,Seattle,WA,2024-02-17 19:30:06,Consumer
+CUST-000375,Margaret,Miller,margaret.miller375@outlook.com,F,32,Denver,CO,2024-12-10 22:01:34,Consumer
+CUST-000376,Elizabeth,Harris,elizabeth.harris376@proton.me,F,18,Minneapolis,MN,2024-04-21 17:27:15,Consumer
+CUST-000377,Kevin,Hill,kevin.hill377@gmail.com,M,18,San Antonio,TX,2024-04-07 04:16:16,Small Business
+CUST-000378,Amy,Young,amy.young378@fastmail.com,F,35,Salt Lake City,UT,2024-12-26 07:26:45,Consumer
+CUST-000379,Donald,Peterson,donald.peterson379@outlook.com,M,58,San Jose,CA,2024-07-13 16:58:32,Consumer
+CUST-000380,Melissa,Flores,melissa.flores380@outlook.com,F,49,Seattle,WA,2024-09-19 18:06:19,Corporate
+CUST-000381,Jacob,Green,jacob.green381@yahoo.com,M,32,Seattle,WA,2024-06-09 15:04:14,Consumer
+CUST-000382,Mark,Jackson,mark.jackson382@gmail.com,M,22,Dallas,TX,2024-10-10 21:15:50,VIP
+CUST-000383,Sharon,Nguyen,sharon.nguyen383@yahoo.com,F,66,San Antonio,TX,2024-06-17 08:22:29,Consumer
+CUST-000384,Donald,Murphy,donald.murphy384@proton.me,M,36,Austin,TX,2024-05-11 17:47:24,Corporate
+CUST-000385,Christine,Morales,christine.morales385@icloud.com,F,38,Philadelphia,PA,2024-06-29 06:09:45,Consumer
+CUST-000386,Jonathan,Morales,jonathan.morales386@yahoo.com,M,34,Minneapolis,MN,2024-11-24 02:08:18,Consumer
+CUST-000387,Elizabeth,Miller,elizabeth.miller387@gmail.com,F,35,Boston,MA,2024-03-11 22:57:47,Consumer
+CUST-000388,Patrick,Martin,patrick.martin388@gmail.com,M,29,San Antonio,TX,2024-09-15 16:36:10,Consumer
+CUST-000389,Brandon,Morris,brandon.morris389@fastmail.com,M,32,Miami,FL,2024-01-09 00:14:26,Consumer
+CUST-000390,Sharon,Johnson,sharon.johnson390@gmail.com,F,54,Portland,OR,2024-05-20 19:30:20,Consumer
+CUST-000391,Patricia,Cook,patricia.cook391@fastmail.com,F,50,Boston,MA,2024-04-01 03:53:46,Consumer
+CUST-000392,Anna,Martin,anna.martin392@yahoo.com,F,18,San Antonio,TX,2024-11-13 19:10:03,Consumer
+CUST-000393,Brian,Wright,brian.wright393@icloud.com,M,19,Chicago,IL,2024-07-10 14:46:58,Consumer
+CUST-000394,Donald,Lewis,donald.lewis394@outlook.com,M,26,Chicago,IL,2024-11-30 23:39:42,Consumer
+CUST-000395,Barbara,Phillips,barbara.phillips395@icloud.com,F,47,Denver,CO,2024-10-09 17:19:50,Consumer
+CUST-000396,James,Perez,james.perez396@gmail.com,M,51,Miami,FL,2024-08-10 23:28:49,Consumer
+CUST-000397,Emma,Gonzalez,emma.gonzalez397@proton.me,F,44,Los Angeles,CA,2024-04-27 07:41:50,Consumer
+CUST-000398,Carolyn,Stewart,carolyn.stewart398@outlook.com,F,22,Los Angeles,CA,2024-02-08 10:12:29,Consumer
+CUST-000399,Emma,Jones,emma.jones399@yahoo.com,F,29,Austin,TX,2024-01-09 07:32:32,Corporate
+CUST-000400,Janet,Gomez,janet.gomez400@gmail.com,F,41,San Jose,CA,2024-03-24 20:31:59,Consumer
+CUST-000401,Edward,Cooper,edward.cooper401@outlook.com,M,33,Denver,CO,2024-03-12 02:51:19,Corporate
+CUST-000402,Melissa,Miller,melissa.miller402@gmail.com,F,31,Boston,MA,2024-04-28 02:46:03,Small Business
+CUST-000403,Brandon,Gomez,brandon.gomez403@outlook.com,M,31,New York,NY,2024-11-20 09:57:05,Corporate
+CUST-000404,Cynthia,Morales,cynthia.morales404@yahoo.com,F,49,Seattle,WA,2024-10-10 13:40:07,Consumer
+CUST-000405,Alexander,Carter,alexander.carter405@gmail.com,M,43,Salt Lake City,UT,2024-05-31 08:58:22,Consumer
+CUST-000406,Barbara,Wright,barbara.wright406@yahoo.com,F,32,Denver,CO,2024-12-30 23:04:46,Consumer
+CUST-000407,Edward,Green,edward.green407@outlook.com,M,39,Houston,TX,2024-02-16 00:11:20,Consumer
+CUST-000408,Cynthia,Campbell,cynthia.campbell408@outlook.com,F,20,Houston,TX,2024-03-08 03:10:42,Small Business
+CUST-000409,Jeffrey,Bailey,jeffrey.bailey409@proton.me,M,29,Portland,OR,2024-07-27 03:45:38,Consumer
+CUST-000410,Brian,Peterson,brian.peterson410@gmail.com,M,48,Salt Lake City,UT,2024-11-02 11:48:43,Consumer
+CUST-000411,Mary,Nguyen,mary.nguyen411@icloud.com,F,18,Denver,CO,2024-02-13 20:22:19,Consumer
+CUST-000412,Ashley,Gutierrez,ashley.gutierrez412@yahoo.com,F,43,Denver,CO,2024-03-27 05:03:18,Consumer
+CUST-000413,Paul,Murphy,paul.murphy413@yahoo.com,M,18,Chicago,IL,2024-03-26 15:49:33,Consumer
+CUST-000414,Joshua,Morris,joshua.morris414@gmail.com,M,56,Seattle,WA,2024-05-08 08:58:41,Small Business
+CUST-000415,Angela,Sanchez,angela.sanchez415@icloud.com,F,29,Houston,TX,2024-03-10 11:05:32,Small Business
+CUST-000416,Ronald,Nelson,ronald.nelson416@proton.me,M,40,Denver,CO,2024-06-17 16:01:40,Consumer
+CUST-000417,Samuel,Moore,samuel.moore417@outlook.com,M,37,Austin,TX,2024-11-04 07:18:46,Consumer
+CUST-000418,Daniel,Gomez,daniel.gomez418@outlook.com,M,37,San Jose,CA,2024-12-21 23:02:35,Consumer
+CUST-000419,Emma,Young,emma.young419@outlook.com,F,39,Denver,CO,2024-05-23 14:18:22,Consumer
+CUST-000420,Larry,Sanchez,larry.sanchez420@proton.me,M,18,Minneapolis,MN,2024-04-02 20:01:42,Consumer
+CUST-000421,Ryan,Clark,ryan.clark421@icloud.com,M,38,San Jose,CA,2024-12-20 02:31:04,VIP
+CUST-000422,Sharon,Murphy,sharon.murphy422@yahoo.com,F,33,San Jose,CA,2024-05-03 09:11:59,Consumer
+CUST-000423,Janet,Diaz,janet.diaz423@icloud.com,F,29,Chicago,IL,2024-08-17 21:46:12,Consumer
+CUST-000424,Ronald,Morgan,ronald.morgan424@proton.me,M,26,Boston,MA,2024-10-05 01:20:18,Small Business
+CUST-000425,Deborah,Morgan,deborah.morgan425@proton.me,F,38,Chicago,IL,2024-02-25 09:02:16,Consumer
+CUST-000426,Melissa,Perez,melissa.perez426@fastmail.com,F,24,Salt Lake City,UT,2024-01-23 20:30:22,Consumer
+CUST-000427,Katherine,Phillips,katherine.phillips427@outlook.com,Other,48,Boston,MA,2024-02-24 00:23:02,Consumer
+CUST-000428,Mark,Rogers,mark.rogers428@fastmail.com,M,41,Portland,OR,2024-10-12 21:08:09,Consumer
+CUST-000429,Sandra,Edwards,sandra.edwards429@outlook.com,F,39,Denver,CO,2024-08-25 21:25:47,Consumer
+CUST-000430,Karen,Hall,karen.hall430@gmail.com,F,47,Miami,FL,2024-02-23 10:45:22,Corporate
+CUST-000431,William,Anderson,william.anderson431@fastmail.com,M,18,Phoenix,AZ,2024-06-27 11:21:20,Consumer
+CUST-000432,Anthony,Gutierrez,anthony.gutierrez432@icloud.com,M,20,Seattle,WA,2024-08-31 03:33:15,Consumer
+CUST-000433,Frank,Edwards,frank.edwards433@outlook.com,M,42,Chicago,IL,2024-06-02 01:37:36,Consumer
+CUST-000434,Jessica,Williams,jessica.williams434@outlook.com,F,27,Houston,TX,2024-12-12 05:59:02,Consumer
+CUST-000435,Heather,Young,heather.young435@proton.me,F,28,Philadelphia,PA,2024-10-09 05:49:49,Consumer
+CUST-000436,Jason,Reyes,jason.reyes436@yahoo.com,M,19,Denver,CO,2024-11-18 06:42:56,Consumer
+CUST-000437,Gregory,Parker,gregory.parker437@icloud.com,M,24,New York,NY,2024-11-10 07:11:03,Consumer
+CUST-000438,Jason,Roberts,jason.roberts438@gmail.com,M,48,San Antonio,TX,2024-04-15 10:08:03,Consumer
+CUST-000439,Elizabeth,Wilson,elizabeth.wilson439@proton.me,F,41,Philadelphia,PA,2024-07-06 11:52:07,Corporate
+CUST-000440,Joseph,King,joseph.king440@fastmail.com,M,38,Miami,FL,2024-09-27 23:16:09,Consumer
+CUST-000441,Edward,Gomez,edward.gomez441@proton.me,M,29,Houston,TX,2024-06-27 12:48:55,Consumer
+CUST-000442,Samantha,Thompson,samantha.thompson442@fastmail.com,F,37,San Jose,CA,2024-11-10 21:29:14,Consumer
+CUST-000443,Thomas,Green,thomas.green443@gmail.com,M,49,San Diego,CA,2024-06-05 04:15:28,Consumer
+CUST-000444,Frank,Jackson,frank.jackson444@proton.me,M,27,Denver,CO,2024-08-02 21:42:54,Consumer
+CUST-000445,Edward,Diaz,edward.diaz445@yahoo.com,M,35,Miami,FL,2024-11-21 19:33:55,Corporate
+CUST-000446,Christine,Thompson,christine.thompson446@proton.me,F,57,Philadelphia,PA,2024-09-07 10:30:58,Consumer
+CUST-000447,Kenneth,Edwards,kenneth.edwards447@proton.me,M,44,Los Angeles,CA,2024-07-02 00:20:56,Corporate
+CUST-000448,Matthew,Roberts,matthew.roberts448@proton.me,M,29,Portland,OR,2024-11-30 18:01:16,Corporate
+CUST-000449,Gary,Turner,gary.turner449@fastmail.com,M,43,Atlanta,GA,2024-09-07 06:05:22,Consumer
+CUST-000450,Robert,Lewis,robert.lewis450@outlook.com,M,18,Los Angeles,CA,2024-05-20 08:11:10,Consumer
+CUST-000451,Nancy,Collins,nancy.collins451@proton.me,F,35,Miami,FL,2024-10-08 18:35:52,Consumer
+CUST-000452,Joseph,Wright,joseph.wright452@proton.me,M,43,Seattle,WA,2024-10-04 01:30:53,Consumer
+CUST-000453,Cynthia,Cooper,cynthia.cooper453@yahoo.com,F,40,Boston,MA,2024-02-22 23:47:58,Small Business
+CUST-000454,Michelle,Jones,michelle.jones454@icloud.com,F,43,Dallas,TX,2024-06-27 03:10:01,Corporate
+CUST-000455,Joseph,Walker,joseph.walker455@yahoo.com,M,46,Charlotte,NC,2024-12-18 12:45:57,Consumer
+CUST-000456,Samantha,Diaz,samantha.diaz456@yahoo.com,F,41,Salt Lake City,UT,2024-03-12 07:31:22,Consumer
+CUST-000457,Linda,Hall,linda.hall457@proton.me,F,41,Dallas,TX,2024-11-01 19:36:57,Consumer
+CUST-000458,Patrick,Nguyen,patrick.nguyen458@outlook.com,M,38,Charlotte,NC,2024-05-16 18:43:45,Consumer
+CUST-000459,Katherine,Gonzalez,katherine.gonzalez459@yahoo.com,Other,23,Boston,MA,2024-01-31 10:05:49,Small Business
+CUST-000460,Sarah,Taylor,sarah.taylor460@yahoo.com,F,48,Phoenix,AZ,2024-12-30 11:43:37,VIP
+CUST-000461,Rachel,Gomez,rachel.gomez461@icloud.com,F,35,Phoenix,AZ,2024-10-22 23:01:30,Small Business
+CUST-000462,Timothy,Carter,timothy.carter462@icloud.com,M,44,Chicago,IL,2024-11-20 03:23:22,Small Business
+CUST-000463,Paul,Mitchell,paul.mitchell463@icloud.com,M,47,Miami,FL,2024-06-16 21:11:18,Consumer
+CUST-000464,William,Collins,william.collins464@fastmail.com,M,29,Seattle,WA,2024-02-02 19:27:28,Consumer
+CUST-000465,Jason,Ramirez,jason.ramirez465@icloud.com,M,30,Dallas,TX,2024-06-14 10:19:31,Consumer
+CUST-000466,Larry,Taylor,larry.taylor466@proton.me,M,32,Miami,FL,2024-06-24 01:45:45,Corporate
+CUST-000467,Benjamin,Collins,benjamin.collins467@gmail.com,M,51,Houston,TX,2024-03-21 16:04:00,Consumer
+CUST-000468,Jason,Sanchez,jason.sanchez468@fastmail.com,M,25,Phoenix,AZ,2024-11-28 10:59:26,Consumer
+CUST-000469,Paul,Lopez,paul.lopez469@fastmail.com,M,53,Seattle,WA,2024-05-08 03:00:03,Consumer
+CUST-000470,Samuel,Perez,samuel.perez470@gmail.com,M,38,Denver,CO,2024-11-16 11:07:23,Consumer
+CUST-000471,Sandra,Diaz,sandra.diaz471@fastmail.com,F,39,Chicago,IL,2024-12-26 03:27:55,Consumer
+CUST-000472,Jacob,Martinez,jacob.martinez472@yahoo.com,M,46,Charlotte,NC,2024-04-25 18:54:44,Consumer
+CUST-000473,Mary,Johnson,mary.johnson473@fastmail.com,F,36,Austin,TX,2024-03-02 15:22:33,Small Business
+CUST-000474,Amy,Martinez,amy.martinez474@yahoo.com,F,48,Denver,CO,2024-02-15 03:43:45,Corporate
+CUST-000475,George,Hill,george.hill475@yahoo.com,M,29,Denver,CO,2024-03-09 23:21:32,Consumer
+CUST-000476,Andrew,Rodriguez,andrew.rodriguez476@proton.me,Other,52,Charlotte,NC,2024-01-05 22:13:15,Consumer
+CUST-000477,Cynthia,Hall,cynthia.hall477@fastmail.com,F,30,San Antonio,TX,2024-11-17 05:30:40,Consumer
+CUST-000478,Samantha,Cruz,samantha.cruz478@yahoo.com,F,53,Chicago,IL,2024-02-21 05:05:51,Corporate
+CUST-000479,Nicole,Roberts,nicole.roberts479@outlook.com,F,30,Boston,MA,2024-06-10 05:05:27,Consumer
+CUST-000480,Samuel,Hernandez,samuel.hernandez480@yahoo.com,M,32,Minneapolis,MN,2024-11-03 21:50:44,Consumer
+CUST-000481,Donna,Brown,donna.brown481@fastmail.com,F,23,San Jose,CA,2024-04-15 18:51:02,Consumer
+CUST-000482,Margaret,Gomez,margaret.gomez482@outlook.com,F,26,Los Angeles,CA,2024-05-02 18:01:05,Consumer
+CUST-000483,Donald,Murphy,donald.murphy483@fastmail.com,M,35,Salt Lake City,UT,2024-02-06 19:14:03,Consumer
+CUST-000484,Mary,Campbell,mary.campbell484@outlook.com,F,38,Phoenix,AZ,2024-07-17 20:41:38,Corporate
+CUST-000485,Jonathan,Thompson,jonathan.thompson485@icloud.com,M,47,Chicago,IL,2024-01-09 21:23:06,Small Business
+CUST-000486,Steven,Ramirez,steven.ramirez486@gmail.com,M,33,Los Angeles,CA,2024-07-22 18:26:42,Consumer
+CUST-000487,Patrick,Cook,patrick.cook487@icloud.com,M,22,Boston,MA,2024-12-25 14:38:47,VIP
+CUST-000488,Jonathan,Morgan,jonathan.morgan488@proton.me,M,40,Phoenix,AZ,2024-05-22 03:02:37,Consumer
+CUST-000489,Nicholas,Clark,nicholas.clark489@yahoo.com,M,37,Minneapolis,MN,2024-06-16 14:13:33,Consumer
+CUST-000490,Christine,Rodriguez,christine.rodriguez490@outlook.com,F,41,Boston,MA,2024-05-02 02:06:29,Consumer
+CUST-000491,Jason,Anderson,jason.anderson491@icloud.com,M,28,Salt Lake City,UT,2024-11-07 02:00:12,Consumer
+CUST-000492,Gregory,Thompson,gregory.thompson492@gmail.com,M,29,New York,NY,2024-12-28 04:59:44,Consumer
+CUST-000493,Nancy,Murphy,nancy.murphy493@outlook.com,F,28,Portland,OR,2024-09-21 09:26:20,Consumer
+CUST-000494,Thomas,Wright,thomas.wright494@fastmail.com,M,50,Houston,TX,2024-01-16 12:11:50,VIP
+CUST-000495,Emily,Ortiz,emily.ortiz495@gmail.com,F,53,Dallas,TX,2024-12-30 20:59:42,Corporate
+CUST-000496,Angela,Collins,angela.collins496@proton.me,F,29,Seattle,WA,2024-01-29 18:11:24,Consumer
+CUST-000497,Nancy,Mitchell,nancy.mitchell497@yahoo.com,F,29,Dallas,TX,2024-02-22 20:53:43,Consumer
+CUST-000498,Jessica,Robinson,jessica.robinson498@fastmail.com,F,43,Portland,OR,2024-01-02 01:36:12,Consumer
+CUST-000499,Mary,Young,mary.young499@gmail.com,F,54,Miami,FL,2024-07-05 13:56:37,Consumer
+CUST-000500,Lisa,Jones,lisa.jones500@proton.me,F,57,Boston,MA,2024-04-24 11:42:59,Small Business
+CUST-000501,Kenneth,Wright,kenneth.wright501@gmail.com,M,28,Charlotte,NC,2024-07-09 04:20:50,Small Business
+CUST-000502,Linda,Thompson,linda.thompson502@yahoo.com,F,31,Portland,OR,2024-01-24 14:35:50,VIP
+CUST-000503,Ryan,Torres,ryan.torres503@outlook.com,M,39,Austin,TX,2024-02-14 20:08:14,Corporate
+CUST-000504,George,Sanchez,george.sanchez504@outlook.com,M,40,Charlotte,NC,2024-06-04 22:40:20,Consumer
+CUST-000505,George,Murphy,george.murphy505@yahoo.com,M,33,Minneapolis,MN,2024-05-05 05:28:55,Consumer
+CUST-000506,Timothy,Brown,timothy.brown506@yahoo.com,M,26,Minneapolis,MN,2024-06-26 23:09:14,Consumer
+CUST-000507,Mary,Nelson,mary.nelson507@gmail.com,F,35,Denver,CO,2024-06-06 03:47:04,Consumer
+CUST-000508,Donald,Turner,donald.turner508@icloud.com,M,57,Los Angeles,CA,2024-03-13 10:11:17,Consumer
+CUST-000509,Mark,Gutierrez,mark.gutierrez509@icloud.com,M,29,Seattle,WA,2024-08-22 03:05:28,Small Business
+CUST-000510,Shirley,Moore,shirley.moore510@fastmail.com,F,38,Denver,CO,2024-02-08 21:33:00,Consumer
+CUST-000511,Laura,Taylor,laura.taylor511@yahoo.com,F,66,San Jose,CA,2024-05-13 11:28:08,Small Business
+CUST-000512,Rebecca,Adams,rebecca.adams512@outlook.com,F,29,Atlanta,GA,2024-05-19 08:30:19,Consumer
+CUST-000513,Matthew,Moore,matthew.moore513@proton.me,M,44,Houston,TX,2024-03-20 03:50:48,Consumer
+CUST-000514,Ryan,Green,ryan.green514@icloud.com,M,58,Houston,TX,2024-10-01 13:02:41,Small Business
+CUST-000515,Betty,Edwards,betty.edwards515@outlook.com,F,43,Atlanta,GA,2024-05-15 04:21:57,Small Business
+CUST-000516,Alexander,Hill,alexander.hill516@fastmail.com,M,49,Salt Lake City,UT,2024-01-21 07:49:43,Small Business
+CUST-000517,Carol,Jackson,carol.jackson517@gmail.com,F,45,San Diego,CA,2024-07-01 14:25:36,Corporate
+CUST-000518,Rachel,Hill,rachel.hill518@outlook.com,F,42,Philadelphia,PA,2024-01-16 14:43:24,Corporate
+CUST-000519,Pamela,Peterson,pamela.peterson519@yahoo.com,F,52,Houston,TX,2024-08-24 03:42:37,Consumer
+CUST-000520,Sarah,Thomas,sarah.thomas520@gmail.com,F,43,Los Angeles,CA,2024-04-23 04:45:33,Small Business
+CUST-000521,Ronald,Mitchell,ronald.mitchell521@fastmail.com,M,33,Chicago,IL,2024-10-25 21:20:23,Consumer
+CUST-000522,David,Williams,david.williams522@gmail.com,M,37,San Antonio,TX,2024-11-26 16:08:41,Corporate
+CUST-000523,Barbara,Nelson,barbara.nelson523@gmail.com,F,40,Los Angeles,CA,2024-08-24 01:50:37,Small Business
+CUST-000524,Larry,Parker,larry.parker524@fastmail.com,M,31,Denver,CO,2024-09-11 01:04:24,Consumer
+CUST-000525,Jason,Thompson,jason.thompson525@outlook.com,M,38,San Antonio,TX,2024-04-05 10:00:42,Consumer
+CUST-000526,Charles,Jones,charles.jones526@proton.me,M,36,Salt Lake City,UT,2024-11-11 08:56:55,Consumer
+CUST-000527,Angela,Evans,angela.evans527@proton.me,F,43,Miami,FL,2024-02-01 03:11:37,Corporate
+CUST-000528,Thomas,Turner,thomas.turner528@yahoo.com,M,61,Portland,OR,2024-05-07 22:57:54,Consumer
+CUST-000529,Deborah,Williams,deborah.williams529@icloud.com,Other,38,Seattle,WA,2024-09-02 19:49:31,VIP
+CUST-000530,Melissa,Cook,melissa.cook530@outlook.com,F,54,Denver,CO,2024-05-18 06:32:48,Consumer
+CUST-000531,Scott,Lewis,scott.lewis531@gmail.com,M,43,Dallas,TX,2024-01-30 17:10:24,Consumer
+CUST-000532,Nicole,Robinson,nicole.robinson532@yahoo.com,F,38,Houston,TX,2024-05-06 23:54:56,Small Business
+CUST-000533,Jonathan,Davis,jonathan.davis533@yahoo.com,M,30,Charlotte,NC,2024-07-17 12:55:04,Consumer
+CUST-000534,Lisa,Thompson,lisa.thompson534@yahoo.com,F,38,Charlotte,NC,2024-06-11 13:03:46,Corporate
+CUST-000535,Patricia,Rivera,patricia.rivera535@proton.me,F,37,Charlotte,NC,2024-03-13 20:30:07,Consumer
+CUST-000536,Angela,Cooper,angela.cooper536@outlook.com,F,27,Philadelphia,PA,2024-09-08 01:22:55,Consumer
+CUST-000537,Mark,Lewis,mark.lewis537@gmail.com,M,29,Portland,OR,2024-09-01 00:01:29,Corporate
+CUST-000538,Brandon,Sanchez,brandon.sanchez538@yahoo.com,M,40,Austin,TX,2024-03-31 11:46:53,Consumer
+CUST-000539,Charles,Jackson,charles.jackson539@gmail.com,M,54,Portland,OR,2024-07-05 02:38:26,Corporate
+CUST-000540,Gregory,Gomez,gregory.gomez540@proton.me,M,35,Houston,TX,2024-06-21 10:59:12,Consumer
+CUST-000541,Christopher,Parker,christopher.parker541@fastmail.com,M,18,Miami,FL,2024-11-28 11:33:06,Consumer
+CUST-000542,Stephen,Rivera,stephen.rivera542@yahoo.com,M,18,Charlotte,NC,2024-03-30 13:46:35,Corporate
+CUST-000543,Frank,Nguyen,frank.nguyen543@yahoo.com,M,23,Philadelphia,PA,2024-01-01 20:51:22,Consumer
+CUST-000544,Larry,Jones,larry.jones544@yahoo.com,M,44,Salt Lake City,UT,2024-06-11 22:15:34,Corporate
+CUST-000545,Larry,Wilson,larry.wilson545@icloud.com,M,20,Phoenix,AZ,2024-06-18 02:49:58,VIP
+CUST-000546,Kenneth,Perez,kenneth.perez546@fastmail.com,M,46,Chicago,IL,2024-12-28 23:16:08,Consumer
+CUST-000547,Amanda,Edwards,amanda.edwards547@gmail.com,F,43,Dallas,TX,2024-04-17 09:05:07,Consumer
+CUST-000548,Melissa,Allen,melissa.allen548@gmail.com,F,34,New York,NY,2024-01-25 14:03:05,Consumer
+CUST-000549,Timothy,Perez,timothy.perez549@icloud.com,M,18,Miami,FL,2024-07-12 12:47:16,VIP
+CUST-000550,Susan,Morris,susan.morris550@proton.me,F,27,San Diego,CA,2024-03-24 16:25:51,Consumer
+CUST-000551,John,Nguyen,john.nguyen551@gmail.com,M,33,Austin,TX,2024-05-13 03:48:46,Consumer
+CUST-000552,Christopher,Carter,christopher.carter552@yahoo.com,M,40,Chicago,IL,2024-10-07 03:23:23,Consumer
+CUST-000553,Brandon,Morris,brandon.morris553@fastmail.com,M,20,New York,NY,2024-08-08 23:47:53,Small Business
+CUST-000554,Jason,Lee,jason.lee554@gmail.com,M,53,Houston,TX,2024-06-18 07:29:01,Consumer
+CUST-000555,Sharon,Peterson,sharon.peterson555@fastmail.com,F,40,Minneapolis,MN,2024-05-15 10:14:59,Corporate
+CUST-000556,Richard,Miller,richard.miller556@icloud.com,M,41,Charlotte,NC,2024-10-08 17:52:29,Small Business
+CUST-000557,George,Smith,george.smith557@icloud.com,M,43,Chicago,IL,2024-05-30 22:45:31,Consumer
+CUST-000558,Margaret,Gonzalez,margaret.gonzalez558@gmail.com,F,51,San Antonio,TX,2024-03-28 23:14:08,Consumer
+CUST-000559,William,Stewart,william.stewart559@gmail.com,M,38,San Jose,CA,2024-07-22 17:08:47,Corporate
+CUST-000560,Gregory,King,gregory.king560@gmail.com,M,44,Minneapolis,MN,2024-07-17 06:43:52,Consumer
+CUST-000561,Edward,Mitchell,edward.mitchell561@yahoo.com,M,27,Atlanta,GA,2024-01-23 09:35:10,Consumer
+CUST-000562,Steven,Lewis,steven.lewis562@outlook.com,M,57,Charlotte,NC,2024-02-01 05:30:08,Consumer
+CUST-000563,Debra,Gonzalez,debra.gonzalez563@gmail.com,F,37,Seattle,WA,2024-10-04 15:04:22,Consumer
+CUST-000564,Nicole,Robinson,nicole.robinson564@proton.me,F,27,Los Angeles,CA,2024-07-17 19:01:35,Corporate
+CUST-000565,Jonathan,Stewart,jonathan.stewart565@proton.me,M,30,San Diego,CA,2024-08-31 10:52:51,Consumer
+CUST-000566,Patrick,Jones,patrick.jones566@proton.me,M,18,Charlotte,NC,2024-09-21 20:48:25,Consumer
+CUST-000567,Samantha,Jackson,samantha.jackson567@gmail.com,F,30,Atlanta,GA,2024-03-29 06:05:10,Consumer
+CUST-000568,Margaret,Taylor,margaret.taylor568@gmail.com,F,18,Boston,MA,2024-02-10 15:51:07,Consumer
+CUST-000569,Benjamin,Jackson,benjamin.jackson569@proton.me,M,45,Dallas,TX,2024-06-12 02:26:23,Corporate
+CUST-000570,Stephen,Gomez,stephen.gomez570@proton.me,M,41,Austin,TX,2024-05-21 18:55:16,Consumer
+CUST-000571,James,Gutierrez,james.gutierrez571@icloud.com,M,24,Houston,TX,2024-07-31 05:26:53,Consumer
+CUST-000572,Justin,Gonzalez,justin.gonzalez572@gmail.com,M,35,Charlotte,NC,2024-02-21 10:24:58,VIP
+CUST-000573,Melissa,Evans,melissa.evans573@outlook.com,F,35,Denver,CO,2024-12-01 17:40:46,Consumer
+CUST-000574,Amy,Jones,amy.jones574@yahoo.com,F,22,Dallas,TX,2024-07-25 05:14:15,Corporate
+CUST-000575,Rachel,Phillips,rachel.phillips575@gmail.com,F,33,Denver,CO,2024-06-18 08:38:59,Consumer
+CUST-000576,Jacob,Wright,jacob.wright576@outlook.com,M,36,New York,NY,2024-06-21 11:02:02,Consumer
+CUST-000577,Gary,Gonzalez,gary.gonzalez577@yahoo.com,M,33,Phoenix,AZ,2024-06-02 16:07:59,Consumer
+CUST-000578,Carol,Wright,carol.wright578@fastmail.com,F,27,Boston,MA,2024-11-05 23:30:14,Consumer
+CUST-000579,Jeffrey,Ramirez,jeffrey.ramirez579@icloud.com,M,23,Miami,FL,2024-09-21 13:36:49,Consumer
+CUST-000580,Shirley,Lee,shirley.lee580@gmail.com,F,32,San Jose,CA,2024-12-29 18:27:06,Corporate
+CUST-000581,Eric,Brown,eric.brown581@yahoo.com,M,29,San Antonio,TX,2024-04-12 02:05:53,Consumer
+CUST-000582,Ryan,Miller,ryan.miller582@outlook.com,M,42,San Antonio,TX,2024-05-20 13:24:40,Consumer
+CUST-000583,Shirley,Gomez,shirley.gomez583@fastmail.com,F,52,Houston,TX,2024-12-14 01:06:45,Consumer
+CUST-000584,Gary,Edwards,gary.edwards584@yahoo.com,M,47,Miami,FL,2024-10-27 20:04:24,Small Business
+CUST-000585,Christopher,King,christopher.king585@fastmail.com,M,36,Chicago,IL,2024-05-25 00:59:57,Corporate
+CUST-000586,Christopher,Ramirez,christopher.ramirez586@yahoo.com,M,28,San Diego,CA,2024-12-12 07:31:36,Small Business
+CUST-000587,Timothy,Rogers,timothy.rogers587@gmail.com,M,46,New York,NY,2024-08-30 04:49:02,Consumer
+CUST-000588,Helen,Johnson,helen.johnson588@yahoo.com,F,43,Dallas,TX,2024-11-07 11:07:17,Small Business
+CUST-000589,Janet,Scott,janet.scott589@icloud.com,F,51,Denver,CO,2024-06-27 16:42:41,Consumer
+CUST-000590,Ryan,Hill,ryan.hill590@fastmail.com,M,38,Portland,OR,2024-11-15 14:27:35,Consumer
+CUST-000591,Mary,Rogers,mary.rogers591@fastmail.com,F,56,Seattle,WA,2024-10-14 23:34:08,Consumer
+CUST-000592,Donna,Hill,donna.hill592@fastmail.com,F,38,Houston,TX,2024-09-03 02:19:27,Consumer
+CUST-000593,Paul,Adams,paul.adams593@outlook.com,M,28,Dallas,TX,2024-12-01 23:43:09,Small Business
+CUST-000594,Charles,Gutierrez,charles.gutierrez594@yahoo.com,M,30,Los Angeles,CA,2024-11-03 14:42:45,Consumer
+CUST-000595,Rachel,Moore,rachel.moore595@fastmail.com,F,42,New York,NY,2024-12-01 18:06:31,Corporate
+CUST-000596,Eric,Turner,eric.turner596@icloud.com,Other,29,Denver,CO,2024-01-19 21:13:38,Consumer
+CUST-000597,Emma,Harris,emma.harris597@outlook.com,F,56,San Diego,CA,2024-12-17 19:27:55,Consumer
+CUST-000598,Amy,Rivera,amy.rivera598@proton.me,F,41,San Jose,CA,2024-03-28 23:56:34,VIP
+CUST-000599,Lisa,Nguyen,lisa.nguyen599@gmail.com,F,36,Miami,FL,2024-03-06 09:25:02,Consumer
+CUST-000600,Pamela,White,pamela.white600@fastmail.com,F,37,Austin,TX,2024-12-01 03:15:04,Corporate
+CUST-000601,Mark,Flores,mark.flores601@icloud.com,M,32,Austin,TX,2024-07-09 09:29:12,Small Business
+CUST-000602,Kathleen,Thomas,kathleen.thomas602@icloud.com,F,18,Los Angeles,CA,2024-11-20 21:14:50,Corporate
+CUST-000603,Samantha,Martinez,samantha.martinez603@icloud.com,F,30,San Antonio,TX,2024-09-13 04:21:44,Consumer
+CUST-000604,Stephanie,Ortiz,stephanie.ortiz604@outlook.com,F,54,Boston,MA,2024-01-28 05:29:22,Consumer
+CUST-000605,Matthew,Baker,matthew.baker605@icloud.com,M,38,Charlotte,NC,2024-08-22 05:12:52,Consumer
+CUST-000606,Patrick,White,patrick.white606@gmail.com,M,48,Miami,FL,2024-06-19 22:58:30,Corporate
+CUST-000607,Benjamin,Davis,benjamin.davis607@gmail.com,Other,48,Atlanta,GA,2024-05-20 07:37:24,Small Business
+CUST-000608,Nancy,Lee,nancy.lee608@icloud.com,F,35,Chicago,IL,2024-03-07 22:22:21,Consumer
+CUST-000609,Jason,Phillips,jason.phillips609@icloud.com,M,43,Miami,FL,2024-07-15 00:10:11,Small Business
+CUST-000610,Matthew,Mitchell,matthew.mitchell610@gmail.com,M,18,Austin,TX,2024-09-28 06:56:19,Consumer
+CUST-000611,James,Young,james.young611@yahoo.com,M,53,Seattle,WA,2024-06-08 04:41:39,Corporate
+CUST-000612,Nicholas,Flores,nicholas.flores612@yahoo.com,M,52,Chicago,IL,2024-01-24 10:51:25,Consumer
+CUST-000613,Kathleen,Gutierrez,kathleen.gutierrez613@proton.me,F,41,Portland,OR,2024-06-21 15:47:21,Consumer
+CUST-000614,Sarah,Baker,sarah.baker614@icloud.com,F,39,Seattle,WA,2024-04-06 06:00:11,Consumer
+CUST-000615,Rebecca,Williams,rebecca.williams615@yahoo.com,F,35,San Diego,CA,2024-03-08 07:41:21,Consumer
+CUST-000616,Nicole,Cook,nicole.cook616@yahoo.com,F,50,Houston,TX,2024-07-06 23:41:07,Small Business
+CUST-000617,Stephanie,Allen,stephanie.allen617@proton.me,F,45,Salt Lake City,UT,2024-01-25 21:37:26,Consumer
+CUST-000618,Helen,Wilson,helen.wilson618@fastmail.com,Other,18,New York,NY,2024-01-25 04:12:56,Consumer
+CUST-000619,Edward,Thomas,edward.thomas619@proton.me,M,31,Dallas,TX,2024-08-30 05:34:30,VIP
+CUST-000620,Alexander,Johnson,alexander.johnson620@outlook.com,M,22,Boston,MA,2024-12-04 03:40:35,Consumer
+CUST-000621,Emily,Moore,emily.moore621@icloud.com,F,20,Houston,TX,2024-09-18 22:29:22,Corporate
+CUST-000622,Joseph,Wilson,joseph.wilson622@icloud.com,M,49,San Antonio,TX,2024-11-07 07:16:21,Consumer
+CUST-000623,Anna,Sanchez,anna.sanchez623@outlook.com,F,35,Boston,MA,2024-05-31 05:50:20,Consumer
+CUST-000624,Gary,Clark,gary.clark624@fastmail.com,M,41,Miami,FL,2024-06-18 08:32:17,Consumer
+CUST-000625,Gregory,Lopez,gregory.lopez625@gmail.com,M,36,Charlotte,NC,2024-12-08 17:59:23,Consumer
+CUST-000626,William,Rogers,william.rogers626@gmail.com,M,20,Houston,TX,2024-05-11 23:27:34,Small Business
+CUST-000627,Andrew,King,andrew.king627@icloud.com,M,18,Los Angeles,CA,2024-02-21 06:21:38,Consumer
+CUST-000628,Donna,Campbell,donna.campbell628@fastmail.com,F,30,Austin,TX,2024-08-06 04:13:11,Corporate
+CUST-000629,John,Johnson,john.johnson629@yahoo.com,M,31,Philadelphia,PA,2024-06-17 13:01:01,Consumer
+CUST-000630,Samantha,Wright,samantha.wright630@fastmail.com,F,31,Chicago,IL,2024-07-09 12:28:41,Corporate
+CUST-000631,Ronald,Phillips,ronald.phillips631@icloud.com,M,32,Dallas,TX,2024-07-16 17:24:44,Small Business
+CUST-000632,Christine,Perez,christine.perez632@gmail.com,F,60,Phoenix,AZ,2024-12-22 02:08:06,Small Business
+CUST-000633,Kenneth,Wilson,kenneth.wilson633@icloud.com,Other,48,Charlotte,NC,2024-09-04 20:42:52,Consumer
+CUST-000634,Lisa,Carter,lisa.carter634@outlook.com,F,38,Salt Lake City,UT,2024-01-15 04:45:25,Consumer
+CUST-000635,Gary,Anderson,gary.anderson635@icloud.com,M,35,Atlanta,GA,2024-01-24 02:18:21,Consumer
+CUST-000636,Kenneth,Johnson,kenneth.johnson636@fastmail.com,M,35,Portland,OR,2024-10-22 20:34:17,Small Business
+CUST-000637,Gregory,Baker,gregory.baker637@proton.me,M,44,Portland,OR,2024-12-18 22:30:33,Consumer
+CUST-000638,Gregory,Young,gregory.young638@icloud.com,M,35,Seattle,WA,2024-12-05 23:21:10,Consumer
+CUST-000639,Stephen,Miller,stephen.miller639@gmail.com,M,46,Philadelphia,PA,2024-09-15 17:05:10,Consumer
+CUST-000640,Nancy,Martinez,nancy.martinez640@icloud.com,F,40,Austin,TX,2024-05-03 12:02:51,Consumer
+CUST-000641,Linda,Cook,linda.cook641@yahoo.com,F,61,Minneapolis,MN,2024-11-25 13:47:08,Consumer
+CUST-000642,Donald,Hernandez,donald.hernandez642@icloud.com,M,34,Atlanta,GA,2024-10-20 16:18:53,Consumer
+CUST-000643,Gary,Edwards,gary.edwards643@outlook.com,M,49,Houston,TX,2024-09-11 23:47:18,Consumer
+CUST-000644,Ronald,Evans,ronald.evans644@gmail.com,M,23,Minneapolis,MN,2024-10-08 00:00:22,Corporate
+CUST-000645,Helen,Hill,helen.hill645@proton.me,F,28,Minneapolis,MN,2024-04-15 23:49:59,Small Business
+CUST-000646,Amanda,Campbell,amanda.campbell646@gmail.com,F,58,San Diego,CA,2024-08-20 12:05:12,Consumer
+CUST-000647,Samantha,Stewart,samantha.stewart647@fastmail.com,F,46,Seattle,WA,2024-08-19 04:09:05,Small Business
+CUST-000648,Gregory,Lewis,gregory.lewis648@gmail.com,M,41,Austin,TX,2024-06-30 23:04:15,Corporate
+CUST-000649,Donna,Peterson,donna.peterson649@proton.me,F,64,Seattle,WA,2024-12-25 03:52:15,Small Business
+CUST-000650,Christopher,Murphy,christopher.murphy650@yahoo.com,M,35,Boston,MA,2024-02-24 09:15:30,Consumer
+CUST-000651,Margaret,Thomas,margaret.thomas651@icloud.com,F,49,San Antonio,TX,2024-08-22 06:56:19,Consumer
+CUST-000652,Susan,Turner,susan.turner652@gmail.com,F,50,Charlotte,NC,2024-03-04 16:24:08,Corporate
+CUST-000653,Justin,Cook,justin.cook653@yahoo.com,M,55,Miami,FL,2024-01-03 19:18:35,Consumer
+CUST-000654,Pamela,Parker,pamela.parker654@proton.me,F,22,Miami,FL,2024-09-17 06:27:06,Corporate
+CUST-000655,Lisa,Taylor,lisa.taylor655@gmail.com,F,35,Denver,CO,2024-12-02 21:51:54,Small Business
+CUST-000656,Carol,Cook,carol.cook656@icloud.com,F,39,Boston,MA,2024-11-07 09:02:17,Corporate
+CUST-000657,Kevin,Nguyen,kevin.nguyen657@icloud.com,M,55,Phoenix,AZ,2024-03-11 15:01:39,Small Business
+CUST-000658,Heather,Rogers,heather.rogers658@outlook.com,F,41,Minneapolis,MN,2024-06-09 20:09:19,Consumer
+CUST-000659,Margaret,Clark,margaret.clark659@proton.me,F,50,San Jose,CA,2024-12-17 12:34:18,Small Business
+CUST-000660,Sarah,Thompson,sarah.thompson660@proton.me,F,21,Minneapolis,MN,2024-12-21 23:11:16,Corporate
+CUST-000661,Joseph,Rivera,joseph.rivera661@proton.me,M,32,Miami,FL,2024-10-25 20:46:34,Small Business
+CUST-000662,Janet,Turner,janet.turner662@fastmail.com,F,52,Minneapolis,MN,2024-05-26 15:22:43,Consumer
+CUST-000663,Anna,Wilson,anna.wilson663@gmail.com,F,33,Denver,CO,2024-03-15 01:55:55,Consumer
+CUST-000664,Margaret,Wright,margaret.wright664@yahoo.com,F,36,San Jose,CA,2024-12-15 09:07:21,Consumer
+CUST-000665,Michael,Nguyen,michael.nguyen665@yahoo.com,M,55,Minneapolis,MN,2024-01-17 13:03:33,Consumer
+CUST-000666,Susan,Bailey,susan.bailey666@yahoo.com,F,25,Minneapolis,MN,2024-07-18 08:39:02,Consumer
+CUST-000667,Carolyn,Torres,carolyn.torres667@fastmail.com,F,28,Los Angeles,CA,2024-07-14 14:06:37,Consumer
+CUST-000668,Alexander,Green,alexander.green668@proton.me,M,20,Los Angeles,CA,2024-01-07 09:09:03,Consumer
+CUST-000669,Jeffrey,Lewis,jeffrey.lewis669@fastmail.com,M,55,Seattle,WA,2024-10-28 19:54:05,Consumer
+CUST-000670,Margaret,Harris,margaret.harris670@outlook.com,F,48,Atlanta,GA,2024-03-31 02:42:40,Consumer
+CUST-000671,Daniel,Rogers,daniel.rogers671@gmail.com,M,47,Denver,CO,2024-01-21 15:36:05,Consumer
+CUST-000672,Steven,Taylor,steven.taylor672@yahoo.com,M,32,Charlotte,NC,2024-05-10 00:12:19,Consumer
+CUST-000673,Patrick,Martin,patrick.martin673@gmail.com,M,19,Phoenix,AZ,2024-06-14 21:43:54,Consumer
+CUST-000674,Benjamin,Hill,benjamin.hill674@icloud.com,M,18,Charlotte,NC,2024-10-08 13:02:14,Consumer
+CUST-000675,Patrick,Green,patrick.green675@proton.me,M,52,San Diego,CA,2024-04-04 18:57:16,Small Business
+CUST-000676,Nicholas,Lee,nicholas.lee676@icloud.com,M,42,Minneapolis,MN,2024-10-01 14:41:16,Corporate
+CUST-000677,Mark,Ramirez,mark.ramirez677@fastmail.com,M,45,Austin,TX,2024-06-18 13:08:10,Consumer
+CUST-000678,Brandon,Ortiz,brandon.ortiz678@icloud.com,M,39,Minneapolis,MN,2024-11-28 00:19:13,Small Business
+CUST-000679,Brian,Edwards,brian.edwards679@yahoo.com,M,26,Salt Lake City,UT,2024-11-14 08:52:38,Consumer
+CUST-000680,Rachel,Adams,rachel.adams680@icloud.com,F,32,Houston,TX,2024-07-16 09:20:31,Consumer
+CUST-000681,Donna,Brown,donna.brown681@proton.me,F,24,Seattle,WA,2024-09-20 18:31:20,Small Business
+CUST-000682,John,Nguyen,john.nguyen682@fastmail.com,M,22,San Antonio,TX,2024-06-13 18:42:37,Consumer
+CUST-000683,Richard,Perez,richard.perez683@proton.me,M,47,Minneapolis,MN,2024-01-04 22:49:33,Corporate
+CUST-000684,Gregory,Ramirez,gregory.ramirez684@fastmail.com,M,18,Boston,MA,2024-02-23 07:29:05,Consumer
+CUST-000685,Carolyn,Parker,carolyn.parker685@fastmail.com,F,24,Chicago,IL,2024-12-17 05:35:52,Consumer
+CUST-000686,Patrick,Nelson,patrick.nelson686@gmail.com,M,33,Chicago,IL,2024-02-07 01:58:33,Corporate
+CUST-000687,Steven,Bailey,steven.bailey687@gmail.com,M,37,Charlotte,NC,2024-04-26 09:25:01,Corporate
+CUST-000688,Jeffrey,Phillips,jeffrey.phillips688@icloud.com,M,19,Austin,TX,2024-01-09 14:10:52,Consumer
+CUST-000689,Brenda,Smith,brenda.smith689@fastmail.com,F,18,Salt Lake City,UT,2024-02-02 21:19:16,VIP
+CUST-000690,David,Rivera,david.rivera690@proton.me,M,41,Houston,TX,2024-05-28 10:58:18,Consumer
+CUST-000691,Donna,Cruz,donna.cruz691@icloud.com,F,38,Denver,CO,2024-12-04 01:07:19,Consumer
+CUST-000692,Jonathan,Lewis,jonathan.lewis692@yahoo.com,M,52,Denver,CO,2024-10-06 10:44:23,Consumer
+CUST-000693,Karen,Hill,karen.hill693@fastmail.com,F,37,Seattle,WA,2024-01-06 20:09:11,Small Business
+CUST-000694,Karen,Thomas,karen.thomas694@gmail.com,F,42,New York,NY,2024-10-20 21:43:24,Small Business
+CUST-000695,Stephen,Hernandez,stephen.hernandez695@outlook.com,M,27,San Antonio,TX,2024-06-25 07:42:32,Consumer
+CUST-000696,Samuel,Rogers,samuel.rogers696@yahoo.com,M,28,Philadelphia,PA,2024-04-04 08:02:19,Consumer
+CUST-000697,Kimberly,Harris,kimberly.harris697@gmail.com,F,21,Philadelphia,PA,2024-12-09 20:39:16,Corporate
+CUST-000698,Pamela,Reyes,pamela.reyes698@fastmail.com,F,27,Minneapolis,MN,2024-02-07 10:34:56,Consumer
+CUST-000699,Kimberly,Gonzalez,kimberly.gonzalez699@yahoo.com,F,32,Charlotte,NC,2024-09-06 12:02:45,Corporate
+CUST-000700,Gregory,Walker,gregory.walker700@gmail.com,M,50,San Jose,CA,2024-11-13 02:32:29,Consumer
+CUST-000701,Carol,Morales,carol.morales701@icloud.com,F,25,Austin,TX,2024-11-11 11:07:45,Consumer
+CUST-000702,Karen,Campbell,karen.campbell702@outlook.com,F,61,Boston,MA,2024-03-27 00:10:33,Consumer
+CUST-000703,Mark,Parker,mark.parker703@outlook.com,M,43,Seattle,WA,2024-03-09 12:04:18,Consumer
+CUST-000704,Kathleen,Edwards,kathleen.edwards704@outlook.com,F,40,San Jose,CA,2024-09-06 20:05:08,Consumer
+CUST-000705,Samuel,Hernandez,samuel.hernandez705@outlook.com,M,36,Phoenix,AZ,2024-10-02 07:09:06,Consumer
+CUST-000706,Benjamin,Martinez,benjamin.martinez706@fastmail.com,M,34,Chicago,IL,2024-01-10 18:27:56,Consumer
+CUST-000707,Nicole,Phillips,nicole.phillips707@proton.me,F,29,San Antonio,TX,2024-01-19 20:04:58,Consumer
+CUST-000708,Jonathan,Stewart,jonathan.stewart708@fastmail.com,M,19,Phoenix,AZ,2024-07-06 14:17:25,Consumer
+CUST-000709,Justin,Nguyen,justin.nguyen709@yahoo.com,M,26,Atlanta,GA,2024-09-13 18:35:00,Consumer
+CUST-000710,George,Cook,george.cook710@gmail.com,M,55,San Diego,CA,2024-11-10 06:02:17,Corporate
+CUST-000711,Sarah,Edwards,sarah.edwards711@yahoo.com,F,42,Philadelphia,PA,2024-10-16 20:36:02,Consumer
+CUST-000712,Karen,Morris,karen.morris712@outlook.com,F,55,Los Angeles,CA,2024-04-22 17:45:16,Consumer
+CUST-000713,Steven,Mitchell,steven.mitchell713@yahoo.com,M,29,Los Angeles,CA,2024-12-08 07:31:42,Consumer
+CUST-000714,Deborah,Roberts,deborah.roberts714@icloud.com,F,23,Atlanta,GA,2024-01-24 01:27:10,Consumer
+CUST-000715,Samuel,Wilson,samuel.wilson715@fastmail.com,Other,36,Portland,OR,2024-11-20 09:57:27,Consumer
+CUST-000716,Kimberly,Cooper,kimberly.cooper716@proton.me,F,26,Philadelphia,PA,2024-07-11 23:47:58,Small Business
+CUST-000717,Justin,Martinez,justin.martinez717@proton.me,M,38,Dallas,TX,2024-07-11 08:06:55,Small Business
+CUST-000718,Melissa,Hall,melissa.hall718@icloud.com,F,18,Miami,FL,2024-11-05 00:14:24,Corporate
+CUST-000719,Sarah,Cruz,sarah.cruz719@yahoo.com,F,18,San Diego,CA,2024-02-09 18:44:01,Consumer
+CUST-000720,Betty,Martin,betty.martin720@yahoo.com,F,40,Philadelphia,PA,2024-07-04 21:55:08,Corporate
+CUST-000721,Jessica,Robinson,jessica.robinson721@icloud.com,F,56,Austin,TX,2024-02-28 17:31:53,Consumer
+CUST-000722,Amy,Clark,amy.clark722@proton.me,F,41,Philadelphia,PA,2024-11-27 14:57:37,Consumer
+CUST-000723,John,Taylor,john.taylor723@proton.me,M,42,Charlotte,NC,2024-03-23 04:54:18,Consumer
+CUST-000724,Jennifer,Jackson,jennifer.jackson724@gmail.com,F,36,Philadelphia,PA,2024-05-12 06:33:17,Corporate
+CUST-000725,Rebecca,Williams,rebecca.williams725@fastmail.com,F,38,San Jose,CA,2024-02-13 07:53:09,Consumer
+CUST-000726,Jacob,Morris,jacob.morris726@yahoo.com,M,19,San Diego,CA,2024-07-29 21:52:33,Consumer
+CUST-000727,Justin,White,justin.white727@proton.me,M,27,Portland,OR,2024-05-15 06:06:23,Corporate
+CUST-000728,Amanda,Collins,amanda.collins728@proton.me,F,50,Charlotte,NC,2024-02-05 08:22:02,Corporate
+CUST-000729,Thomas,Wilson,thomas.wilson729@gmail.com,M,22,San Antonio,TX,2024-09-24 18:21:47,VIP
+CUST-000730,Karen,Gonzalez,karen.gonzalez730@yahoo.com,F,32,Miami,FL,2024-11-10 21:50:18,Small Business
+CUST-000731,Jonathan,Cook,jonathan.cook731@gmail.com,M,50,Chicago,IL,2024-09-03 04:44:42,Consumer
+CUST-000732,Brenda,Smith,brenda.smith732@fastmail.com,F,37,Boston,MA,2024-09-24 15:18:59,Consumer
+CUST-000733,John,Ortiz,john.ortiz733@icloud.com,M,38,San Diego,CA,2024-09-03 13:52:49,Consumer
+CUST-000734,Frank,Gonzalez,frank.gonzalez734@icloud.com,M,32,Phoenix,AZ,2024-05-10 17:22:19,Small Business
+CUST-000735,Barbara,Torres,barbara.torres735@proton.me,F,44,Minneapolis,MN,2024-07-28 09:23:11,Consumer
+CUST-000736,Patrick,Smith,patrick.smith736@proton.me,M,47,Portland,OR,2024-03-01 18:55:26,Consumer
+CUST-000737,Samuel,Clark,samuel.clark737@fastmail.com,M,26,Austin,TX,2024-07-28 13:11:23,Consumer
+CUST-000738,Jason,Allen,jason.allen738@outlook.com,M,20,Minneapolis,MN,2024-08-04 20:33:32,Small Business
+CUST-000739,Paul,Gomez,paul.gomez739@yahoo.com,M,18,Boston,MA,2024-10-09 20:18:00,Consumer
+CUST-000740,George,Bailey,george.bailey740@proton.me,M,42,Miami,FL,2024-05-09 11:09:53,Consumer
+CUST-000741,Janet,Gomez,janet.gomez741@fastmail.com,F,40,Phoenix,AZ,2024-12-03 04:20:08,Small Business
+CUST-000742,Cynthia,Lee,cynthia.lee742@gmail.com,F,65,San Antonio,TX,2024-09-17 14:35:02,Consumer
+CUST-000743,Pamela,Miller,pamela.miller743@yahoo.com,F,36,Denver,CO,2024-11-21 00:11:33,Consumer
+CUST-000744,Karen,Stewart,karen.stewart744@proton.me,F,34,Boston,MA,2024-02-15 02:19:59,Small Business
+CUST-000745,George,Hernandez,george.hernandez745@proton.me,M,39,Los Angeles,CA,2024-07-15 14:35:13,Corporate
+CUST-000746,Anna,Torres,anna.torres746@fastmail.com,F,39,Salt Lake City,UT,2024-01-30 06:22:53,Consumer
+CUST-000747,Cynthia,Johnson,cynthia.johnson747@yahoo.com,F,33,Portland,OR,2024-05-26 07:05:25,Consumer
+CUST-000748,Scott,Rogers,scott.rogers748@proton.me,M,26,San Diego,CA,2024-11-10 06:10:14,Corporate
+CUST-000749,Deborah,Walker,deborah.walker749@fastmail.com,F,36,New York,NY,2024-03-21 03:09:42,Consumer
+CUST-000750,Barbara,Rivera,barbara.rivera750@fastmail.com,Other,35,Denver,CO,2024-07-26 21:20:18,Small Business
+CUST-000751,James,Rodriguez,james.rodriguez751@gmail.com,M,35,Minneapolis,MN,2024-05-25 20:21:24,Consumer
+CUST-000752,Melissa,Hall,melissa.hall752@outlook.com,F,45,San Diego,CA,2024-11-06 07:04:56,Corporate
+CUST-000753,Ronald,Smith,ronald.smith753@outlook.com,M,36,Philadelphia,PA,2024-07-27 18:25:53,Consumer
+CUST-000754,David,Cook,david.cook754@outlook.com,M,20,Austin,TX,2024-02-29 18:41:17,Consumer
+CUST-000755,Brenda,Allen,brenda.allen755@fastmail.com,F,28,Atlanta,GA,2024-07-12 20:30:15,Consumer
+CUST-000756,Donald,Baker,donald.baker756@icloud.com,M,33,Atlanta,GA,2024-10-27 00:59:44,Consumer
+CUST-000757,Steven,Rodriguez,steven.rodriguez757@icloud.com,M,36,San Diego,CA,2024-12-12 08:22:17,VIP
+CUST-000758,Sharon,Rivera,sharon.rivera758@proton.me,F,42,Minneapolis,MN,2024-01-05 09:35:17,Consumer
+CUST-000759,William,Phillips,william.phillips759@fastmail.com,M,36,Austin,TX,2024-02-08 20:11:26,Consumer
+CUST-000760,Amy,Green,amy.green760@outlook.com,F,18,San Antonio,TX,2024-10-20 09:47:48,Consumer
+CUST-000761,Alexander,Harris,alexander.harris761@icloud.com,M,21,San Antonio,TX,2024-04-30 08:48:46,Consumer
+CUST-000762,Betty,Robinson,betty.robinson762@yahoo.com,F,43,San Diego,CA,2024-11-12 12:57:45,Corporate
+CUST-000763,Richard,Thomas,richard.thomas763@gmail.com,M,33,Miami,FL,2024-11-10 00:14:28,Consumer
+CUST-000764,Brenda,Garcia,brenda.garcia764@icloud.com,F,53,Seattle,WA,2024-11-13 11:29:02,VIP
+CUST-000765,Emma,Scott,emma.scott765@icloud.com,F,37,Philadelphia,PA,2024-09-18 10:12:15,VIP
+CUST-000766,Larry,Taylor,larry.taylor766@gmail.com,M,31,Portland,OR,2024-08-04 17:24:54,Consumer
+CUST-000767,Jennifer,Cook,jennifer.cook767@outlook.com,F,28,Denver,CO,2024-12-17 06:21:51,Corporate
+CUST-000768,Joseph,Gutierrez,joseph.gutierrez768@icloud.com,M,32,Austin,TX,2024-12-18 00:18:23,Consumer
+CUST-000769,Anthony,Carter,anthony.carter769@proton.me,M,37,Houston,TX,2024-06-15 13:09:55,Small Business
+CUST-000770,Kimberly,White,kimberly.white770@proton.me,F,36,Dallas,TX,2024-05-01 09:48:31,Consumer
+CUST-000771,Brandon,Baker,brandon.baker771@outlook.com,M,47,Philadelphia,PA,2024-09-12 15:26:07,Consumer
+CUST-000772,Frank,Mitchell,frank.mitchell772@outlook.com,M,18,Denver,CO,2024-05-23 16:24:37,Consumer
+CUST-000773,Thomas,Robinson,thomas.robinson773@gmail.com,M,19,Dallas,TX,2024-04-30 20:13:09,Consumer
+CUST-000774,Edward,Sanchez,edward.sanchez774@yahoo.com,M,33,Phoenix,AZ,2024-08-30 00:21:16,Consumer
+CUST-000775,Gary,Moore,gary.moore775@fastmail.com,M,42,Portland,OR,2024-09-30 11:29:43,Corporate
+CUST-000776,Michelle,Allen,michelle.allen776@proton.me,F,45,Charlotte,NC,2024-01-25 14:30:19,Consumer
+CUST-000777,Christopher,Davis,christopher.davis777@yahoo.com,M,29,Dallas,TX,2024-08-31 22:55:57,Consumer
+CUST-000778,Kevin,King,kevin.king778@outlook.com,M,18,Seattle,WA,2024-10-13 20:17:51,Consumer
+CUST-000779,Kimberly,Hall,kimberly.hall779@gmail.com,F,29,Boston,MA,2024-03-03 12:46:58,Consumer
+CUST-000780,Helen,Sanchez,helen.sanchez780@proton.me,F,40,Charlotte,NC,2024-11-28 23:38:02,Consumer
+CUST-000781,Donna,Rivera,donna.rivera781@outlook.com,F,35,Portland,OR,2024-09-06 16:16:20,Consumer
+CUST-000782,Stephanie,Torres,stephanie.torres782@icloud.com,F,42,Phoenix,AZ,2024-03-26 23:19:22,Consumer
+CUST-000783,Amanda,Turner,amanda.turner783@fastmail.com,F,50,Salt Lake City,UT,2024-10-19 14:44:14,Consumer
+CUST-000784,Elizabeth,Hernandez,elizabeth.hernandez784@yahoo.com,F,34,Austin,TX,2024-04-26 11:24:48,Consumer
+CUST-000785,Andrew,Wright,andrew.wright785@proton.me,M,30,Denver,CO,2024-05-18 16:11:53,Corporate
+CUST-000786,Deborah,Gutierrez,deborah.gutierrez786@icloud.com,F,25,Boston,MA,2024-03-26 06:41:42,Consumer
+CUST-000787,Sarah,Walker,sarah.walker787@fastmail.com,F,19,Dallas,TX,2024-12-24 02:54:54,Consumer
+CUST-000788,Ronald,Wilson,ronald.wilson788@gmail.com,M,18,Chicago,IL,2024-08-30 19:58:04,Corporate
+CUST-000789,Ronald,Ortiz,ronald.ortiz789@gmail.com,M,27,Houston,TX,2024-05-14 22:30:15,Corporate
+CUST-000790,Samuel,Roberts,samuel.roberts790@outlook.com,M,48,San Diego,CA,2024-05-06 10:20:47,Consumer
+CUST-000791,Thomas,Taylor,thomas.taylor791@proton.me,M,44,Philadelphia,PA,2024-01-15 01:16:47,Consumer
+CUST-000792,Carol,Stewart,carol.stewart792@icloud.com,F,30,Minneapolis,MN,2024-05-19 19:58:18,Small Business
+CUST-000793,Frank,Cooper,frank.cooper793@yahoo.com,M,61,Charlotte,NC,2024-11-01 16:37:20,Corporate
+CUST-000794,Katherine,Parker,katherine.parker794@proton.me,F,28,Minneapolis,MN,2024-06-07 12:38:24,Small Business
+CUST-000795,Mark,Lopez,mark.lopez795@icloud.com,M,51,San Jose,CA,2024-07-06 15:00:28,Consumer
+CUST-000796,Joshua,Johnson,joshua.johnson796@gmail.com,M,54,Portland,OR,2024-03-10 12:31:13,Consumer
+CUST-000797,Jonathan,Johnson,jonathan.johnson797@fastmail.com,M,41,Miami,FL,2024-09-01 10:54:30,Consumer
+CUST-000798,Jason,Nguyen,jason.nguyen798@proton.me,M,27,San Diego,CA,2024-01-04 19:57:35,Corporate
+CUST-000799,Timothy,Bailey,timothy.bailey799@icloud.com,M,31,Denver,CO,2024-05-07 05:56:40,Consumer
+CUST-000800,Christine,Roberts,christine.roberts800@icloud.com,F,38,San Diego,CA,2024-05-14 02:53:02,Consumer
+CUST-000801,Donald,Gutierrez,donald.gutierrez801@proton.me,M,19,Dallas,TX,2024-05-25 23:36:34,Consumer
+CUST-000802,Emily,Evans,emily.evans802@yahoo.com,F,24,Chicago,IL,2024-04-03 04:58:27,Corporate
+CUST-000803,Benjamin,Collins,benjamin.collins803@proton.me,M,23,Atlanta,GA,2024-05-19 22:40:25,Consumer
+CUST-000804,Carol,Williams,carol.williams804@yahoo.com,F,42,Los Angeles,CA,2024-09-30 00:48:20,Consumer
+CUST-000805,Richard,Torres,richard.torres805@outlook.com,M,50,Phoenix,AZ,2024-08-12 00:17:55,Consumer
+CUST-000806,Charles,Johnson,charles.johnson806@icloud.com,M,44,San Antonio,TX,2024-06-24 15:18:02,Consumer
+CUST-000807,Gary,Mitchell,gary.mitchell807@icloud.com,M,47,Los Angeles,CA,2024-06-18 02:55:15,Consumer
+CUST-000808,Karen,Davis,karen.davis808@outlook.com,F,26,Denver,CO,2024-02-06 19:46:37,Consumer
+CUST-000809,Matthew,Allen,matthew.allen809@icloud.com,M,32,New York,NY,2024-03-03 09:03:51,Consumer
+CUST-000810,Jeffrey,Young,jeffrey.young810@fastmail.com,M,32,Los Angeles,CA,2024-04-11 16:46:42,Corporate
+CUST-000811,Susan,Gutierrez,susan.gutierrez811@fastmail.com,F,41,San Antonio,TX,2024-08-30 14:10:03,Consumer
+CUST-000812,Michelle,Adams,michelle.adams812@yahoo.com,F,61,Los Angeles,CA,2024-10-08 18:57:58,VIP
+CUST-000813,Jacob,Hill,jacob.hill813@yahoo.com,M,28,Seattle,WA,2024-01-27 07:55:45,VIP
+CUST-000814,Ashley,Parker,ashley.parker814@outlook.com,F,47,New York,NY,2024-03-26 10:03:08,Consumer
+CUST-000815,Rebecca,Young,rebecca.young815@gmail.com,F,54,Los Angeles,CA,2024-10-24 17:18:14,Small Business
+CUST-000816,Karen,Mitchell,karen.mitchell816@gmail.com,F,42,San Diego,CA,2024-03-21 18:12:05,Corporate
+CUST-000817,Brandon,Baker,brandon.baker817@fastmail.com,M,31,Los Angeles,CA,2024-01-31 12:56:38,Small Business
+CUST-000818,Carolyn,Morgan,carolyn.morgan818@gmail.com,F,25,Phoenix,AZ,2024-09-06 08:28:17,Consumer
+CUST-000819,Stephen,Hall,stephen.hall819@icloud.com,M,23,San Antonio,TX,2024-01-11 13:45:14,Consumer
+CUST-000820,Thomas,Allen,thomas.allen820@gmail.com,M,18,Miami,FL,2024-12-27 15:55:44,Consumer
+CUST-000821,Brenda,Morales,brenda.morales821@yahoo.com,F,33,Charlotte,NC,2024-04-05 19:47:33,Small Business
+CUST-000822,Ryan,Scott,ryan.scott822@proton.me,M,32,Minneapolis,MN,2024-03-23 02:30:27,Consumer
+CUST-000823,Cynthia,Nguyen,cynthia.nguyen823@outlook.com,F,46,Minneapolis,MN,2024-07-06 16:31:57,Small Business
+CUST-000824,Benjamin,Cook,benjamin.cook824@icloud.com,M,29,Philadelphia,PA,2024-01-10 22:33:49,Small Business
+CUST-000825,Samantha,Walker,samantha.walker825@outlook.com,F,33,Chicago,IL,2024-12-03 19:37:22,Corporate
+CUST-000826,Margaret,Ortiz,margaret.ortiz826@fastmail.com,F,39,Miami,FL,2024-10-09 05:36:42,Consumer
+CUST-000827,Carol,Evans,carol.evans827@fastmail.com,F,41,Austin,TX,2024-02-26 03:30:16,Corporate
+CUST-000828,Elizabeth,Garcia,elizabeth.garcia828@yahoo.com,F,44,Philadelphia,PA,2024-01-17 07:21:26,Corporate
+CUST-000829,Matthew,Gonzalez,matthew.gonzalez829@gmail.com,M,38,Charlotte,NC,2024-11-24 14:08:54,VIP
+CUST-000830,Anna,Allen,anna.allen830@gmail.com,F,20,Seattle,WA,2024-04-23 22:03:43,Small Business
+CUST-000831,Mary,Clark,mary.clark831@fastmail.com,F,40,Miami,FL,2024-02-10 17:02:29,Small Business
+CUST-000832,Linda,Campbell,linda.campbell832@proton.me,F,28,Boston,MA,2024-07-07 02:07:21,Consumer
+CUST-000833,Emily,Ortiz,emily.ortiz833@gmail.com,F,50,Chicago,IL,2024-06-04 02:50:15,Corporate
+CUST-000834,Anna,Gonzalez,anna.gonzalez834@gmail.com,F,36,San Diego,CA,2024-09-29 14:01:46,Consumer
+CUST-000835,Eric,Young,eric.young835@proton.me,M,38,Philadelphia,PA,2024-10-12 20:19:16,Consumer
+CUST-000836,Richard,Rivera,richard.rivera836@fastmail.com,M,67,Atlanta,GA,2024-12-25 15:32:57,Consumer
+CUST-000837,Nancy,White,nancy.white837@proton.me,F,45,Denver,CO,2024-09-15 12:17:18,Consumer
+CUST-000838,Brenda,Cruz,brenda.cruz838@outlook.com,F,40,Austin,TX,2024-10-08 11:49:13,Corporate
+CUST-000839,Sharon,Parker,sharon.parker839@fastmail.com,F,34,Austin,TX,2024-11-07 08:45:51,Consumer
+CUST-000840,Betty,Carter,betty.carter840@proton.me,F,21,Dallas,TX,2024-07-03 16:28:17,Consumer
+CUST-000841,Ronald,Smith,ronald.smith841@fastmail.com,M,33,Los Angeles,CA,2024-05-25 21:41:27,Small Business
+CUST-000842,Thomas,Hill,thomas.hill842@gmail.com,M,25,San Jose,CA,2024-04-23 07:49:17,Consumer
+CUST-000843,Patricia,Scott,patricia.scott843@proton.me,F,56,Portland,OR,2024-10-11 20:46:38,Consumer
+CUST-000844,Karen,Gonzalez,karen.gonzalez844@gmail.com,F,40,Atlanta,GA,2024-07-01 05:41:01,Consumer
+CUST-000845,George,Young,george.young845@yahoo.com,M,50,Dallas,TX,2024-06-02 03:20:46,Consumer
+CUST-000846,Emma,Ramirez,emma.ramirez846@fastmail.com,F,28,Chicago,IL,2024-06-15 17:34:06,Consumer
+CUST-000847,Frank,Gonzalez,frank.gonzalez847@proton.me,M,26,San Jose,CA,2024-01-20 20:58:54,VIP
+CUST-000848,Michael,Nelson,michael.nelson848@outlook.com,M,43,Boston,MA,2024-08-01 04:23:19,Consumer
+CUST-000849,Sandra,Johnson,sandra.johnson849@fastmail.com,F,25,Denver,CO,2024-01-28 11:05:48,Consumer
+CUST-000850,Carol,Cooper,carol.cooper850@proton.me,F,30,Phoenix,AZ,2024-06-16 18:17:30,Small Business
+CUST-000851,Karen,Miller,karen.miller851@fastmail.com,F,56,Denver,CO,2024-08-16 21:40:05,Small Business
+CUST-000852,Barbara,Lewis,barbara.lewis852@icloud.com,F,31,San Jose,CA,2024-07-20 05:23:20,Consumer
+CUST-000853,William,Stewart,william.stewart853@proton.me,M,18,Los Angeles,CA,2024-10-07 14:32:02,Corporate
+CUST-000854,Ronald,Cook,ronald.cook854@icloud.com,M,18,Phoenix,AZ,2024-03-10 17:30:35,Consumer
+CUST-000855,Angela,Gomez,angela.gomez855@fastmail.com,F,18,Charlotte,NC,2024-04-10 20:25:53,Corporate
+CUST-000856,Heather,Ortiz,heather.ortiz856@yahoo.com,F,51,San Diego,CA,2024-02-06 09:41:38,Consumer
+CUST-000857,Carol,Lopez,carol.lopez857@gmail.com,F,29,Boston,MA,2024-08-04 13:17:56,Consumer
+CUST-000858,Kenneth,Hall,kenneth.hall858@proton.me,M,66,New York,NY,2024-06-05 06:09:44,Consumer
+CUST-000859,Shirley,Cruz,shirley.cruz859@proton.me,Other,54,Phoenix,AZ,2024-08-13 01:38:02,Consumer
+CUST-000860,Sandra,Sanchez,sandra.sanchez860@fastmail.com,F,60,Seattle,WA,2024-03-20 03:07:27,Consumer
+CUST-000861,Michael,Young,michael.young861@proton.me,M,48,Phoenix,AZ,2024-05-27 00:30:00,Consumer
+CUST-000862,Joseph,Flores,joseph.flores862@icloud.com,M,43,Miami,FL,2024-01-12 12:04:59,Small Business
+CUST-000863,Jonathan,Ramirez,jonathan.ramirez863@yahoo.com,M,26,Minneapolis,MN,2024-09-24 09:25:02,Consumer
+CUST-000864,Samantha,Jackson,samantha.jackson864@fastmail.com,F,35,New York,NY,2024-07-11 21:13:35,Consumer
+CUST-000865,Anna,Garcia,anna.garcia865@outlook.com,F,44,Philadelphia,PA,2024-01-31 10:20:26,Corporate
+CUST-000866,Frank,Wright,frank.wright866@gmail.com,M,47,Atlanta,GA,2024-12-01 00:18:12,Consumer
+CUST-000867,Gregory,Wright,gregory.wright867@fastmail.com,M,22,Seattle,WA,2024-02-25 00:41:40,Consumer
+CUST-000868,Samuel,Roberts,samuel.roberts868@yahoo.com,M,33,Denver,CO,2024-09-17 03:37:35,Consumer
+CUST-000869,Angela,Morgan,angela.morgan869@gmail.com,F,35,Philadelphia,PA,2024-04-11 18:13:41,Consumer
+CUST-000870,Pamela,Williams,pamela.williams870@gmail.com,F,34,San Diego,CA,2024-09-28 11:06:07,Corporate
+CUST-000871,Ronald,Lee,ronald.lee871@gmail.com,M,23,Seattle,WA,2024-12-16 12:48:45,Consumer
+CUST-000872,Joshua,Walker,joshua.walker872@proton.me,M,58,Dallas,TX,2024-02-01 22:47:03,Corporate
+CUST-000873,Edward,Brown,edward.brown873@proton.me,M,33,Dallas,TX,2024-04-25 05:31:24,Small Business
+CUST-000874,Ronald,Moore,ronald.moore874@gmail.com,M,24,Denver,CO,2024-09-23 22:17:54,Consumer
+CUST-000875,Rachel,Robinson,rachel.robinson875@icloud.com,F,58,San Diego,CA,2024-10-20 05:33:41,Consumer
+CUST-000876,Joshua,Nelson,joshua.nelson876@icloud.com,M,54,Minneapolis,MN,2024-03-08 07:31:40,Consumer
+CUST-000877,Nicole,Cooper,nicole.cooper877@fastmail.com,F,37,San Antonio,TX,2024-03-11 11:15:01,Consumer
+CUST-000878,Anna,Moore,anna.moore878@icloud.com,F,18,Phoenix,AZ,2024-12-01 20:33:55,Small Business
+CUST-000879,Carol,Rodriguez,carol.rodriguez879@proton.me,F,30,Minneapolis,MN,2024-03-01 06:42:14,Small Business
+CUST-000880,Charles,Brown,charles.brown880@outlook.com,M,18,Boston,MA,2024-07-29 11:02:40,Small Business
+CUST-000881,Benjamin,Scott,benjamin.scott881@yahoo.com,M,42,San Antonio,TX,2024-02-24 04:47:21,Consumer
+CUST-000882,Brandon,Wright,brandon.wright882@proton.me,M,29,Charlotte,NC,2024-11-09 08:24:26,Consumer
+CUST-000883,Sandra,Brown,sandra.brown883@outlook.com,F,35,Chicago,IL,2024-12-18 17:21:09,Consumer
+CUST-000884,Scott,Stewart,scott.stewart884@fastmail.com,M,57,Seattle,WA,2024-04-04 14:06:25,Corporate
+CUST-000885,Sarah,Lee,sarah.lee885@yahoo.com,F,28,San Diego,CA,2024-01-17 14:52:34,Consumer
+CUST-000886,Mary,Wright,mary.wright886@icloud.com,F,41,San Diego,CA,2024-12-09 07:23:05,Consumer
+CUST-000887,Elizabeth,Thompson,elizabeth.thompson887@icloud.com,F,45,Salt Lake City,UT,2024-09-07 11:49:44,VIP
+CUST-000888,Ashley,Diaz,ashley.diaz888@icloud.com,F,50,Los Angeles,CA,2024-11-07 13:50:56,Consumer
+CUST-000889,Rebecca,Morgan,rebecca.morgan889@proton.me,F,34,Los Angeles,CA,2024-09-23 03:58:48,Consumer
+CUST-000890,John,Young,john.young890@proton.me,M,33,Minneapolis,MN,2024-07-21 01:25:44,Consumer
+CUST-000891,Anna,Miller,anna.miller891@yahoo.com,F,33,San Jose,CA,2024-08-13 14:29:31,Consumer
+CUST-000892,Donna,Reyes,donna.reyes892@yahoo.com,F,40,Boston,MA,2024-05-30 22:19:24,Corporate
+CUST-000893,Carolyn,Gutierrez,carolyn.gutierrez893@yahoo.com,F,53,Atlanta,GA,2024-11-26 16:26:44,Consumer
+CUST-000894,Nicholas,Anderson,nicholas.anderson894@yahoo.com,M,32,Charlotte,NC,2024-12-22 19:53:38,Consumer
+CUST-000895,Timothy,Adams,timothy.adams895@icloud.com,M,18,New York,NY,2024-04-01 16:31:04,Consumer
+CUST-000896,Janet,Sanchez,janet.sanchez896@icloud.com,F,46,Chicago,IL,2024-05-08 11:47:57,Small Business
+CUST-000897,Janet,Lee,janet.lee897@fastmail.com,F,36,Houston,TX,2024-02-16 04:09:23,Small Business
+CUST-000898,Katherine,Campbell,katherine.campbell898@gmail.com,F,42,Portland,OR,2024-12-28 13:59:03,Consumer
+CUST-000899,Shirley,Lee,shirley.lee899@icloud.com,F,18,Minneapolis,MN,2024-07-13 01:35:54,Corporate
+CUST-000900,Amanda,Martin,amanda.martin900@yahoo.com,F,29,Phoenix,AZ,2024-04-01 01:52:05,VIP
+CUST-000901,Joshua,Edwards,joshua.edwards901@outlook.com,M,45,Philadelphia,PA,2024-03-01 04:47:25,Consumer
+CUST-000902,Mary,Allen,mary.allen902@gmail.com,F,20,Atlanta,GA,2024-09-11 18:09:18,Consumer
+CUST-000903,Mary,Murphy,mary.murphy903@yahoo.com,F,41,San Antonio,TX,2024-10-28 17:19:12,Consumer
+CUST-000904,Jeffrey,Hernandez,jeffrey.hernandez904@proton.me,M,35,Salt Lake City,UT,2024-01-04 08:54:35,Consumer
+CUST-000905,Emily,Bailey,emily.bailey905@yahoo.com,F,27,Los Angeles,CA,2024-04-04 05:23:52,Small Business
+CUST-000906,Brian,Jones,brian.jones906@yahoo.com,M,26,Los Angeles,CA,2024-12-07 21:02:51,Consumer
+CUST-000907,Michelle,Nelson,michelle.nelson907@gmail.com,F,23,Los Angeles,CA,2024-02-25 15:10:51,Small Business
+CUST-000908,Kenneth,Torres,kenneth.torres908@proton.me,Other,36,Salt Lake City,UT,2024-10-20 20:28:05,Corporate
+CUST-000909,Ryan,Campbell,ryan.campbell909@gmail.com,M,38,Chicago,IL,2024-06-02 11:45:12,Consumer
+CUST-000910,Edward,Rodriguez,edward.rodriguez910@icloud.com,M,31,Minneapolis,MN,2024-02-03 10:39:42,Consumer
+CUST-000911,Joseph,Scott,joseph.scott911@outlook.com,M,23,Portland,OR,2024-07-30 19:06:06,Consumer
+CUST-000912,Anthony,Davis,anthony.davis912@gmail.com,M,18,Charlotte,NC,2024-11-18 19:15:30,Small Business
+CUST-000913,Ashley,Torres,ashley.torres913@icloud.com,Other,41,Salt Lake City,UT,2024-06-11 09:27:14,Consumer
+CUST-000914,Samantha,Rivera,samantha.rivera914@yahoo.com,F,46,Salt Lake City,UT,2024-10-15 18:04:23,Consumer
+CUST-000915,Katherine,Murphy,katherine.murphy915@icloud.com,F,43,Philadelphia,PA,2024-11-08 08:28:23,Consumer
+CUST-000916,Margaret,Smith,margaret.smith916@gmail.com,F,60,New York,NY,2024-08-26 22:46:20,Consumer
+CUST-000917,Heather,Clark,heather.clark917@proton.me,F,33,Boston,MA,2024-07-30 01:39:22,Consumer
+CUST-000918,Stephen,Ramirez,stephen.ramirez918@gmail.com,M,52,San Antonio,TX,2024-12-19 10:15:13,Corporate
+CUST-000919,David,Flores,david.flores919@outlook.com,M,28,Portland,OR,2024-10-08 11:47:37,Consumer
+CUST-000920,Jessica,Nelson,jessica.nelson920@outlook.com,F,26,Denver,CO,2024-10-18 22:25:39,Consumer
+CUST-000921,Lisa,Harris,lisa.harris921@outlook.com,F,37,Austin,TX,2024-12-10 17:26:37,Consumer
+CUST-000922,Jennifer,Moore,jennifer.moore922@icloud.com,F,55,Phoenix,AZ,2024-11-17 16:46:14,Small Business
+CUST-000923,Brenda,Nelson,brenda.nelson923@icloud.com,F,32,Boston,MA,2024-01-29 18:58:18,VIP
+CUST-000924,Alexander,Green,alexander.green924@proton.me,M,18,Minneapolis,MN,2024-01-10 07:34:57,Corporate
+CUST-000925,Amanda,Rivera,amanda.rivera925@gmail.com,F,46,Phoenix,AZ,2024-05-23 01:08:05,Consumer
+CUST-000926,Edward,Morgan,edward.morgan926@yahoo.com,M,35,Charlotte,NC,2024-11-06 14:11:01,Consumer
+CUST-000927,Joseph,Flores,joseph.flores927@fastmail.com,M,39,Austin,TX,2024-12-29 01:09:05,Small Business
+CUST-000928,William,Murphy,william.murphy928@yahoo.com,M,26,Seattle,WA,2024-08-19 11:01:06,Consumer
+CUST-000929,Joshua,Thompson,joshua.thompson929@gmail.com,M,37,Seattle,WA,2024-01-20 07:21:29,Consumer
+CUST-000930,Cynthia,Cook,cynthia.cook930@gmail.com,F,18,Miami,FL,2024-09-13 05:36:35,Corporate
+CUST-000931,Jacob,Ortiz,jacob.ortiz931@outlook.com,M,58,Austin,TX,2024-03-14 03:34:38,Corporate
+CUST-000932,Anna,Taylor,anna.taylor932@yahoo.com,F,48,Los Angeles,CA,2024-08-23 14:06:41,Consumer
+CUST-000933,Anna,Anderson,anna.anderson933@gmail.com,F,36,San Jose,CA,2024-01-23 21:38:14,Consumer
+CUST-000934,Amanda,Reyes,amanda.reyes934@gmail.com,F,46,Houston,TX,2024-09-23 23:59:34,Corporate
+CUST-000935,Patricia,Flores,patricia.flores935@fastmail.com,F,28,San Antonio,TX,2024-06-13 07:18:07,Small Business
+CUST-000936,Paul,Morgan,paul.morgan936@outlook.com,M,48,Atlanta,GA,2024-12-09 04:17:00,Small Business
+CUST-000937,Christopher,Scott,christopher.scott937@gmail.com,M,31,New York,NY,2024-11-14 20:22:31,Consumer
+CUST-000938,Betty,Cooper,betty.cooper938@outlook.com,F,31,Minneapolis,MN,2024-06-12 09:52:07,Small Business
+CUST-000939,Patrick,Torres,patrick.torres939@proton.me,M,24,San Diego,CA,2024-03-28 02:35:37,Consumer
+CUST-000940,Kevin,Cooper,kevin.cooper940@icloud.com,M,41,Los Angeles,CA,2024-03-07 01:03:20,Consumer
+CUST-000941,Alexander,Miller,alexander.miller941@gmail.com,M,36,Denver,CO,2024-01-28 03:08:07,VIP
+CUST-000942,Daniel,Edwards,daniel.edwards942@proton.me,M,52,Seattle,WA,2024-06-08 12:05:59,Consumer
+CUST-000943,Janet,Morgan,janet.morgan943@gmail.com,F,23,Atlanta,GA,2024-10-17 04:47:54,Small Business
+CUST-000944,Frank,Reyes,frank.reyes944@gmail.com,M,41,Atlanta,GA,2024-06-07 23:27:45,Consumer
+CUST-000945,Kathleen,Stewart,kathleen.stewart945@yahoo.com,F,50,San Diego,CA,2024-03-14 22:27:43,Corporate
+CUST-000946,George,Gomez,george.gomez946@yahoo.com,M,67,Austin,TX,2024-06-15 16:30:12,Small Business
+CUST-000947,David,Stewart,david.stewart947@gmail.com,M,38,Seattle,WA,2024-09-02 16:47:35,Consumer
+CUST-000948,Donna,Hall,donna.hall948@proton.me,F,31,Charlotte,NC,2024-03-06 18:29:37,Small Business
+CUST-000949,Patrick,Wilson,patrick.wilson949@outlook.com,M,38,Minneapolis,MN,2024-11-28 02:34:56,Corporate
+CUST-000950,Brenda,Reyes,brenda.reyes950@icloud.com,F,51,Charlotte,NC,2024-07-30 08:41:10,Consumer
+CUST-000951,Pamela,Lee,pamela.lee951@icloud.com,F,51,Denver,CO,2024-02-03 12:24:18,Consumer
+CUST-000952,Frank,Parker,frank.parker952@icloud.com,M,34,Charlotte,NC,2024-06-24 19:49:32,Consumer
+CUST-000953,Lisa,Martinez,lisa.martinez953@fastmail.com,F,51,Charlotte,NC,2024-09-06 04:09:44,Consumer
+CUST-000954,Kathleen,Adams,kathleen.adams954@proton.me,F,35,Houston,TX,2024-08-15 06:24:51,Consumer
+CUST-000955,Ronald,Rodriguez,ronald.rodriguez955@proton.me,M,46,Houston,TX,2024-12-16 21:42:52,Consumer
+CUST-000956,Stephanie,Adams,stephanie.adams956@icloud.com,F,42,Los Angeles,CA,2024-02-16 07:55:22,Consumer
+CUST-000957,Nicole,Smith,nicole.smith957@yahoo.com,F,31,Phoenix,AZ,2024-08-19 19:20:32,Consumer
+CUST-000958,Brandon,Edwards,brandon.edwards958@yahoo.com,M,24,San Antonio,TX,2024-12-14 11:31:37,Corporate
+CUST-000959,Alexander,Hill,alexander.hill959@icloud.com,M,50,Seattle,WA,2024-02-15 21:12:59,Consumer
+CUST-000960,Nicholas,Phillips,nicholas.phillips960@yahoo.com,M,54,San Jose,CA,2024-02-01 13:26:34,Small Business
+CUST-000961,Linda,Smith,linda.smith961@fastmail.com,F,40,Minneapolis,MN,2024-07-02 03:59:38,Consumer
+CUST-000962,Patricia,Walker,patricia.walker962@icloud.com,F,35,Charlotte,NC,2024-07-20 22:45:48,Consumer
+CUST-000963,Edward,Phillips,edward.phillips963@icloud.com,M,21,Boston,MA,2024-10-06 07:41:24,Corporate
+CUST-000964,Amy,Moore,amy.moore964@yahoo.com,F,50,Minneapolis,MN,2024-07-15 13:07:03,Consumer
+CUST-000965,Karen,Torres,karen.torres965@fastmail.com,F,39,Phoenix,AZ,2024-03-09 00:25:20,Consumer
+CUST-000966,Robert,Jackson,robert.jackson966@fastmail.com,M,32,Miami,FL,2024-12-02 15:54:03,Small Business
+CUST-000967,Sarah,Hernandez,sarah.hernandez967@yahoo.com,F,46,Boston,MA,2024-08-21 22:00:23,Corporate
+CUST-000968,Samantha,White,samantha.white968@icloud.com,F,19,Portland,OR,2024-08-05 20:05:58,Consumer
+CUST-000969,Stephanie,Rivera,stephanie.rivera969@yahoo.com,F,23,Philadelphia,PA,2024-08-05 22:00:42,Consumer
+CUST-000970,Gary,Walker,gary.walker970@fastmail.com,M,27,Portland,OR,2024-05-17 14:57:29,Consumer
+CUST-000971,Emma,Campbell,emma.campbell971@gmail.com,F,42,Los Angeles,CA,2024-10-17 17:35:42,Small Business
+CUST-000972,Jessica,Morris,jessica.morris972@fastmail.com,F,38,Chicago,IL,2024-03-13 19:09:57,Corporate
+CUST-000973,Stephen,Reyes,stephen.reyes973@proton.me,Other,43,Chicago,IL,2024-09-24 22:12:43,Consumer
+CUST-000974,Jacob,Martinez,jacob.martinez974@fastmail.com,M,49,Minneapolis,MN,2024-10-23 11:22:39,Small Business
+CUST-000975,Amanda,Morgan,amanda.morgan975@gmail.com,F,44,Miami,FL,2024-08-20 18:39:55,Consumer
+CUST-000976,Emma,Nelson,emma.nelson976@icloud.com,F,58,Seattle,WA,2024-05-30 10:31:47,Consumer
+CUST-000977,Frank,Hill,frank.hill977@fastmail.com,M,49,Charlotte,NC,2024-05-13 02:14:10,Consumer
+CUST-000978,Nicole,Perez,nicole.perez978@proton.me,F,34,Los Angeles,CA,2024-12-02 10:37:20,Consumer
+CUST-000979,Samantha,Brown,samantha.brown979@outlook.com,F,29,Miami,FL,2024-02-12 04:37:02,Corporate
+CUST-000980,Emily,Allen,emily.allen980@yahoo.com,F,34,Salt Lake City,UT,2024-05-23 10:01:13,Small Business
+CUST-000981,Mary,Anderson,mary.anderson981@proton.me,F,44,Philadelphia,PA,2024-10-29 05:30:09,Consumer
+CUST-000982,Deborah,Thompson,deborah.thompson982@outlook.com,F,30,San Diego,CA,2024-09-05 06:34:59,Small Business
+CUST-000983,Jennifer,Baker,jennifer.baker983@gmail.com,F,44,Phoenix,AZ,2024-10-31 05:36:44,Consumer
+CUST-000984,Sharon,Roberts,sharon.roberts984@yahoo.com,F,43,Atlanta,GA,2024-11-22 06:05:26,VIP
+CUST-000985,Brian,Miller,brian.miller985@fastmail.com,M,24,Dallas,TX,2024-02-29 01:54:44,Small Business
+CUST-000986,Ronald,Stewart,ronald.stewart986@outlook.com,M,49,Miami,FL,2024-09-29 08:30:26,Consumer
+CUST-000987,Patrick,Roberts,patrick.roberts987@icloud.com,M,40,Dallas,TX,2024-03-15 19:18:46,Consumer
+CUST-000988,Mary,Torres,mary.torres988@icloud.com,F,58,Denver,CO,2024-12-13 11:29:37,Consumer
+CUST-000989,Rachel,Garcia,rachel.garcia989@gmail.com,F,35,Minneapolis,MN,2024-11-22 12:52:56,Consumer
+CUST-000990,Laura,Wright,laura.wright990@outlook.com,F,32,Dallas,TX,2024-05-16 03:34:41,Consumer
+CUST-000991,Justin,Gomez,justin.gomez991@icloud.com,M,23,San Diego,CA,2024-12-10 21:26:05,Corporate
+CUST-000992,Anna,Baker,anna.baker992@fastmail.com,F,23,Philadelphia,PA,2024-06-09 19:56:16,Consumer
+CUST-000993,James,Rodriguez,james.rodriguez993@gmail.com,M,47,Boston,MA,2024-02-20 19:07:27,Small Business
+CUST-000994,Jeffrey,Hall,jeffrey.hall994@yahoo.com,M,56,San Jose,CA,2024-05-08 07:01:47,Consumer
+CUST-000995,Brandon,Lopez,brandon.lopez995@gmail.com,M,34,Salt Lake City,UT,2024-12-02 07:53:39,Corporate
+CUST-000996,Katherine,Thomas,katherine.thomas996@fastmail.com,F,33,Houston,TX,2024-02-14 22:00:57,Consumer
+CUST-000997,Gregory,White,gregory.white997@gmail.com,M,36,Philadelphia,PA,2024-05-09 10:43:29,Consumer
+CUST-000998,David,Collins,david.collins998@outlook.com,M,49,Boston,MA,2024-12-20 11:46:29,Small Business
+CUST-000999,David,Scott,david.scott0@gmail.com,M,24,Denver,CO,2024-07-17 12:06:41,Consumer
+CUST-001000,Eric,King,eric.king1@yahoo.com,Other,38,Atlanta,GA,2024-02-05 17:54:10,Small Business
+CUST-001001,Margaret,Gomez,margaret.gomez2@yahoo.com,F,47,Miami,FL,2024-02-25 05:14:17,Small Business
+CUST-001002,Laura,Ramirez,laura.ramirez3@proton.me,F,42,Houston,TX,2024-08-14 09:25:47,Consumer
+CUST-001003,David,Martinez,david.martinez4@proton.me,M,18,Dallas,TX,2024-08-16 00:40:59,Consumer
+CUST-001004,Karen,Smith,karen.smith5@gmail.com,F,44,Denver,CO,2024-05-16 05:31:11,Consumer
+CUST-001005,Rebecca,Smith,rebecca.smith6@proton.me,F,42,Miami,FL,2024-09-01 15:52:34,Small Business
+CUST-001006,David,Cooper,david.cooper7@yahoo.com,M,52,New York,NY,2024-07-15 17:33:05,Consumer
+CUST-001007,Jonathan,Rivera,jonathan.rivera8@outlook.com,M,55,San Jose,CA,2024-07-24 02:00:34,Consumer
+CUST-001008,Christine,Lopez,christine.lopez9@outlook.com,F,51,Minneapolis,MN,2024-06-23 02:55:45,Corporate
+CUST-001009,Donna,Sanchez,donna.sanchez10@yahoo.com,F,36,Minneapolis,MN,2024-01-21 13:59:13,Consumer
+CUST-001010,Michelle,Roberts,michelle.roberts11@gmail.com,F,18,Seattle,WA,2024-09-06 03:05:23,Consumer
+CUST-001011,Cynthia,Harris,cynthia.harris12@yahoo.com,F,62,Los Angeles,CA,2024-04-08 00:55:24,VIP
+CUST-001012,Nicole,Walker,nicole.walker13@icloud.com,F,33,Denver,CO,2024-02-02 19:40:51,Consumer
+CUST-001013,Angela,Morgan,angela.morgan14@icloud.com,F,36,New York,NY,2024-01-19 12:21:10,Consumer
+CUST-001014,John,Phillips,john.phillips15@gmail.com,M,56,San Antonio,TX,2024-11-30 19:02:46,Consumer
+CUST-001015,Alexander,Morgan,alexander.morgan16@yahoo.com,M,27,Charlotte,NC,2024-04-29 02:37:21,Consumer
+CUST-001016,Charles,Morales,charles.morales17@fastmail.com,M,20,New York,NY,2024-08-29 22:30:51,Consumer
+CUST-001017,Frank,Taylor,frank.taylor18@gmail.com,M,30,Philadelphia,PA,2024-11-19 01:49:08,VIP
+CUST-001018,Susan,Collins,susan.collins19@proton.me,F,27,Philadelphia,PA,2024-10-29 02:19:43,Consumer
+CUST-001019,Susan,Anderson,susan.anderson20@icloud.com,F,19,Salt Lake City,UT,2024-11-11 08:01:50,Consumer
+CUST-001020,Matthew,Diaz,matthew.diaz21@outlook.com,M,35,Denver,CO,2024-06-15 04:23:53,Consumer
+CUST-001021,Emma,Cooper,emma.cooper22@yahoo.com,F,36,Austin,TX,2024-04-19 01:39:35,Consumer
+CUST-001022,Amanda,Rodriguez,amanda.rodriguez23@gmail.com,F,18,Dallas,TX,2024-03-13 15:06:55,Consumer
+CUST-001023,George,Peterson,george.peterson24@yahoo.com,M,32,Atlanta,GA,2024-05-04 21:11:22,Small Business
+CUST-001024,Richard,Carter,richard.carter25@yahoo.com,M,26,New York,NY,2024-09-06 02:56:20,Consumer
+CUST-001025,Daniel,Lopez,daniel.lopez26@fastmail.com,M,18,Charlotte,NC,2024-05-25 15:09:15,Small Business
+CUST-001026,Amy,Taylor,amy.taylor27@yahoo.com,F,37,Phoenix,AZ,2024-11-23 09:51:53,Consumer
+CUST-001027,Sharon,Walker,sharon.walker28@yahoo.com,F,38,Salt Lake City,UT,2024-12-20 01:22:11,Consumer
+CUST-001028,Janet,Murphy,janet.murphy29@proton.me,F,26,Chicago,IL,2024-11-17 10:57:58,Consumer
+CUST-001029,James,Bailey,james.bailey30@yahoo.com,M,48,San Antonio,TX,2024-03-01 19:18:14,Consumer
+CUST-001030,Samantha,Campbell,samantha.campbell31@proton.me,F,36,Portland,OR,2024-04-22 16:54:05,Corporate
+CUST-001031,Debra,Clark,debra.clark32@outlook.com,F,27,Los Angeles,CA,2024-04-09 04:06:09,Consumer
+CUST-001032,Rachel,Stewart,rachel.stewart33@icloud.com,F,18,Philadelphia,PA,2024-03-22 01:34:11,Consumer
+CUST-001033,George,Torres,george.torres34@yahoo.com,M,39,Boston,MA,2024-05-08 12:10:16,Consumer
+CUST-001034,Kathleen,Garcia,kathleen.garcia35@gmail.com,F,42,Los Angeles,CA,2024-10-02 06:24:13,Consumer
+CUST-001035,Robert,Morales,robert.morales36@proton.me,M,30,Houston,TX,2024-02-06 08:34:01,Consumer
+CUST-001036,Nicole,Adams,nicole.adams37@icloud.com,F,37,San Antonio,TX,2024-12-12 11:51:28,Consumer
+CUST-001037,Joseph,Adams,joseph.adams38@yahoo.com,M,55,Houston,TX,2024-05-01 15:01:19,Consumer
+CUST-001038,Stephanie,Lewis,stephanie.lewis39@gmail.com,F,46,Miami,FL,2024-10-26 17:38:12,Consumer
+CUST-001039,Jason,Jackson,jason.jackson40@yahoo.com,M,18,Salt Lake City,UT,2024-08-20 06:28:58,Consumer
+CUST-001040,Thomas,Collins,thomas.collins41@fastmail.com,M,27,San Antonio,TX,2024-11-19 13:03:21,Consumer
+CUST-001041,Margaret,Nelson,margaret.nelson42@yahoo.com,F,34,Los Angeles,CA,2024-12-20 20:42:16,Consumer
+CUST-001042,Thomas,Anderson,thomas.anderson43@icloud.com,M,36,Atlanta,GA,2024-08-02 06:13:59,Consumer
+CUST-001043,Sandra,Nguyen,sandra.nguyen44@proton.me,F,38,Philadelphia,PA,2024-11-22 22:15:54,Corporate
+CUST-001044,Emma,Peterson,emma.peterson45@yahoo.com,F,41,Chicago,IL,2024-07-29 18:59:49,Consumer
+CUST-001045,Anthony,Stewart,anthony.stewart46@icloud.com,M,34,Dallas,TX,2024-01-08 15:35:13,Consumer
+CUST-001046,Ashley,Young,ashley.young47@outlook.com,F,36,Boston,MA,2024-10-23 08:05:51,Small Business
+CUST-001047,Nicole,Martin,nicole.martin48@proton.me,F,47,New York,NY,2024-08-01 01:36:36,Corporate
+CUST-001048,Jacob,Cook,jacob.cook49@gmail.com,M,39,Boston,MA,2024-09-28 14:21:24,Consumer
+CUST-001049,Frank,Gonzalez,frank.gonzalez50@icloud.com,M,22,Miami,FL,2024-05-03 03:01:30,Consumer
+CUST-001050,Mary,Evans,mary.evans51@yahoo.com,F,37,Phoenix,AZ,2024-07-02 10:46:09,Consumer
+CUST-001051,William,Williams,william.williams52@icloud.com,M,34,San Jose,CA,2024-03-23 16:43:19,Consumer
+CUST-001052,Heather,Brown,heather.brown53@icloud.com,F,18,Atlanta,GA,2024-03-11 14:45:31,Consumer
+CUST-001053,George,Reyes,george.reyes54@fastmail.com,M,37,New York,NY,2024-11-17 02:34:26,Consumer
+CUST-001054,Frank,Nelson,frank.nelson55@proton.me,M,23,Los Angeles,CA,2024-05-31 15:30:23,Corporate
+CUST-001055,Carolyn,Cooper,carolyn.cooper56@proton.me,F,47,San Antonio,TX,2024-12-16 02:56:51,Corporate
+CUST-001056,Amanda,Davis,amanda.davis57@proton.me,F,41,Seattle,WA,2024-01-27 04:02:24,Consumer
+CUST-001057,Ryan,Garcia,ryan.garcia58@outlook.com,M,21,Seattle,WA,2024-03-30 23:35:57,Consumer
+CUST-001058,Elizabeth,Bailey,elizabeth.bailey59@fastmail.com,F,47,San Antonio,TX,2024-03-11 12:11:39,Corporate
+CUST-001059,Joseph,Morris,joseph.morris60@fastmail.com,M,52,Charlotte,NC,2024-12-25 07:38:18,Small Business
+CUST-001060,Sandra,Adams,sandra.adams61@outlook.com,F,32,Dallas,TX,2024-09-14 15:23:54,Small Business
+CUST-001061,David,Mitchell,david.mitchell62@outlook.com,M,34,Atlanta,GA,2024-09-05 18:15:26,Consumer
+CUST-001062,Jessica,Stewart,jessica.stewart63@fastmail.com,F,45,Minneapolis,MN,2024-12-13 19:24:02,Consumer
+CUST-001063,Cynthia,Mitchell,cynthia.mitchell64@fastmail.com,F,51,Chicago,IL,2024-04-06 16:40:14,Corporate
+CUST-001064,Ronald,Thompson,ronald.thompson65@outlook.com,M,18,Chicago,IL,2024-02-25 05:59:56,Corporate
+CUST-001065,Frank,Jackson,frank.jackson66@icloud.com,M,22,Phoenix,AZ,2024-04-14 18:57:27,Consumer
+CUST-001066,Patricia,Nguyen,patricia.nguyen67@icloud.com,F,31,Minneapolis,MN,2024-03-08 17:15:15,Consumer
+CUST-001067,Jeffrey,Williams,jeffrey.williams68@outlook.com,M,32,San Antonio,TX,2024-02-02 00:48:08,Consumer
+CUST-001068,Sandra,Gutierrez,sandra.gutierrez69@fastmail.com,F,45,Austin,TX,2024-07-29 21:04:11,Consumer
+CUST-001069,Samuel,Adams,samuel.adams70@icloud.com,M,51,Charlotte,NC,2024-12-06 19:18:09,Consumer
+CUST-001070,Cynthia,Collins,cynthia.collins71@outlook.com,F,52,Charlotte,NC,2024-03-08 11:09:32,Consumer
+CUST-001071,Steven,Robinson,steven.robinson72@icloud.com,M,18,Seattle,WA,2024-05-27 01:43:22,Corporate
+CUST-001072,Andrew,Collins,andrew.collins73@yahoo.com,M,26,Salt Lake City,UT,2024-03-23 19:29:25,Consumer
+CUST-001073,Daniel,Martin,daniel.martin74@yahoo.com,M,21,San Diego,CA,2024-02-29 01:29:53,VIP
+CUST-001074,Laura,Taylor,laura.taylor75@icloud.com,Other,28,Dallas,TX,2024-07-08 06:43:02,Consumer
+CUST-001075,Patrick,Jones,patrick.jones76@fastmail.com,M,26,Austin,TX,2024-06-25 05:23:11,Consumer
+CUST-001076,Jonathan,Lee,jonathan.lee77@proton.me,M,41,San Jose,CA,2024-03-03 00:54:26,Consumer
+CUST-001077,Gary,Jackson,gary.jackson78@icloud.com,M,42,Austin,TX,2024-03-20 00:09:22,Consumer
+CUST-001078,Brenda,Cook,brenda.cook79@outlook.com,F,36,San Jose,CA,2024-08-30 10:33:08,Consumer
+CUST-001079,Emma,Jackson,emma.jackson80@proton.me,F,34,Atlanta,GA,2024-06-22 04:05:21,Consumer
+CUST-001080,Jennifer,Moore,jennifer.moore81@fastmail.com,F,31,Minneapolis,MN,2024-02-29 11:13:00,Consumer
+CUST-001081,Brandon,Lewis,brandon.lewis82@icloud.com,M,32,Seattle,WA,2024-02-17 11:52:57,Consumer
+CUST-001082,Samuel,Harris,samuel.harris83@proton.me,M,55,Portland,OR,2024-04-23 10:07:08,Small Business
+CUST-001083,William,Morgan,william.morgan84@icloud.com,M,44,Chicago,IL,2024-09-19 14:21:37,Consumer
+CUST-001084,Kenneth,Rogers,kenneth.rogers85@gmail.com,M,31,Seattle,WA,2024-07-22 05:23:11,Small Business
+CUST-001085,Laura,Mitchell,laura.mitchell86@icloud.com,F,34,Seattle,WA,2024-01-07 10:21:49,Consumer
+CUST-001086,Joshua,Edwards,joshua.edwards87@proton.me,M,41,Chicago,IL,2024-04-20 16:10:24,Consumer
+CUST-001087,Sharon,Cruz,sharon.cruz88@outlook.com,F,21,Philadelphia,PA,2024-08-05 15:04:49,Consumer
+CUST-001088,Justin,Lopez,justin.lopez89@yahoo.com,M,37,San Antonio,TX,2024-06-04 17:16:48,Consumer
+CUST-001089,Amanda,Nelson,amanda.nelson90@gmail.com,Other,43,Charlotte,NC,2024-07-11 03:13:13,Consumer
+CUST-001090,Benjamin,Wright,benjamin.wright91@icloud.com,M,42,Philadelphia,PA,2024-10-11 16:49:30,Consumer
+CUST-001091,Sarah,Sanchez,sarah.sanchez92@yahoo.com,F,26,Denver,CO,2024-05-28 20:09:56,Consumer
+CUST-001092,Michelle,Hill,michelle.hill93@icloud.com,F,28,Minneapolis,MN,2024-08-25 08:10:28,Consumer
+CUST-001093,James,Martin,james.martin94@outlook.com,M,18,San Jose,CA,2024-11-23 23:10:35,Consumer
+CUST-001094,Samuel,Torres,samuel.torres95@icloud.com,M,44,Philadelphia,PA,2024-09-08 23:28:33,Consumer
+CUST-001095,Joseph,Scott,joseph.scott96@icloud.com,M,60,Chicago,IL,2024-11-02 13:10:16,Consumer
+CUST-001096,Emma,Parker,emma.parker97@outlook.com,F,24,Miami,FL,2024-12-21 04:21:14,Consumer
+CUST-001097,Larry,Williams,larry.williams98@outlook.com,M,49,Philadelphia,PA,2024-10-24 02:07:49,Consumer
+CUST-001098,Ryan,Moore,ryan.moore99@outlook.com,M,59,Philadelphia,PA,2024-01-28 09:55:39,Consumer
+CUST-001099,Benjamin,Rivera,benjamin.rivera100@gmail.com,M,30,San Jose,CA,2024-05-29 19:16:57,Consumer
+CUST-001100,Elizabeth,Rogers,elizabeth.rogers101@yahoo.com,F,34,Philadelphia,PA,2024-02-18 21:48:00,Consumer
+CUST-001101,Brenda,Adams,brenda.adams102@outlook.com,F,39,San Jose,CA,2024-05-18 13:11:56,Consumer
+CUST-001102,Justin,Rivera,justin.rivera103@yahoo.com,M,41,New York,NY,2024-03-11 18:51:57,Small Business
+CUST-001103,Gary,Evans,gary.evans104@outlook.com,M,39,Philadelphia,PA,2024-02-22 07:55:57,Consumer
+CUST-001104,Mark,Harris,mark.harris105@proton.me,M,31,Salt Lake City,UT,2024-12-19 19:08:18,Corporate
+CUST-001105,Janet,Peterson,janet.peterson106@fastmail.com,F,43,Houston,TX,2024-08-01 16:45:57,Small Business
+CUST-001106,Jessica,Taylor,jessica.taylor107@gmail.com,F,31,Miami,FL,2024-06-27 11:20:38,Consumer
+CUST-001107,Sarah,Cruz,sarah.cruz108@proton.me,F,40,Portland,OR,2024-06-24 06:16:11,Consumer
+CUST-001108,Patricia,Thomas,patricia.thomas109@yahoo.com,F,35,Phoenix,AZ,2024-12-21 05:10:59,Small Business
+CUST-001109,Michelle,Taylor,michelle.taylor110@yahoo.com,F,18,Phoenix,AZ,2024-02-10 15:28:00,Consumer
+CUST-001110,Jessica,Martinez,jessica.martinez111@gmail.com,F,51,Miami,FL,2024-08-08 01:32:52,Consumer
+CUST-001111,John,Rogers,john.rogers112@proton.me,M,28,Los Angeles,CA,2024-08-28 04:19:47,Consumer
+CUST-001112,Jennifer,Rodriguez,jennifer.rodriguez113@outlook.com,F,52,New York,NY,2024-02-19 04:30:25,Consumer
+CUST-001113,Betty,Sanchez,betty.sanchez114@yahoo.com,F,48,Seattle,WA,2024-01-15 03:18:18,VIP
+CUST-001114,Paul,Hall,paul.hall115@outlook.com,M,38,Philadelphia,PA,2024-09-13 22:19:01,Consumer
+CUST-001115,Larry,Rodriguez,larry.rodriguez116@gmail.com,M,42,Charlotte,NC,2024-01-08 19:15:15,Consumer
+CUST-001116,Matthew,Torres,matthew.torres117@yahoo.com,M,43,Minneapolis,MN,2024-01-03 03:35:34,VIP
+CUST-001117,Shirley,Stewart,shirley.stewart118@outlook.com,F,33,Charlotte,NC,2024-04-04 16:00:27,Small Business
+CUST-001118,Susan,White,susan.white119@outlook.com,F,34,Denver,CO,2024-08-05 07:48:05,Consumer
+CUST-001119,Sharon,Anderson,sharon.anderson120@outlook.com,F,43,Houston,TX,2024-08-26 04:00:59,Consumer
+CUST-001120,Angela,Campbell,angela.campbell121@fastmail.com,F,18,San Jose,CA,2024-10-12 01:28:42,Small Business
+CUST-001121,Gary,Anderson,gary.anderson122@icloud.com,M,35,San Jose,CA,2024-08-21 21:51:34,Corporate
+CUST-001122,Rachel,Cruz,rachel.cruz123@yahoo.com,F,31,Minneapolis,MN,2024-07-27 10:34:48,Corporate
+CUST-001123,Sarah,Harris,sarah.harris124@gmail.com,Other,26,Miami,FL,2024-12-13 13:22:41,Consumer
+CUST-001124,Alexander,Morales,alexander.morales125@fastmail.com,M,40,Houston,TX,2024-07-21 15:56:57,Consumer
+CUST-001125,Rachel,Hernandez,rachel.hernandez126@gmail.com,F,28,Phoenix,AZ,2024-07-21 14:35:10,Consumer
+CUST-001126,Susan,Perez,susan.perez127@gmail.com,F,46,Seattle,WA,2024-04-11 12:19:45,VIP
+CUST-001127,Ronald,Thomas,ronald.thomas128@yahoo.com,M,47,Boston,MA,2024-09-12 10:08:25,Consumer
+CUST-001128,Nicole,Wright,nicole.wright129@fastmail.com,F,42,Denver,CO,2024-07-01 17:19:27,Consumer
+CUST-001129,Rebecca,Morales,rebecca.morales130@proton.me,F,44,Dallas,TX,2024-03-16 16:33:09,Corporate
+CUST-001130,Steven,Morales,steven.morales131@icloud.com,M,42,San Diego,CA,2024-11-17 04:54:03,Consumer
+CUST-001131,Michael,Rodriguez,michael.rodriguez132@icloud.com,M,45,New York,NY,2024-04-01 13:55:52,Corporate
+CUST-001132,Carol,Martin,carol.martin133@outlook.com,F,45,Salt Lake City,UT,2024-11-15 03:30:26,Corporate
+CUST-001133,Debra,Gutierrez,debra.gutierrez134@icloud.com,F,40,Atlanta,GA,2024-04-13 10:41:17,Consumer
+CUST-001134,Angela,Cook,angela.cook135@outlook.com,F,48,Minneapolis,MN,2024-06-24 19:40:48,Consumer
+CUST-001135,Jennifer,Parker,jennifer.parker136@gmail.com,F,34,Denver,CO,2024-08-18 11:27:09,Consumer
+CUST-001136,Cynthia,Collins,cynthia.collins137@gmail.com,F,27,Los Angeles,CA,2024-03-31 20:16:03,Consumer
+CUST-001137,Michelle,Perez,michelle.perez138@icloud.com,F,26,Boston,MA,2024-03-09 11:22:34,Small Business
+CUST-001138,Angela,Anderson,angela.anderson139@proton.me,F,32,Miami,FL,2024-12-03 20:09:45,Small Business
+CUST-001139,Emma,Stewart,emma.stewart140@icloud.com,F,18,Minneapolis,MN,2024-03-21 18:26:52,Consumer
+CUST-001140,Steven,Murphy,steven.murphy141@proton.me,M,38,Denver,CO,2024-11-11 12:50:37,Consumer
+CUST-001141,Donna,Adams,donna.adams142@gmail.com,F,43,New York,NY,2024-10-29 01:38:33,Consumer
+CUST-001142,George,Hall,george.hall143@fastmail.com,M,47,Charlotte,NC,2024-01-14 22:45:40,Consumer
+CUST-001143,Richard,Diaz,richard.diaz144@outlook.com,M,18,Seattle,WA,2024-07-29 12:47:21,Consumer
+CUST-001144,Donald,Young,donald.young145@yahoo.com,M,26,San Jose,CA,2024-10-30 03:05:33,Consumer
+CUST-001145,Elizabeth,Flores,elizabeth.flores146@gmail.com,F,45,Austin,TX,2024-03-27 00:43:03,Consumer
+CUST-001146,Jennifer,Collins,jennifer.collins147@fastmail.com,F,33,Boston,MA,2024-10-17 18:44:30,Consumer
+CUST-001147,Emily,Williams,emily.williams148@fastmail.com,F,43,Miami,FL,2024-10-28 00:48:34,VIP
+CUST-001148,Jennifer,Roberts,jennifer.roberts149@outlook.com,Other,21,Charlotte,NC,2024-02-20 17:46:50,Consumer
+CUST-001149,Alexander,Clark,alexander.clark150@outlook.com,M,52,Miami,FL,2024-09-14 12:21:44,Consumer
+CUST-001150,Joshua,Campbell,joshua.campbell151@icloud.com,M,20,San Antonio,TX,2024-09-11 23:08:08,Small Business
+CUST-001151,Elizabeth,Morgan,elizabeth.morgan152@yahoo.com,F,18,San Jose,CA,2024-05-15 01:43:50,Consumer
+CUST-001152,Larry,Phillips,larry.phillips153@yahoo.com,M,38,Salt Lake City,UT,2024-02-17 21:03:04,Consumer
+CUST-001153,Kevin,Wright,kevin.wright154@gmail.com,M,38,Charlotte,NC,2024-09-28 17:18:14,Consumer
+CUST-001154,Brian,Martinez,brian.martinez155@fastmail.com,M,30,San Jose,CA,2024-09-15 10:55:09,Corporate
+CUST-001155,Jonathan,Green,jonathan.green156@yahoo.com,M,41,Boston,MA,2024-07-24 09:08:53,Consumer
+CUST-001156,Kathleen,Peterson,kathleen.peterson157@yahoo.com,F,42,New York,NY,2024-11-17 18:47:42,Consumer
+CUST-001157,Emma,Murphy,emma.murphy158@yahoo.com,F,40,Atlanta,GA,2024-05-17 23:13:34,Consumer
+CUST-001158,Samantha,Parker,samantha.parker159@proton.me,F,29,Los Angeles,CA,2024-09-24 07:18:19,Consumer
+CUST-001159,Charles,Walker,charles.walker160@yahoo.com,M,27,San Jose,CA,2024-08-10 14:56:13,Consumer
+CUST-001160,David,Clark,david.clark161@icloud.com,M,31,Dallas,TX,2024-05-26 23:31:18,Consumer
+CUST-001161,Alexander,Walker,alexander.walker162@icloud.com,M,26,San Diego,CA,2024-02-28 05:27:35,Consumer
+CUST-001162,Donald,Flores,donald.flores163@icloud.com,M,49,Miami,FL,2024-10-13 15:52:44,Consumer
+CUST-001163,John,Sanchez,john.sanchez164@yahoo.com,M,32,Dallas,TX,2024-03-10 01:03:39,Small Business
+CUST-001164,Paul,Peterson,paul.peterson165@yahoo.com,M,37,Los Angeles,CA,2024-09-05 00:43:29,Consumer
+CUST-001165,William,Green,william.green166@proton.me,M,45,San Jose,CA,2024-02-02 14:49:07,Consumer
+CUST-001166,Debra,Lopez,debra.lopez167@icloud.com,F,25,Phoenix,AZ,2024-04-30 04:04:31,Consumer
+CUST-001167,Shirley,Thomas,shirley.thomas168@proton.me,F,19,Charlotte,NC,2024-09-25 09:10:04,Small Business
+CUST-001168,Barbara,Walker,barbara.walker169@proton.me,F,26,Houston,TX,2024-06-09 11:59:20,Consumer
+CUST-001169,Heather,Roberts,heather.roberts170@fastmail.com,F,39,San Diego,CA,2024-08-04 07:56:14,Consumer
+CUST-001170,Daniel,Ramirez,daniel.ramirez171@outlook.com,M,38,Atlanta,GA,2024-07-28 09:15:32,Small Business
+CUST-001171,Linda,Morales,linda.morales172@proton.me,F,40,Seattle,WA,2024-12-24 04:06:46,Consumer
+CUST-001172,Jason,Stewart,jason.stewart173@fastmail.com,M,34,San Diego,CA,2024-05-22 05:16:33,Corporate
+CUST-001173,Patrick,Mitchell,patrick.mitchell174@outlook.com,M,18,New York,NY,2024-11-26 22:03:25,Consumer
+CUST-001174,Gregory,Miller,gregory.miller175@fastmail.com,M,34,San Diego,CA,2024-05-09 20:07:27,Corporate
+CUST-001175,Benjamin,Campbell,benjamin.campbell176@fastmail.com,M,47,Houston,TX,2024-09-30 08:36:23,VIP
+CUST-001176,Stephanie,Johnson,stephanie.johnson177@icloud.com,F,50,Dallas,TX,2024-06-03 03:17:09,Corporate
+CUST-001177,Ashley,Hill,ashley.hill178@yahoo.com,F,37,Philadelphia,PA,2024-08-12 22:59:12,Consumer
+CUST-001178,Samuel,Evans,samuel.evans179@gmail.com,M,38,Dallas,TX,2024-02-11 17:54:07,Consumer
+CUST-001179,Timothy,Nelson,timothy.nelson180@fastmail.com,M,43,Boston,MA,2024-02-21 05:50:16,Consumer
+CUST-001180,Shirley,Rodriguez,shirley.rodriguez181@outlook.com,F,50,Boston,MA,2024-11-04 19:56:31,Consumer
+CUST-001181,Kathleen,Brown,kathleen.brown182@gmail.com,F,36,Philadelphia,PA,2024-11-18 16:08:37,Consumer
+CUST-001182,Sarah,Smith,sarah.smith183@icloud.com,F,43,San Antonio,TX,2024-11-17 11:07:28,Consumer
+CUST-001183,William,Anderson,william.anderson184@yahoo.com,M,29,San Diego,CA,2024-09-21 23:38:09,Consumer
+CUST-001184,Helen,Evans,helen.evans185@outlook.com,F,21,Atlanta,GA,2024-09-01 04:51:39,Consumer
+CUST-001185,Alexander,Adams,alexander.adams186@outlook.com,M,30,San Antonio,TX,2024-02-13 15:05:28,Small Business
+CUST-001186,Ronald,Carter,ronald.carter187@proton.me,M,53,San Diego,CA,2024-01-11 00:50:10,Small Business
+CUST-001187,Christine,Robinson,christine.robinson188@gmail.com,F,43,Atlanta,GA,2024-04-11 09:31:52,Consumer
+CUST-001188,Nancy,Miller,nancy.miller189@icloud.com,F,22,Salt Lake City,UT,2024-08-07 21:51:34,Small Business
+CUST-001189,William,Mitchell,william.mitchell190@yahoo.com,M,44,Charlotte,NC,2024-03-01 00:30:50,Consumer
+CUST-001190,Laura,Collins,laura.collins191@fastmail.com,F,23,Miami,FL,2024-03-01 08:10:23,Consumer
+CUST-001191,Margaret,Wright,margaret.wright192@outlook.com,F,40,Miami,FL,2024-07-14 04:44:25,Corporate
+CUST-001192,Anthony,Ramirez,anthony.ramirez193@outlook.com,M,25,San Antonio,TX,2024-08-02 06:34:01,Consumer
+CUST-001193,Charles,Brown,charles.brown194@outlook.com,M,21,Dallas,TX,2024-04-30 22:29:20,Corporate
+CUST-001194,Donald,Mitchell,donald.mitchell195@proton.me,M,55,Atlanta,GA,2024-02-13 00:22:32,Consumer
+CUST-001195,Kenneth,Gomez,kenneth.gomez196@fastmail.com,M,32,San Antonio,TX,2024-07-15 15:24:41,Consumer
+CUST-001196,Kimberly,Martinez,kimberly.martinez197@gmail.com,F,43,Minneapolis,MN,2024-01-31 01:53:50,Consumer
+CUST-001197,Donald,Stewart,donald.stewart198@outlook.com,M,36,Salt Lake City,UT,2024-12-09 21:46:51,Consumer
+CUST-001198,Jennifer,Smith,jennifer.smith199@outlook.com,F,23,Portland,OR,2024-11-13 13:52:10,Small Business
+CUST-001199,Ronald,Mitchell,ronald.mitchell200@yahoo.com,M,33,Minneapolis,MN,2024-01-22 21:08:05,Consumer
+CUST-001200,Christopher,Cook,christopher.cook201@icloud.com,M,24,Austin,TX,2024-08-27 04:48:10,Consumer
+CUST-001201,Patrick,Ortiz,patrick.ortiz202@icloud.com,M,64,Phoenix,AZ,2024-05-13 04:15:14,Consumer
+CUST-001202,Thomas,Murphy,thomas.murphy203@outlook.com,M,45,Seattle,WA,2024-08-08 10:18:03,Consumer
+CUST-001203,Kimberly,King,kimberly.king204@proton.me,F,36,Austin,TX,2024-08-11 06:00:24,Corporate
+CUST-001204,Gary,Martin,gary.martin205@proton.me,M,42,Atlanta,GA,2024-01-28 06:52:42,Consumer
+CUST-001205,Mark,White,mark.white206@gmail.com,M,44,Miami,FL,2024-05-13 05:57:17,Consumer
+CUST-001206,Laura,Anderson,laura.anderson207@icloud.com,F,44,Los Angeles,CA,2024-08-14 12:58:49,VIP
+CUST-001207,Rebecca,Morales,rebecca.morales208@icloud.com,Other,44,Miami,FL,2024-02-27 05:23:25,Consumer
+CUST-001208,William,Clark,william.clark209@outlook.com,M,43,Philadelphia,PA,2024-03-27 18:31:21,Consumer
+CUST-001209,Emma,Ramirez,emma.ramirez210@proton.me,F,37,New York,NY,2024-09-26 20:46:54,Consumer
+CUST-001210,David,Young,david.young211@icloud.com,M,54,Houston,TX,2024-06-17 00:56:42,Consumer
+CUST-001211,Alexander,Thomas,alexander.thomas212@icloud.com,M,37,Seattle,WA,2024-10-29 03:51:42,Small Business
+CUST-001212,Karen,Brown,karen.brown213@gmail.com,F,36,Atlanta,GA,2024-12-28 17:28:15,Consumer
+CUST-001213,Paul,Smith,paul.smith214@outlook.com,M,38,Los Angeles,CA,2024-12-01 22:39:34,Corporate
+CUST-001214,Carol,Taylor,carol.taylor215@yahoo.com,F,38,Los Angeles,CA,2024-11-25 10:18:07,Consumer
+CUST-001215,Michael,Martinez,michael.martinez216@proton.me,M,18,Salt Lake City,UT,2024-07-14 03:22:10,Consumer
+CUST-001216,Daniel,Walker,daniel.walker217@icloud.com,M,26,Chicago,IL,2024-01-11 07:34:52,Consumer
+CUST-001217,Ronald,Torres,ronald.torres218@fastmail.com,M,34,Phoenix,AZ,2024-03-02 10:52:11,Corporate
+CUST-001218,Laura,Flores,laura.flores219@fastmail.com,F,18,Salt Lake City,UT,2024-03-08 13:04:20,Consumer
+CUST-001219,Deborah,Rogers,deborah.rogers220@yahoo.com,F,36,Miami,FL,2024-08-16 14:07:47,VIP
+CUST-001220,Larry,Diaz,larry.diaz221@gmail.com,M,38,Boston,MA,2024-07-07 22:21:00,Consumer
+CUST-001221,Benjamin,Diaz,benjamin.diaz222@gmail.com,M,20,Los Angeles,CA,2024-09-19 12:26:33,Consumer
+CUST-001222,Rachel,Lewis,rachel.lewis223@fastmail.com,F,28,Phoenix,AZ,2024-09-10 19:11:51,Consumer
+CUST-001223,Anna,Hernandez,anna.hernandez224@outlook.com,F,51,Atlanta,GA,2024-08-11 02:52:58,Consumer
+CUST-001224,Amy,Hill,amy.hill225@yahoo.com,F,42,Phoenix,AZ,2024-12-16 10:56:15,Consumer
+CUST-001225,Anna,Diaz,anna.diaz226@outlook.com,F,41,Charlotte,NC,2024-01-25 20:03:39,Consumer
+CUST-001226,John,Rogers,john.rogers227@gmail.com,M,49,Portland,OR,2024-08-05 15:02:15,Corporate
+CUST-001227,Gregory,Allen,gregory.allen228@outlook.com,M,26,Dallas,TX,2024-10-26 02:58:37,Small Business
+CUST-001228,Patricia,Anderson,patricia.anderson229@fastmail.com,F,20,Atlanta,GA,2024-04-01 06:38:02,Consumer
+CUST-001229,Jennifer,Hernandez,jennifer.hernandez230@icloud.com,F,47,San Jose,CA,2024-06-09 21:22:46,Corporate
+CUST-001230,Debra,Edwards,debra.edwards231@proton.me,F,35,Dallas,TX,2024-06-23 06:48:55,Consumer
+CUST-001231,William,King,william.king232@fastmail.com,M,25,Houston,TX,2024-08-10 19:27:21,Consumer
+CUST-001232,Ronald,Anderson,ronald.anderson233@gmail.com,M,61,Philadelphia,PA,2024-12-01 17:22:17,VIP
+CUST-001233,Ronald,Morales,ronald.morales234@outlook.com,M,18,Salt Lake City,UT,2024-11-11 13:08:01,Consumer
+CUST-001234,Carolyn,Gomez,carolyn.gomez235@outlook.com,F,38,Chicago,IL,2024-03-05 04:55:09,Corporate
+CUST-001235,Joseph,Williams,joseph.williams236@fastmail.com,M,33,San Antonio,TX,2024-01-14 07:37:04,Small Business
+CUST-001236,Charles,Walker,charles.walker237@icloud.com,M,31,Minneapolis,MN,2024-04-07 03:08:04,Consumer
+CUST-001237,Ryan,Jackson,ryan.jackson238@icloud.com,M,18,Boston,MA,2024-01-12 04:14:24,Consumer
+CUST-001238,Charles,Cruz,charles.cruz239@icloud.com,M,54,Miami,FL,2024-01-11 16:21:58,Consumer
+CUST-001239,Margaret,Nguyen,margaret.nguyen240@proton.me,F,18,Denver,CO,2024-01-27 12:09:18,Consumer
+CUST-001240,Benjamin,Parker,benjamin.parker241@icloud.com,M,32,Miami,FL,2024-10-23 21:41:37,Small Business
+CUST-001241,Donna,Jones,donna.jones242@icloud.com,F,30,Denver,CO,2024-09-05 18:41:26,VIP
+CUST-001242,Samantha,Morales,samantha.morales243@yahoo.com,F,43,Los Angeles,CA,2024-09-27 00:41:32,Consumer
+CUST-001243,Kenneth,Peterson,kenneth.peterson244@gmail.com,M,18,Dallas,TX,2024-11-27 15:11:15,Consumer
+CUST-001244,Jessica,Murphy,jessica.murphy245@proton.me,F,41,Seattle,WA,2024-08-17 15:52:57,Consumer
+CUST-001245,Andrew,Harris,andrew.harris246@icloud.com,M,38,Seattle,WA,2024-08-12 08:27:02,VIP
+CUST-001246,Nicole,Baker,nicole.baker247@proton.me,F,28,Atlanta,GA,2024-03-08 10:40:55,Consumer
+CUST-001247,Stephanie,Turner,stephanie.turner248@fastmail.com,F,41,Seattle,WA,2024-08-29 05:53:57,Corporate
+CUST-001248,Donna,Lopez,donna.lopez249@fastmail.com,F,36,Miami,FL,2024-03-07 06:18:33,Consumer
+CUST-001249,Scott,Morales,scott.morales250@gmail.com,M,57,Boston,MA,2024-09-09 11:03:20,Consumer
+CUST-001250,Stephen,Miller,stephen.miller251@gmail.com,M,33,Seattle,WA,2024-05-13 12:59:58,Consumer
+CUST-001251,Lisa,Cook,lisa.cook252@gmail.com,F,24,Chicago,IL,2024-06-21 15:40:42,Consumer
+CUST-001252,Mark,Thomas,mark.thomas253@proton.me,M,41,San Diego,CA,2024-09-06 09:23:13,Corporate
+CUST-001253,Patrick,Garcia,patrick.garcia254@proton.me,Other,32,Dallas,TX,2024-03-18 18:45:52,Consumer
+CUST-001254,Susan,Miller,susan.miller255@icloud.com,F,35,Atlanta,GA,2024-02-26 03:51:19,Consumer
+CUST-001255,Samantha,Wilson,samantha.wilson256@proton.me,F,20,Los Angeles,CA,2024-09-16 03:50:16,Consumer
+CUST-001256,Joseph,Clark,joseph.clark257@outlook.com,M,43,Philadelphia,PA,2024-05-29 16:04:30,Small Business
+CUST-001257,Angela,Gonzalez,angela.gonzalez258@yahoo.com,F,30,Seattle,WA,2024-06-20 05:00:58,Consumer
+CUST-001258,Matthew,Cruz,matthew.cruz259@icloud.com,M,39,New York,NY,2024-05-05 17:14:44,Consumer
+CUST-001259,Nicholas,Perez,nicholas.perez260@gmail.com,M,61,Dallas,TX,2024-07-09 15:06:36,Consumer
+CUST-001260,Gregory,Young,gregory.young261@yahoo.com,M,33,Portland,OR,2024-08-03 08:18:28,Consumer
+CUST-001261,Jason,Evans,jason.evans262@icloud.com,M,44,Atlanta,GA,2024-09-21 13:10:18,VIP
+CUST-001262,Cynthia,Jackson,cynthia.jackson263@gmail.com,F,33,Portland,OR,2024-02-05 03:05:12,Consumer
+CUST-001263,Ronald,Perez,ronald.perez264@icloud.com,M,28,Los Angeles,CA,2024-07-20 01:21:01,Consumer
+CUST-001264,Christine,Martin,christine.martin265@proton.me,F,51,Los Angeles,CA,2024-11-19 18:55:28,Corporate
+CUST-001265,Sharon,Phillips,sharon.phillips266@fastmail.com,F,18,Minneapolis,MN,2024-06-04 11:25:16,Corporate
+CUST-001266,Mary,Scott,mary.scott267@proton.me,F,48,Salt Lake City,UT,2024-03-16 14:42:24,Consumer
+CUST-001267,Anthony,Cooper,anthony.cooper268@proton.me,M,18,Salt Lake City,UT,2024-11-29 16:05:52,Corporate
+CUST-001268,Christine,Phillips,christine.phillips269@yahoo.com,F,46,San Jose,CA,2024-02-13 01:20:45,Consumer
+CUST-001269,Stephanie,Taylor,stephanie.taylor270@proton.me,F,36,Minneapolis,MN,2024-05-25 07:46:54,Consumer
+CUST-001270,Stephen,Flores,stephen.flores271@proton.me,M,24,Austin,TX,2024-11-21 05:49:35,Consumer
+CUST-001271,Jonathan,King,jonathan.king272@yahoo.com,M,31,San Jose,CA,2024-08-04 18:23:47,VIP
+CUST-001272,Michael,Mitchell,michael.mitchell273@outlook.com,M,44,Portland,OR,2024-06-30 04:30:28,Consumer
+CUST-001273,Samuel,Thomas,samuel.thomas274@icloud.com,M,59,San Jose,CA,2024-10-20 00:11:23,Consumer
+CUST-001274,Donald,Morgan,donald.morgan275@proton.me,M,18,San Diego,CA,2024-06-28 10:53:36,Corporate
+CUST-001275,Patrick,Moore,patrick.moore276@fastmail.com,M,25,Denver,CO,2024-09-23 09:00:57,Small Business
+CUST-001276,Eric,Harris,eric.harris277@outlook.com,M,20,Atlanta,GA,2024-02-20 05:20:09,Small Business
+CUST-001277,Sharon,Hernandez,sharon.hernandez278@gmail.com,F,33,Los Angeles,CA,2024-08-05 04:44:07,Corporate
+CUST-001278,Jeffrey,Martinez,jeffrey.martinez279@outlook.com,M,47,Portland,OR,2024-07-25 21:25:01,Consumer
+CUST-001279,Rebecca,King,rebecca.king280@proton.me,F,18,Miami,FL,2024-11-21 15:24:58,Consumer
+CUST-001280,Debra,Morales,debra.morales281@fastmail.com,Other,35,Boston,MA,2024-03-24 05:15:19,Consumer
+CUST-001281,Angela,Collins,angela.collins282@yahoo.com,F,46,Portland,OR,2024-09-27 04:17:54,Consumer
+CUST-001282,Kathleen,Stewart,kathleen.stewart283@gmail.com,F,30,Philadelphia,PA,2024-10-13 13:26:49,Consumer
+CUST-001283,Jessica,Evans,jessica.evans284@gmail.com,F,18,Houston,TX,2024-07-08 20:49:02,Small Business
+CUST-001284,Eric,Martin,eric.martin285@gmail.com,M,38,Seattle,WA,2024-06-05 13:38:01,Small Business
+CUST-001285,Gary,Brown,gary.brown286@yahoo.com,M,50,Phoenix,AZ,2024-10-28 15:21:20,Corporate
+CUST-001286,Joshua,Torres,joshua.torres287@yahoo.com,M,23,Philadelphia,PA,2024-09-07 00:04:33,Corporate
+CUST-001287,Brian,Rodriguez,brian.rodriguez288@gmail.com,M,18,Boston,MA,2024-09-03 20:51:52,Consumer
+CUST-001288,Jeffrey,Baker,jeffrey.baker289@icloud.com,M,39,Miami,FL,2024-11-06 04:50:07,Consumer
+CUST-001289,Shirley,Collins,shirley.collins290@icloud.com,F,40,Atlanta,GA,2024-03-17 11:50:26,Consumer
+CUST-001290,Brandon,Evans,brandon.evans291@icloud.com,M,30,San Diego,CA,2024-07-21 12:20:33,Consumer
+CUST-001291,Debra,Cruz,debra.cruz292@fastmail.com,F,27,Dallas,TX,2024-11-26 03:13:23,VIP
+CUST-001292,Janet,Brown,janet.brown293@proton.me,F,36,San Jose,CA,2024-10-14 23:29:22,Consumer
+CUST-001293,Stephen,Hernandez,stephen.hernandez294@yahoo.com,M,22,Salt Lake City,UT,2024-10-04 21:00:09,Consumer
+CUST-001294,Emma,Gutierrez,emma.gutierrez295@yahoo.com,F,22,Miami,FL,2024-09-14 00:40:46,Consumer
+CUST-001295,Jonathan,White,jonathan.white296@gmail.com,M,44,Dallas,TX,2024-04-15 08:55:50,Corporate
+CUST-001296,Nicole,Cruz,nicole.cruz297@gmail.com,F,22,Minneapolis,MN,2024-11-06 11:39:59,Small Business
+CUST-001297,John,Morales,john.morales298@gmail.com,M,18,Austin,TX,2024-08-11 06:34:19,Consumer
+CUST-001298,Eric,Green,eric.green299@icloud.com,M,27,Dallas,TX,2024-02-16 04:10:26,Corporate
+CUST-001299,Brenda,Perez,brenda.perez300@outlook.com,F,30,Phoenix,AZ,2024-04-03 09:18:16,Consumer
+CUST-001300,Karen,Flores,karen.flores301@icloud.com,F,41,Philadelphia,PA,2024-01-31 22:22:20,Small Business
+CUST-001301,Lisa,Brown,lisa.brown302@fastmail.com,F,28,Los Angeles,CA,2024-06-01 14:11:50,Consumer
+CUST-001302,Charles,Evans,charles.evans303@outlook.com,M,53,Dallas,TX,2024-07-11 04:24:15,Corporate
+CUST-001303,Donald,Walker,donald.walker304@icloud.com,M,37,Portland,OR,2024-09-15 14:01:09,Corporate
+CUST-001304,Emily,Davis,emily.davis305@outlook.com,F,26,Atlanta,GA,2024-10-10 14:49:16,Consumer
+CUST-001305,Robert,Evans,robert.evans306@fastmail.com,M,41,San Diego,CA,2024-01-10 09:47:59,VIP
+CUST-001306,Nicole,Gonzalez,nicole.gonzalez307@yahoo.com,F,52,Minneapolis,MN,2024-11-29 04:34:18,Consumer
+CUST-001307,Timothy,Edwards,timothy.edwards308@gmail.com,M,43,Portland,OR,2024-04-14 05:11:00,Consumer
+CUST-001308,Christopher,Young,christopher.young309@proton.me,M,18,Boston,MA,2024-10-11 16:26:50,Corporate
+CUST-001309,Ryan,Nguyen,ryan.nguyen310@fastmail.com,M,31,Philadelphia,PA,2024-01-01 02:11:27,Consumer
+CUST-001310,Amy,Wright,amy.wright311@proton.me,F,39,Dallas,TX,2024-12-14 13:50:27,Consumer
+CUST-001311,Brenda,Ramirez,brenda.ramirez312@proton.me,Other,43,Portland,OR,2024-05-24 01:39:21,Small Business
+CUST-001312,Jonathan,Rodriguez,jonathan.rodriguez313@outlook.com,M,33,Chicago,IL,2024-07-21 04:28:38,Corporate
+CUST-001313,Maria,Bailey,maria.bailey314@outlook.com,F,32,Boston,MA,2024-04-17 22:13:32,Small Business
+CUST-001314,Carol,Baker,carol.baker315@fastmail.com,F,57,Dallas,TX,2024-12-28 16:28:58,Corporate
+CUST-001315,Gregory,Adams,gregory.adams316@outlook.com,M,43,San Antonio,TX,2024-08-23 21:49:39,Consumer
+CUST-001316,Frank,Moore,frank.moore317@fastmail.com,M,41,New York,NY,2024-11-07 17:20:59,Small Business
+CUST-001317,James,Thompson,james.thompson318@icloud.com,M,29,Minneapolis,MN,2024-12-22 17:48:11,Consumer
+CUST-001318,Brenda,Hernandez,brenda.hernandez319@fastmail.com,F,22,Chicago,IL,2024-10-02 01:07:36,VIP
+CUST-001319,Debra,Cruz,debra.cruz320@fastmail.com,F,41,Houston,TX,2024-06-29 13:42:12,Corporate
+CUST-001320,Melissa,Roberts,melissa.roberts321@yahoo.com,F,45,New York,NY,2024-03-04 16:50:46,Consumer
+CUST-001321,Matthew,Cruz,matthew.cruz322@gmail.com,M,35,San Diego,CA,2024-01-11 10:14:08,Consumer
+CUST-001322,Janet,Rivera,janet.rivera323@yahoo.com,F,44,Chicago,IL,2024-11-10 22:45:51,Consumer
+CUST-001323,Patrick,Lewis,patrick.lewis324@yahoo.com,M,44,Miami,FL,2024-07-04 01:20:22,Consumer
+CUST-001324,Patrick,Clark,patrick.clark325@gmail.com,M,46,San Antonio,TX,2024-11-22 14:25:15,Consumer
+CUST-001325,Paul,Cook,paul.cook326@icloud.com,M,18,Philadelphia,PA,2024-10-09 07:03:17,Corporate
+CUST-001326,Emma,Thompson,emma.thompson327@gmail.com,F,31,Charlotte,NC,2024-03-06 02:22:06,Small Business
+CUST-001327,Larry,Robinson,larry.robinson328@proton.me,M,42,Dallas,TX,2024-04-08 00:50:30,Consumer
+CUST-001328,Debra,Morgan,debra.morgan329@proton.me,Other,36,Dallas,TX,2024-12-14 20:23:35,Consumer
+CUST-001329,Mary,Diaz,mary.diaz330@fastmail.com,F,44,Los Angeles,CA,2024-06-14 15:44:54,Consumer
+CUST-001330,Sharon,Scott,sharon.scott331@gmail.com,F,41,Portland,OR,2024-08-26 18:02:35,Small Business
+CUST-001331,John,Lewis,john.lewis332@gmail.com,M,18,Dallas,TX,2024-08-03 19:23:04,Consumer
+CUST-001332,James,Gomez,james.gomez333@yahoo.com,M,49,Austin,TX,2024-02-11 20:49:09,Small Business
+CUST-001333,Heather,Lewis,heather.lewis334@fastmail.com,F,30,Boston,MA,2024-02-08 09:06:05,Consumer
+CUST-001334,Kevin,Flores,kevin.flores335@gmail.com,M,25,Houston,TX,2024-01-15 17:28:30,Small Business
+CUST-001335,Robert,Nelson,robert.nelson336@outlook.com,M,48,San Diego,CA,2024-02-25 17:14:32,Consumer
+CUST-001336,Kevin,Miller,kevin.miller337@outlook.com,M,43,Portland,OR,2024-05-01 02:39:16,Consumer
+CUST-001337,Samantha,Cruz,samantha.cruz338@gmail.com,F,50,Atlanta,GA,2024-10-23 04:32:41,Small Business
+CUST-001338,Michael,Jones,michael.jones339@icloud.com,M,39,Austin,TX,2024-12-21 02:22:03,Consumer
+CUST-001339,Linda,Cruz,linda.cruz340@gmail.com,F,31,San Jose,CA,2024-11-08 22:47:55,Consumer
+CUST-001340,Richard,Davis,richard.davis341@proton.me,M,37,Los Angeles,CA,2024-05-30 13:53:18,Consumer
+CUST-001341,Brandon,Evans,brandon.evans342@yahoo.com,M,23,Salt Lake City,UT,2024-12-03 22:43:09,Consumer
+CUST-001342,Edward,Reyes,edward.reyes343@icloud.com,M,19,Salt Lake City,UT,2024-11-13 03:41:14,Consumer
+CUST-001343,Alexander,Brown,alexander.brown344@icloud.com,M,28,Portland,OR,2024-06-17 21:24:05,Consumer
+CUST-001344,Richard,Johnson,richard.johnson345@proton.me,M,54,Chicago,IL,2024-10-30 07:02:57,Corporate
+CUST-001345,Sarah,Rogers,sarah.rogers346@outlook.com,F,29,Seattle,WA,2024-08-03 17:31:37,Corporate
+CUST-001346,Cynthia,White,cynthia.white347@yahoo.com,F,18,Phoenix,AZ,2024-01-23 02:12:08,Consumer
+CUST-001347,Justin,Parker,justin.parker348@proton.me,M,34,Seattle,WA,2024-06-08 21:15:02,Small Business
+CUST-001348,Karen,Jackson,karen.jackson349@icloud.com,F,29,San Jose,CA,2024-11-04 12:29:04,Consumer
+CUST-001349,James,Gutierrez,james.gutierrez350@proton.me,M,49,Phoenix,AZ,2024-01-30 08:38:34,Consumer
+CUST-001350,Pamela,Miller,pamela.miller351@icloud.com,F,53,Seattle,WA,2024-04-10 07:17:43,Consumer
+CUST-001351,Margaret,Rodriguez,margaret.rodriguez352@outlook.com,F,31,San Antonio,TX,2024-12-07 17:19:14,Consumer
+CUST-001352,Kathleen,Nelson,kathleen.nelson353@proton.me,F,39,Charlotte,NC,2024-06-20 22:25:53,Consumer
+CUST-001353,Kevin,Lee,kevin.lee354@gmail.com,M,40,Atlanta,GA,2024-01-22 18:03:22,Consumer
+CUST-001354,James,Lewis,james.lewis355@fastmail.com,M,35,San Diego,CA,2024-08-26 22:42:58,Consumer
+CUST-001355,Jacob,Nelson,jacob.nelson356@fastmail.com,M,33,Denver,CO,2024-04-15 14:34:29,Corporate
+CUST-001356,James,Campbell,james.campbell357@gmail.com,M,24,Chicago,IL,2024-07-02 01:05:34,Corporate
+CUST-001357,Karen,Nguyen,karen.nguyen358@icloud.com,F,18,San Antonio,TX,2024-11-19 21:19:27,Consumer
+CUST-001358,Deborah,Garcia,deborah.garcia359@gmail.com,F,24,San Antonio,TX,2024-04-11 10:20:37,Consumer
+CUST-001359,Steven,Thompson,steven.thompson360@outlook.com,M,34,Minneapolis,MN,2024-05-05 06:30:01,Consumer
+CUST-001360,Daniel,King,daniel.king361@gmail.com,M,18,New York,NY,2024-12-12 04:59:48,Consumer
+CUST-001361,Joseph,Baker,joseph.baker362@yahoo.com,M,38,San Jose,CA,2024-08-21 08:44:36,Consumer
+CUST-001362,George,Perez,george.perez363@proton.me,M,36,Salt Lake City,UT,2024-08-10 02:22:49,Consumer
+CUST-001363,Thomas,Harris,thomas.harris364@yahoo.com,M,29,Minneapolis,MN,2024-07-12 13:37:34,Consumer
+CUST-001364,Jason,Young,jason.young365@gmail.com,M,32,Salt Lake City,UT,2024-10-27 06:53:05,Consumer
+CUST-001365,Donna,Martin,donna.martin366@outlook.com,F,20,San Diego,CA,2024-01-28 22:55:04,Consumer
+CUST-001366,Sarah,Rogers,sarah.rogers367@proton.me,F,45,Miami,FL,2024-04-17 02:57:50,VIP
+CUST-001367,Debra,Rodriguez,debra.rodriguez368@yahoo.com,F,45,Portland,OR,2024-07-17 23:29:10,Corporate
+CUST-001368,Deborah,Murphy,deborah.murphy369@proton.me,F,22,Atlanta,GA,2024-04-01 11:43:02,Consumer
+CUST-001369,Anna,Morris,anna.morris370@fastmail.com,F,22,Miami,FL,2024-08-30 09:46:11,Consumer
+CUST-001370,Katherine,Jones,katherine.jones371@yahoo.com,F,24,San Diego,CA,2024-04-13 16:27:35,Small Business
+CUST-001371,Rebecca,Ramirez,rebecca.ramirez372@outlook.com,F,42,Boston,MA,2024-07-12 20:48:10,Consumer
+CUST-001372,George,Allen,george.allen373@proton.me,M,40,Chicago,IL,2024-03-09 03:03:33,Consumer
+CUST-001373,Eric,Rivera,eric.rivera374@yahoo.com,M,48,Charlotte,NC,2024-01-22 16:56:21,Consumer
+CUST-001374,Amanda,Diaz,amanda.diaz375@icloud.com,F,50,Atlanta,GA,2024-08-09 14:53:22,Consumer
+CUST-001375,Gary,Green,gary.green376@outlook.com,M,18,Denver,CO,2024-01-13 06:32:16,Consumer
+CUST-001376,Steven,Martinez,steven.martinez377@outlook.com,M,42,Chicago,IL,2024-05-30 18:16:07,VIP
+CUST-001377,Christine,Hernandez,christine.hernandez378@outlook.com,F,49,San Diego,CA,2024-02-20 04:19:03,Consumer
+CUST-001378,John,Cooper,john.cooper379@yahoo.com,M,31,Austin,TX,2024-04-10 11:59:14,Corporate
+CUST-001379,Alexander,Scott,alexander.scott380@yahoo.com,M,35,Salt Lake City,UT,2024-03-11 19:46:28,Consumer
+CUST-001380,Mary,Hill,mary.hill381@outlook.com,F,33,Seattle,WA,2024-07-25 14:46:23,Corporate
+CUST-001381,Christine,Johnson,christine.johnson382@icloud.com,F,34,Portland,OR,2024-03-17 14:28:21,Consumer
+CUST-001382,Anthony,Stewart,anthony.stewart383@yahoo.com,M,45,Portland,OR,2024-10-27 20:07:12,Consumer
+CUST-001383,Maria,Reyes,maria.reyes384@outlook.com,F,56,Chicago,IL,2024-06-09 06:50:21,Consumer
+CUST-001384,Frank,Turner,frank.turner385@yahoo.com,M,52,Atlanta,GA,2024-08-18 20:19:56,Consumer
+CUST-001385,Thomas,Taylor,thomas.taylor386@outlook.com,M,29,New York,NY,2024-09-12 23:59:16,Consumer
+CUST-001386,Amanda,Lewis,amanda.lewis387@icloud.com,F,39,Boston,MA,2024-12-17 14:41:10,Small Business
+CUST-001387,Carolyn,Morgan,carolyn.morgan388@outlook.com,F,26,Austin,TX,2024-10-27 00:50:46,Consumer
+CUST-001388,Jennifer,Moore,jennifer.moore389@yahoo.com,F,27,Austin,TX,2024-10-17 22:55:54,Consumer
+CUST-001389,Helen,Gomez,helen.gomez390@icloud.com,F,35,San Antonio,TX,2024-07-19 02:19:10,Corporate
+CUST-001390,Margaret,Stewart,margaret.stewart391@gmail.com,F,27,Austin,TX,2024-10-18 16:26:23,Consumer
+CUST-001391,Michelle,Lopez,michelle.lopez392@yahoo.com,F,29,Houston,TX,2024-12-11 20:07:50,VIP
+CUST-001392,Frank,Morales,frank.morales393@gmail.com,M,38,Philadelphia,PA,2024-04-11 02:31:48,Small Business
+CUST-001393,Stephanie,Torres,stephanie.torres394@yahoo.com,F,41,San Diego,CA,2024-05-29 19:05:33,Small Business
+CUST-001394,Michael,Mitchell,michael.mitchell395@proton.me,M,41,New York,NY,2024-03-28 11:53:50,Consumer
+CUST-001395,Sharon,Gomez,sharon.gomez396@yahoo.com,F,41,Houston,TX,2024-03-07 19:31:53,Corporate
+CUST-001396,David,Roberts,david.roberts397@yahoo.com,M,21,Phoenix,AZ,2024-04-15 11:16:40,Corporate
+CUST-001397,Patrick,Stewart,patrick.stewart398@yahoo.com,M,26,Salt Lake City,UT,2024-10-21 11:17:53,Consumer
+CUST-001398,Shirley,Collins,shirley.collins399@outlook.com,F,36,San Antonio,TX,2024-01-04 05:11:42,Small Business
+CUST-001399,Ronald,Young,ronald.young400@proton.me,M,48,Austin,TX,2024-10-18 17:52:30,Consumer
+CUST-001400,Larry,Garcia,larry.garcia401@fastmail.com,M,64,Chicago,IL,2024-05-27 23:31:51,Consumer
+CUST-001401,Kathleen,Hall,kathleen.hall402@fastmail.com,F,39,San Jose,CA,2024-07-19 22:19:10,Corporate
+CUST-001402,Lisa,Turner,lisa.turner403@yahoo.com,F,44,Philadelphia,PA,2024-11-12 15:43:53,Consumer
+CUST-001403,Gregory,White,gregory.white404@fastmail.com,M,19,Charlotte,NC,2024-02-18 14:19:43,Corporate
+CUST-001404,Jennifer,Walker,jennifer.walker405@yahoo.com,F,44,Dallas,TX,2024-11-17 19:34:42,Consumer
+CUST-001405,David,Ramirez,david.ramirez406@icloud.com,M,59,Boston,MA,2024-10-10 04:24:49,Small Business
+CUST-001406,Charles,Wilson,charles.wilson407@proton.me,Other,26,Austin,TX,2024-07-28 16:25:05,Consumer
+CUST-001407,Anthony,Cook,anthony.cook408@gmail.com,M,29,Atlanta,GA,2024-01-14 02:39:53,Consumer
+CUST-001408,Rachel,Reyes,rachel.reyes409@icloud.com,F,46,Austin,TX,2024-07-23 07:04:40,Consumer
+CUST-001409,James,Allen,james.allen410@gmail.com,M,36,Phoenix,AZ,2024-06-16 16:54:09,Consumer
+CUST-001410,David,Hernandez,david.hernandez411@proton.me,M,18,San Diego,CA,2024-08-12 05:06:23,Consumer
+CUST-001411,Paul,Lee,paul.lee412@yahoo.com,M,30,New York,NY,2024-11-06 03:39:34,Corporate
+CUST-001412,Joseph,Morgan,joseph.morgan413@fastmail.com,M,53,Denver,CO,2024-03-27 02:49:29,Consumer
+CUST-001413,Mary,Wright,mary.wright414@yahoo.com,F,32,Atlanta,GA,2024-07-02 06:28:42,Consumer
+CUST-001414,John,Morgan,john.morgan415@yahoo.com,M,32,Atlanta,GA,2024-12-22 01:44:19,Consumer
+CUST-001415,Anna,Wilson,anna.wilson416@icloud.com,F,45,San Jose,CA,2024-08-15 01:54:30,Small Business
+CUST-001416,Linda,Carter,linda.carter417@yahoo.com,F,40,San Diego,CA,2024-07-10 08:41:05,Corporate
+CUST-001417,Robert,Turner,robert.turner418@gmail.com,M,32,New York,NY,2024-06-21 06:59:45,Consumer
+CUST-001418,Elizabeth,Lewis,elizabeth.lewis419@gmail.com,F,28,Philadelphia,PA,2024-03-26 01:36:08,Consumer
+CUST-001419,Richard,Adams,richard.adams420@outlook.com,M,71,Minneapolis,MN,2024-11-16 06:54:04,Consumer
+CUST-001420,Brenda,Gomez,brenda.gomez421@icloud.com,F,50,Houston,TX,2024-04-28 07:47:00,Consumer
+CUST-001421,Kenneth,Thompson,kenneth.thompson422@gmail.com,M,41,Denver,CO,2024-11-30 11:30:50,Consumer
+CUST-001422,Anthony,Collins,anthony.collins423@yahoo.com,M,42,Chicago,IL,2024-12-02 10:08:17,Small Business
+CUST-001423,Deborah,Garcia,deborah.garcia424@gmail.com,F,34,San Antonio,TX,2024-07-29 10:58:42,Consumer
+CUST-001424,Angela,Wilson,angela.wilson425@fastmail.com,F,39,Minneapolis,MN,2024-10-18 06:14:33,Consumer
+CUST-001425,Richard,Adams,richard.adams426@fastmail.com,M,33,Denver,CO,2024-12-13 04:50:23,Consumer
+CUST-001426,Benjamin,Green,benjamin.green427@fastmail.com,M,25,Miami,FL,2024-02-04 12:12:02,Consumer
+CUST-001427,Justin,Edwards,justin.edwards428@icloud.com,M,40,Portland,OR,2024-11-23 08:27:44,Corporate
+CUST-001428,Janet,Johnson,janet.johnson429@yahoo.com,F,32,New York,NY,2024-11-11 04:31:00,Small Business
+CUST-001429,Jason,Young,jason.young430@proton.me,M,41,Chicago,IL,2024-01-31 05:00:29,Consumer
+CUST-001430,Andrew,Sanchez,andrew.sanchez431@yahoo.com,M,43,Denver,CO,2024-04-14 23:22:33,Consumer
+CUST-001431,Scott,Cruz,scott.cruz432@fastmail.com,M,41,Austin,TX,2024-03-09 10:07:34,Consumer
+CUST-001432,John,Gutierrez,john.gutierrez433@icloud.com,M,24,San Jose,CA,2024-01-13 08:20:16,Corporate
+CUST-001433,Amanda,Baker,amanda.baker434@yahoo.com,F,30,San Antonio,TX,2024-10-03 01:58:07,Consumer
+CUST-001434,Debra,Young,debra.young435@fastmail.com,F,32,San Diego,CA,2024-11-07 13:53:22,Consumer
+CUST-001435,Lisa,Cruz,lisa.cruz436@fastmail.com,F,47,New York,NY,2024-02-03 17:54:00,Consumer
+CUST-001436,Matthew,Miller,matthew.miller437@fastmail.com,M,47,Phoenix,AZ,2024-04-14 04:34:17,Consumer
+CUST-001437,Justin,Peterson,justin.peterson438@yahoo.com,M,27,San Diego,CA,2024-09-16 02:50:45,Consumer
+CUST-001438,Ryan,Flores,ryan.flores439@yahoo.com,M,20,San Antonio,TX,2024-05-05 15:26:16,Consumer
+CUST-001439,Donald,Hill,donald.hill440@outlook.com,M,65,Charlotte,NC,2024-08-17 23:08:29,Consumer
+CUST-001440,Jacob,Hernandez,jacob.hernandez441@outlook.com,M,41,Denver,CO,2024-07-12 06:06:29,Consumer
+CUST-001441,Jason,Cook,jason.cook442@proton.me,M,19,Boston,MA,2024-03-20 17:32:56,Consumer
+CUST-001442,Edward,Diaz,edward.diaz443@gmail.com,M,29,San Jose,CA,2024-10-31 19:33:31,VIP
+CUST-001443,Daniel,Allen,daniel.allen444@icloud.com,M,48,Atlanta,GA,2024-06-05 16:30:54,Consumer
+CUST-001444,Stephen,Morris,stephen.morris445@gmail.com,M,61,Austin,TX,2024-03-10 17:05:06,Consumer
+CUST-001445,Matthew,Smith,matthew.smith446@gmail.com,M,58,Portland,OR,2024-07-10 17:53:35,Corporate
+CUST-001446,Timothy,Gomez,timothy.gomez447@fastmail.com,M,40,Seattle,WA,2024-07-15 17:49:26,Consumer
+CUST-001447,Justin,Martinez,justin.martinez448@icloud.com,M,18,Los Angeles,CA,2024-03-04 14:00:39,Small Business
+CUST-001448,Nancy,Harris,nancy.harris449@icloud.com,F,36,Dallas,TX,2024-06-27 18:33:15,Consumer
+CUST-001449,Katherine,Mitchell,katherine.mitchell450@fastmail.com,F,23,Los Angeles,CA,2024-11-29 14:01:46,Consumer
+CUST-001450,Heather,Young,heather.young451@yahoo.com,F,37,Miami,FL,2024-01-18 13:09:31,Consumer
+CUST-001451,Rachel,Brown,rachel.brown452@fastmail.com,F,25,Phoenix,AZ,2024-05-13 22:02:35,Corporate
+CUST-001452,Alexander,Jackson,alexander.jackson453@outlook.com,M,31,San Diego,CA,2024-11-04 21:03:24,Consumer
+CUST-001453,Nancy,Johnson,nancy.johnson454@gmail.com,F,46,Chicago,IL,2024-11-25 13:59:37,Consumer
+CUST-001454,Justin,Hernandez,justin.hernandez455@proton.me,M,33,San Antonio,TX,2024-08-04 06:02:14,Consumer
+CUST-001455,Kimberly,Hill,kimberly.hill456@proton.me,F,32,Minneapolis,MN,2024-12-03 13:56:12,Corporate
+CUST-001456,Maria,Evans,maria.evans457@fastmail.com,F,35,Chicago,IL,2024-02-25 23:09:45,Consumer
+CUST-001457,Melissa,Jackson,melissa.jackson458@outlook.com,F,67,San Antonio,TX,2024-07-22 11:13:03,Consumer
+CUST-001458,Christopher,Morales,christopher.morales459@gmail.com,M,22,Houston,TX,2024-02-05 15:12:47,Corporate
+CUST-001459,Christine,Torres,christine.torres460@fastmail.com,F,39,Boston,MA,2024-03-28 06:25:21,Small Business
+CUST-001460,Patrick,Moore,patrick.moore461@yahoo.com,M,57,Miami,FL,2024-04-03 18:17:58,Small Business
+CUST-001461,Cynthia,Ramirez,cynthia.ramirez462@yahoo.com,F,35,San Antonio,TX,2024-01-31 06:39:10,Consumer
+CUST-001462,Margaret,King,margaret.king463@icloud.com,F,50,Atlanta,GA,2024-11-16 22:44:04,Corporate
+CUST-001463,Benjamin,Perez,benjamin.perez464@gmail.com,M,20,San Jose,CA,2024-02-13 13:45:09,Small Business
+CUST-001464,David,Baker,david.baker465@gmail.com,M,33,Charlotte,NC,2024-04-30 17:23:58,Small Business
+CUST-001465,Richard,Johnson,richard.johnson466@gmail.com,M,26,Dallas,TX,2024-01-04 21:12:22,Consumer
+CUST-001466,Jennifer,Gonzalez,jennifer.gonzalez467@yahoo.com,F,35,Portland,OR,2024-01-04 13:40:39,Small Business
+CUST-001467,Emily,Morales,emily.morales468@icloud.com,F,35,Austin,TX,2024-11-05 15:38:09,Consumer
+CUST-001468,Alexander,Baker,alexander.baker469@outlook.com,M,36,San Diego,CA,2024-07-03 14:30:28,Small Business
+CUST-001469,Michael,Rivera,michael.rivera470@outlook.com,M,46,Houston,TX,2024-01-02 16:38:09,VIP
+CUST-001470,Rebecca,Moore,rebecca.moore471@gmail.com,F,18,Salt Lake City,UT,2024-03-03 19:19:10,Consumer
+CUST-001471,Frank,Young,frank.young472@outlook.com,M,28,Atlanta,GA,2024-11-12 23:59:20,Consumer
+CUST-001472,Shirley,Evans,shirley.evans473@fastmail.com,F,38,San Antonio,TX,2024-01-02 23:13:53,Small Business
+CUST-001473,Carol,Williams,carol.williams474@fastmail.com,F,18,Seattle,WA,2024-01-24 11:51:07,Consumer
+CUST-001474,Sandra,Morales,sandra.morales475@icloud.com,F,43,Salt Lake City,UT,2024-02-11 12:40:56,Consumer
+CUST-001475,Jacob,Gonzalez,jacob.gonzalez476@fastmail.com,M,28,Denver,CO,2024-05-30 22:06:23,Consumer
+CUST-001476,Charles,Gutierrez,charles.gutierrez477@proton.me,M,33,Portland,OR,2024-01-17 04:39:19,Consumer
+CUST-001477,Barbara,Hill,barbara.hill478@fastmail.com,F,46,Minneapolis,MN,2024-08-27 06:07:07,Corporate
+CUST-001478,Jessica,Morris,jessica.morris479@fastmail.com,F,51,Minneapolis,MN,2024-05-03 08:51:37,Consumer
+CUST-001479,Gregory,Lopez,gregory.lopez480@gmail.com,M,43,Boston,MA,2024-01-15 05:50:02,Consumer
+CUST-001480,Carol,Roberts,carol.roberts481@outlook.com,F,22,San Diego,CA,2024-05-11 17:20:29,Consumer
+CUST-001481,Debra,Thomas,debra.thomas482@fastmail.com,F,43,Phoenix,AZ,2024-09-30 23:04:00,Consumer
+CUST-001482,Barbara,Nelson,barbara.nelson483@yahoo.com,F,44,Charlotte,NC,2024-11-03 02:21:16,Consumer
+CUST-001483,Stephanie,Carter,stephanie.carter484@fastmail.com,F,41,Minneapolis,MN,2024-08-11 08:29:47,Corporate
+CUST-001484,Joseph,Nguyen,joseph.nguyen485@gmail.com,M,53,Houston,TX,2024-02-15 12:23:15,Corporate
+CUST-001485,Margaret,Anderson,margaret.anderson486@proton.me,F,37,Seattle,WA,2024-03-06 11:24:34,Consumer
+CUST-001486,Emma,Smith,emma.smith487@outlook.com,F,52,Los Angeles,CA,2024-10-29 19:30:02,Corporate
+CUST-001487,Edward,Diaz,edward.diaz488@outlook.com,M,52,Seattle,WA,2024-12-13 04:35:55,Consumer
+CUST-001488,Helen,Lewis,helen.lewis489@gmail.com,F,44,Denver,CO,2024-01-05 19:35:55,Consumer
+CUST-001489,Carol,Jackson,carol.jackson490@outlook.com,F,39,San Diego,CA,2024-09-12 16:35:40,Small Business
+CUST-001490,Andrew,Jackson,andrew.jackson491@fastmail.com,M,41,Los Angeles,CA,2024-11-02 11:39:21,Corporate
+CUST-001491,Frank,Thomas,frank.thomas492@outlook.com,M,56,Charlotte,NC,2024-09-01 22:58:36,Small Business
+CUST-001492,Angela,Nguyen,angela.nguyen493@fastmail.com,F,48,Denver,CO,2024-01-31 12:07:45,Consumer
+CUST-001493,Patrick,Clark,patrick.clark494@fastmail.com,M,23,San Diego,CA,2024-12-24 01:54:49,Consumer
+CUST-001494,Lisa,Morales,lisa.morales495@fastmail.com,F,40,Denver,CO,2024-06-02 05:47:45,Corporate
+CUST-001495,Stephanie,Gomez,stephanie.gomez496@outlook.com,Other,25,Boston,MA,2024-12-13 17:14:12,Consumer
+CUST-001496,Elizabeth,Gomez,elizabeth.gomez497@gmail.com,Other,28,Portland,OR,2024-05-24 10:16:50,Consumer
+CUST-001497,Margaret,Peterson,margaret.peterson498@icloud.com,F,31,Houston,TX,2024-03-08 11:46:31,Small Business
+CUST-001498,Nicole,Miller,nicole.miller499@fastmail.com,F,19,San Jose,CA,2024-08-22 23:50:04,Consumer
+CUST-001499,Thomas,Cruz,thomas.cruz500@fastmail.com,M,25,Miami,FL,2024-05-29 05:16:22,Small Business
+CUST-001500,Matthew,Johnson,matthew.johnson501@outlook.com,M,54,Charlotte,NC,2024-02-22 05:22:26,Corporate

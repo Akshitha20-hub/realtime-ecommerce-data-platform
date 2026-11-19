@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,price,cost,stock_quantity,product_rating
+PROD-000001,Elite Sunscreen SPF 50 2,Beauty & Personal Care,Sunscreen SPF 50,105.99,44.34,968,4.6
+PROD-000002,Eco-Friendly Smartphone 3,Electronics,Smartphones,425.99,330.29,203,3.7
+PROD-000003,Compact Smartphone 4,Electronics,Smartphones,1411.99,1012.42,627,3.6
+PROD-000004,Elite Organic Moisturizer 5,Beauty & Personal Care,Organic Moisturizers,42.99,16.96,270,4.7
+PROD-000005,Premium Smartphone 6,Electronics,Smartphones,318.99,214.17,329,3.7
+PROD-000006,Essential Science Fiction 7,Books,Science Fiction,32.99,15.85,404,4.5
+PROD-000007,Elite Biographie 8,Books,Biographies,19.99,7.35,494,4.7
+PROD-000008,Classic Business Strategy 9,Books,Business Strategy,40.99,19.53,475,4.4
+PROD-000009,Ultra Stainless Steel Cookware 10,Home & Kitchen,Stainless Steel Cookware,309.99,131.23,144,3.8
+PROD-000010,Elite Facial Cleanser 11,Beauty & Personal Care,Facial Cleansers,61.99,26.76,250,4.8
+PROD-000011,Advanced Gaming Monitor 12,Electronics,Gaming Monitors,85.99,66.88,511,4.1
+PROD-000012,Signature Vacuum Cleaner 13,Home & Kitchen,Vacuum Cleaners,231.99,97.18,627,4.4
+PROD-000013,Smart Running Shoe 14,Apparel,Running Shoes,21.99,10.99,739,3.6
+PROD-000014,Advanced Hair Styling Set 15,Beauty & Personal Care,Hair Styling Sets,117.99,32.45,353,4.7
+PROD-000015,Compact Bluetooth Speaker 16,Electronics,Bluetooth Speakers,1336.99,846.69,852,4.5
+PROD-000016,Ergonomic Data Engineering 17,Books,Data Engineering,49.99,23.06,569,4.1
+PROD-000017,Ultra Hiking Backpack 18,Sports & Outdoors,Hiking Backpacks,417.99,231.47,618,4.0
+PROD-000018,Elite Hydration Pack 19,Sports & Outdoors,Hydration Packs,298.99,141.97,791,4.5
+PROD-000019,Ultra Summer Dresse 20,Apparel,Summer Dresses,26.99,9.07,633,4.7
+PROD-000020,Pro Machine Learning 21,Books,Machine Learning,41.99,19.36,839,3.8
+PROD-000021,Pro Stainless Steel Cookware 22,Home & Kitchen,Stainless Steel Cookware,346.99,147.74,231,4.2
+PROD-000022,Ultra Machine Learning 23,Books,Machine Learning,13.99,6.47,891,4.0
+PROD-000023,Ultra Smartphone 24,Electronics,Smartphones,72.99,50.44,392,4.7
+PROD-000024,Ergonomic Camping Tent 25,Sports & Outdoors,Camping Tents,293.99,189.75,693,3.9
+PROD-000025,Classic Laptop 26,Electronics,Laptops,496.99,302.32,988,3.7
+PROD-000026,Elite Fitness Dumbbell 27,Sports & Outdoors,Fitness Dumbbells,31.99,17.81,163,4.5
+PROD-000027,Signature Hiking Backpack 28,Sports & Outdoors,Hiking Backpacks,388.99,199.39,952,4.8
+PROD-000028,Compact Memory Foam Pillow 29,Home & Kitchen,Memory Foam Pillows,34.99,17.57,724,4.5
+PROD-000029,Pro Bluetooth Speaker 30,Electronics,Bluetooth Speakers,1262.99,811.7,212,4.7
+PROD-000030,Premium Athletic Jogger 31,Apparel,Athletic Joggers,124.99,61.43,636,5.0
+PROD-000031,Advanced Camping Tent 32,Sports & Outdoors,Camping Tents,435.99,227.51,151,4.9
+PROD-000032,Ergonomic Science Fiction 33,Books,Science Fiction,49.99,18.24,281,5.0
+PROD-000033,Elite Blender 34,Home & Kitchen,Blenders,307.99,178.86,429,5.0
+PROD-000034,Classic Hydrating Serum 35,Beauty & Personal Care,Hydrating Serums,56.99,21.96,982,4.0
+PROD-000035,Compact Machine Learning 36,Books,Machine Learning,17.99,7.03,664,4.5
+PROD-000036,Elite System Design 37,Books,System Design,47.99,23.48,217,4.3
+PROD-000037,Advanced System Design 38,Books,System Design,22.99,11.07,860,3.5
+PROD-000038,Essential Cycling Helmet 39,Sports & Outdoors,Cycling Helmets,497.99,265.9,177,4.3
+PROD-000039,Ergonomic Blender 40,Home & Kitchen,Blenders,392.99,159.23,638,4.7
+PROD-000040,Classic Denim Jacket 41,Apparel,Denim Jackets,140.99,45.81,132,4.4
+PROD-000041,Ergonomic Science Fiction 42,Books,Science Fiction,32.99,11.98,675,4.2
+PROD-000042,Eco-Friendly Wireless Earbud 43,Electronics,Wireless Earbuds,1025.99,759.29,169,3.9
+PROD-000043,Pro Athletic Jogger 44,Apparel,Athletic Joggers,133.99,42.82,247,4.5
+PROD-000044,Ultra Hydrating Serum 45,Beauty & Personal Care,Hydrating Serums,30.99,8.84,765,4.1
+PROD-000045,Smart Memory Foam Pillow 46,Home & Kitchen,Memory Foam Pillows,210.99,88.43,377,4.7
+PROD-000046,Classic Science Fiction 47,Books,Science Fiction,35.99,16.57,642,4.7
+PROD-000047,Essential Smartphone 48,Electronics,Smartphones,441.99,290.49,789,4.4
+PROD-000048,Eco-Friendly Organic Moisturizer 49,Beauty & Personal Care,Organic Moisturizers,81.99,33.72,714,3.7
+PROD-000049,Advanced Cycling Helmet 50,Sports & Outdoors,Cycling Helmets,110.99,69.52,432,4.0
+PROD-000050,Essential Fragrance 51,Beauty & Personal Care,Fragrances,90.99,27.46,723,5.0
+PROD-000051,Essential Hydration Pack 52,Sports & Outdoors,Hydration Packs,422.99,245.97,166,4.4
+PROD-000052,Signature Fragrance 53,Beauty & Personal Care,Fragrances,93.99,28.52,960,4.8
+PROD-000053,Eco-Friendly Biographie 54,Books,Biographies,43.99,21.62,275,3.8
+PROD-000054,Ergonomic Science Fiction 55,Books,Science Fiction,24.99,12.28,207,5.0
+PROD-000055,Smart Hair Styling Set 56,Beauty & Personal Care,Hair Styling Sets,28.99,10.16,302,3.5
+PROD-000056,Signature Fragrance 57,Beauty & Personal Care,Fragrances,120.99,51.58,853,4.4
+PROD-000057,Elite Athletic Jogger 58,Apparel,Athletic Joggers,117.99,55.64,990,3.4
+PROD-000058,Eco-Friendly Blender 59,Home & Kitchen,Blenders,39.99,22.76,669,4.7
+PROD-000059,Signature Smartphone 60,Electronics,Smartphones,86.99,55.95,115,3.8
+PROD-000060,Pro Hoodie 61,Apparel,Hoodies,121.99,38.66,312,4.1
+PROD-000061,Pro Hiking Backpack 62,Sports & Outdoors,Hiking Backpacks,443.99,285.23,454,4.3
+PROD-000062,Signature Science Fiction 63,Books,Science Fiction,16.99,6.41,529,4.6
+PROD-000063,Elite Hydration Pack 64,Sports & Outdoors,Hydration Packs,434.99,273.01,734,4.1
+PROD-000064,Pro Smartwatche 65,Electronics,Smartwatches,1116.99,794.1,952,4.3
+PROD-000065,Signature Data Engineering 66,Books,Data Engineering,20.99,9.13,567,4.3
+PROD-000066,Premium System Design 67,Books,System Design,27.99,15.36,697,4.2
+PROD-000067,Advanced Hydration Pack 68,Sports & Outdoors,Hydration Packs,427.99,196.22,479,4.1
+PROD-000068,Compact Summer Dresse 69,Apparel,Summer Dresses,26.99,12.98,199,4.0
+PROD-000069,Essential Wireless Earbud 70,Electronics,Wireless Earbuds,1463.99,1013.76,995,4.4
+PROD-000070,Smart Smartwatche 71,Electronics,Smartwatches,1409.99,942.21,402,4.3
+PROD-000071,Elite Wireless Earbud 72,Electronics,Wireless Earbuds,164.99,106.41,572,3.9
+PROD-000072,Classic Wireless Earbud 73,Electronics,Wireless Earbuds,347.99,239.06,291,4.1
+PROD-000073,Signature Denim Jacket 74,Apparel,Denim Jackets,55.99,23.86,423,3.4
+PROD-000074,Elite Athletic Jogger 75,Apparel,Athletic Joggers,32.99,13.3,934,4.1
+PROD-000075,Advanced Smartwatche 76,Electronics,Smartwatches,284.99,214.51,78,3.4
+PROD-000076,Advanced Stainless Steel Cookware 77,Home & Kitchen,Stainless Steel Cookware,323.99,159.43,325,4.0
+PROD-000077,Pro Stainless Steel Cookware 78,Home & Kitchen,Stainless Steel Cookware,143.99,67.67,759,3.7
+PROD-000078,Eco-Friendly Running Shoe 79,Apparel,Running Shoes,37.99,11.46,461,3.9
+PROD-000079,Ultra Organic Moisturizer 80,Beauty & Personal Care,Organic Moisturizers,40.99,14.59,940,4.8
+PROD-000080,Ultra Running Shoe 81,Apparel,Running Shoes,25.99,12.54,27,3.7
+PROD-000081,Elite Accessorie 82,Apparel,Accessories,51.99,18.2,501,4.0
+PROD-000082,Classic Hair Styling Set 83,Beauty & Personal Care,Hair Styling Sets,51.99,16.79,933,4.3
+PROD-000083,Classic Hoodie 84,Apparel,Hoodies,166.99,53.73,469,3.3
+PROD-000084,Essential Business Strategy 85,Books,Business Strategy,31.99,12.09,785,4.1
+PROD-000085,Eco-Friendly Hydrating Serum 86,Beauty & Personal Care,Hydrating Serums,106.99,45.65,746,4.3
+PROD-000086,Premium Denim Jacket 87,Apparel,Denim Jackets,103.99,37.12,156,3.7
+PROD-000087,Signature Sunscreen SPF 50 88,Beauty & Personal Care,Sunscreen SPF 50,27.99,8.85,52,3.6
+PROD-000088,Premium Summer Dresse 89,Apparel,Summer Dresses,100.99,49.45,701,4.6
+PROD-000089,Ergonomic Stainless Steel Cookware 90,Home & Kitchen,Stainless Steel Cookware,51.99,25.88,527,3.4
+PROD-000090,Essential Biographie 91,Books,Biographies,42.99,17.84,802,4.0
+PROD-000091,Signature Fragrance 92,Beauty & Personal Care,Fragrances,16.99,7.39,883,3.7
+PROD-000092,Ultra Organic Moisturizer 93,Beauty & Personal Care,Organic Moisturizers,96.99,42.82,831,3.2
+PROD-000093,Essential Laptop 94,Electronics,Laptops,878.99,581.84,33,4.7
+PROD-000094,Pro Machine Learning 95,Books,Machine Learning,44.99,21.85,370,4.5
+PROD-000095,Signature Fragrance 96,Beauty & Personal Care,Fragrances,47.99,12.07,511,4.8
+PROD-000096,Smart Air Fryer 97,Home & Kitchen,Air Fryers,395.99,164.94,459,4.3
+PROD-000097,Essential Hoodie 98,Apparel,Hoodies,170.99,76.24,211,3.7
+PROD-000098,Ultra Athletic Jogger 99,Apparel,Athletic Joggers,100.99,47.75,737,4.0
+PROD-000099,Ergonomic Summer Dresse 100,Apparel,Summer Dresses,144.99,49.25,743,3.0
+PROD-000100,Signature Bluetooth Speaker 1,Electronics,Bluetooth Speakers,1263.99,872.68,205,3.5
+PROD-000101,Advanced Accessorie 2,Apparel,Accessories,78.99,33.63,172,4.1
+PROD-000102,Essential Denim Jacket 3,Apparel,Denim Jackets,72.99,27.75,300,4.7
+PROD-000103,Ergonomic Cotton T-Shirt 4,Apparel,Cotton T-Shirts,94.99,28.83,224,4.0
+PROD-000104,Pro Mechanical Keyboard 5,Electronics,Mechanical Keyboards,326.99,218.58,557,4.4
+PROD-000105,Elite Vacuum Cleaner 6,Home & Kitchen,Vacuum Cleaners,381.99,227.68,247,4.3
+PROD-000106,Smart Blender 7,Home & Kitchen,Blenders,240.99,99.35,457,3.6
+PROD-000107,Classic Data Engineering 8,Books,Data Engineering,28.99,10.78,392,3.6
+PROD-000108,Signature Air Fryer 9,Home & Kitchen,Air Fryers,230.99,111.71,347,4.5
+PROD-000109,Pro Laptop 10,Electronics,Laptops,583.99,350.45,696,3.8
+PROD-000110,Premium System Design 11,Books,System Design,31.99,13.02,306,4.4
+PROD-000111,Ergonomic Yoga Mat 12,Sports & Outdoors,Yoga Mats,112.99,55.02,991,3.8
+PROD-000112,Eco-Friendly Hair Styling Set 13,Beauty & Personal Care,Hair Styling Sets,31.99,9.94,119,3.9
+PROD-000113,Elite Data Engineering 14,Books,Data Engineering,42.99,19.79,902,4.4
+PROD-000114,Eco-Friendly Athletic Jogger 15,Apparel,Athletic Joggers,184.99,82.92,390,4.1
+PROD-000115,Compact Science Fiction 16,Books,Science Fiction,31.99,15.07,263,4.0
+PROD-000116,Premium System Design 17,Books,System Design,41.99,19.6,109,3.8
+PROD-000117,Elite Laptop 18,Electronics,Laptops,576.99,423.32,143,4.3
+PROD-000118,Elite Gaming Monitor 19,Electronics,Gaming Monitors,1273.99,951.84,217,3.8
+PROD-000119,Ultra Business Strategy 20,Books,Business Strategy,41.99,15.33,579,4.4
+PROD-000120,Classic Fitness Dumbbell 21,Sports & Outdoors,Fitness Dumbbells,129.99,77.35,799,3.8
+PROD-000121,Signature Hoodie 22,Apparel,Hoodies,53.99,17.86,150,4.0
+PROD-000122,Compact Running Shoe 23,Apparel,Running Shoes,61.99,27.42,932,4.4
+PROD-000123,Eco-Friendly Fitness Dumbbell 24,Sports & Outdoors,Fitness Dumbbells,25.99,14.03,754,4.3
+PROD-000124,Ultra Smartwatche 25,Electronics,Smartwatches,955.99,656.68,556,4.4
+PROD-000125,Essential Yoga Mat 26,Sports & Outdoors,Yoga Mats,381.99,217.67,733,4.1
+PROD-000126,Pro Athletic Jogger 27,Apparel,Athletic Joggers,76.99,37.81,82,3.7
+PROD-000127,Signature Machine Learning 28,Books,Machine Learning,11.99,6.15,526,4.6
+PROD-000128,Compact Science Fiction 29,Books,Science Fiction,9.99,5.44,189,4.2
+PROD-000129,Ergonomic Fragrance 30,Beauty & Personal Care,Fragrances,44.99,16.31,419,3.9
+PROD-000130,Classic Fragrance 31,Beauty & Personal Care,Fragrances,119.99,34.96,23,3.9
+PROD-000131,Premium Hoodie 32,Apparel,Hoodies,96.99,40.58,29,4.9
+PROD-000132,Compact Hiking Backpack 33,Sports & Outdoors,Hiking Backpacks,98.99,58.56,557,4.1
+PROD-000133,Premium Air Fryer 34,Home & Kitchen,Air Fryers,205.99,94.61,294,5.0
+PROD-000134,Essential Yoga Mat 35,Sports & Outdoors,Yoga Mats,499.99,247.39,566,3.6
+PROD-000135,Pro Athletic Jogger 36,Apparel,Athletic Joggers,149.99,64.18,984,4.7
+PROD-000136,Classic Espresso Machine 37,Home & Kitchen,Espresso Machines,84.99,48.84,72,4.0
+PROD-000137,Premium Machine Learning 38,Books,Machine Learning,9.99,4.56,21,3.9
+PROD-000138,Elite System Design 39,Books,System Design,29.99,14.13,397,3.7
+PROD-000139,Signature Stainless Steel Cookware 40,Home & Kitchen,Stainless Steel Cookware,253.99,146.5,290,4.2
+PROD-000140,Ergonomic Machine Learning 41,Books,Machine Learning,29.99,15.88,321,4.6
+PROD-000141,Elite Stainless Steel Cookware 42,Home & Kitchen,Stainless Steel Cookware,39.99,22.52,863,4.2
+PROD-000142,Signature Espresso Machine 43,Home & Kitchen,Espresso Machines,186.99,110.89,200,4.0
+PROD-000143,Compact Stainless Steel Cookware 44,Home & Kitchen,Stainless Steel Cookware,338.99,180.16,908,3.5
+PROD-000144,Signature Yoga Mat 45,Sports & Outdoors,Yoga Mats,48.99,29.35,411,4.1
+PROD-000145,Elite System Design 46,Books,System Design,38.99,18.59,584,4.3
+PROD-000146,Smart Accessorie 47,Apparel,Accessories,64.99,22.36,295,3.8
+PROD-000147,Elite Hoodie 48,Apparel,Hoodies,45.99,21.23,790,4.7
+PROD-000148,Smart Organic Moisturizer 49,Beauty & Personal Care,Organic Moisturizers,57.99,17.19,763,4.0
+PROD-000149,Essential Hair Styling Set 50,Beauty & Personal Care,Hair Styling Sets,100.99,43.47,115,4.3
+PROD-000150,Smart Organic Moisturizer 51,Beauty & Personal Care,Organic Moisturizers,38.99,11.19,903,4.0
+PROD-000151,Advanced Cotton T-Shirt 52,Apparel,Cotton T-Shirts,133.99,53.34,766,4.5
+PROD-000152,Classic Summer Dresse 53,Apparel,Summer Dresses,82.99,25.25,186,4.3
+PROD-000153,Ergonomic Accessorie 54,Apparel,Accessories,26.99,11.81,212,4.9
+PROD-000154,Ultra Laptop 55,Electronics,Laptops,382.99,259.19,485,4.3
+PROD-000155,Ultra Business Strategy 56,Books,Business Strategy,22.99,11.38,160,4.4
+PROD-000156,Advanced Data Engineering 57,Books,Data Engineering,19.99,7.4,413,4.3
+PROD-000157,Pro Smartphone 58,Electronics,Smartphones,932.99,688.01,679,3.7
+PROD-000158,Premium Laptop 59,Electronics,Laptops,1278.99,944.69,294,4.7
+PROD-000159,Advanced Summer Dresse 60,Apparel,Summer Dresses,180.99,54.79,29,4.3
+PROD-000160,Signature Gaming Monitor 61,Electronics,Gaming Monitors,445.99,333.28,893,4.4
+PROD-000161,Premium Data Engineering 62,Books,Data Engineering,19.99,7.55,797,4.6
+PROD-000162,Essential Hiking Backpack 63,Sports & Outdoors,Hiking Backpacks,320.99,164.18,510,4.7
+PROD-000163,Pro Cotton T-Shirt 64,Apparel,Cotton T-Shirts,188.99,77.24,293,3.7
+PROD-000164,Ultra Science Fiction 65,Books,Science Fiction,11.99,4.25,65,3.6
+PROD-000165,Classic Gaming Monitor 66,Electronics,Gaming Monitors,686.99,424.88,927,3.8
+PROD-000166,Pro Organic Moisturizer 67,Beauty & Personal Care,Organic Moisturizers,110.99,48.0,44,3.6
+PROD-000167,Ergonomic Running Shoe 68,Apparel,Running Shoes,178.99,58.97,691,4.0
+PROD-000168,Elite Espresso Machine 69,Home & Kitchen,Espresso Machines,372.99,177.9,925,3.7
+PROD-000169,Smart Data Engineering 70,Books,Data Engineering,10.99,4.22,132,3.7
+PROD-000170,Classic Denim Jacket 71,Apparel,Denim Jackets,184.99,68.72,650,4.3
+PROD-000171,Eco-Friendly Stainless Steel Cookware 72,Home & Kitchen,Stainless Steel Cookware,189.99,111.08,961,3.5
+PROD-000172,Advanced Smartphone 73,Electronics,Smartphones,727.99,456.59,458,4.2
+PROD-000173,Advanced Fitness Dumbbell 74,Sports & Outdoors,Fitness Dumbbells,339.99,165.33,455,4.6
+PROD-000174,Elite Summer Dresse 75,Apparel,Summer Dresses,116.99,42.15,857,4.6
+PROD-000175,Ultra Air Fryer 76,Home & Kitchen,Air Fryers,363.99,165.33,531,4.5
+PROD-000176,Classic System Design 77,Books,System Design,10.99,5.63,748,4.5
+PROD-000177,Pro Mechanical Keyboard 78,Electronics,Mechanical Keyboards,50.99,38.5,172,4.5
+PROD-000178,Eco-Friendly Machine Learning 79,Books,Machine Learning,25.99,9.86,477,3.7
+PROD-000179,Ultra Business Strategy 80,Books,Business Strategy,24.99,9.31,457,4.1
+PROD-000180,Essential System Design 81,Books,System Design,37.99,13.98,150,4.5
+PROD-000181,Ergonomic Accessorie 82,Apparel,Accessories,62.99,23.34,526,4.0
+PROD-000182,Signature Sunscreen SPF 50 83,Beauty & Personal Care,Sunscreen SPF 50,51.99,23.11,636,4.0
+PROD-000183,Essential System Design 84,Books,System Design,26.99,13.78,689,4.3
+PROD-000184,Ergonomic Running Shoe 85,Apparel,Running Shoes,65.99,27.05,571,5.0
+PROD-000185,Compact Hiking Backpack 86,Sports & Outdoors,Hiking Backpacks,259.99,144.88,255,4.6
+PROD-000186,Advanced Hydrating Serum 87,Beauty & Personal Care,Hydrating Serums,62.99,24.75,559,3.5
+PROD-000187,Signature Hydration Pack 88,Sports & Outdoors,Hydration Packs,103.99,51.36,109,4.3
+PROD-000188,Pro Athletic Jogger 89,Apparel,Athletic Joggers,172.99,58.93,891,3.7
+PROD-000189,Compact Wireless Earbud 90,Electronics,Wireless Earbuds,542.99,372.11,156,4.6
+PROD-000190,Eco-Friendly Smartphone 91,Electronics,Smartphones,1400.99,931.59,889,4.8
+PROD-000191,Smart Athletic Jogger 92,Apparel,Athletic Joggers,158.99,52.28,893,5.0
+PROD-000192,Premium Hiking Backpack 93,Sports & Outdoors,Hiking Backpacks,451.99,222.45,249,4.6
+PROD-000193,Essential Bluetooth Speaker 94,Electronics,Bluetooth Speakers,623.99,387.56,732,4.4
+PROD-000194,Ergonomic Machine Learning 95,Books,Machine Learning,12.99,6.45,732,4.4
+PROD-000195,Pro Hair Styling Set 96,Beauty & Personal Care,Hair Styling Sets,79.99,31.22,698,3.7
+PROD-000196,Smart Yoga Mat 97,Sports & Outdoors,Yoga Mats,490.99,303.18,911,4.2
+PROD-000197,Essential Denim Jacket 98,Apparel,Denim Jackets,52.99,19.77,100,4.3
+PROD-000198,Pro Denim Jacket 99,Apparel,Denim Jackets,144.99,60.0,853,3.9
+PROD-000199,Essential Organic Moisturizer 100,Beauty & Personal Care,Organic Moisturizers,13.99,4.81,163,4.4
+PROD-000200,Signature Science Fiction 1,Books,Science Fiction,12.99,7.01,501,5.0
