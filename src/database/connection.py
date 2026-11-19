@@ -26,15 +26,38 @@ if ENV_PATH.is_file():
     load_dotenv(dotenv_path=ENV_PATH)
 
 def _build_url() -> str:
-    """Create a PostgreSQL connection URL from env vars or DATABASE_URL."""
+    """Create a PostgreSQL connection URL from env vars, st.secrets, or DATABASE_URL."""
+    # 1. Check Streamlit Cloud secrets
+    try:
+        import streamlit as st
+        if hasattr(st, "secrets"):
+            if "DATABASE_URL" in st.secrets:
+                raw_url = str(st.secrets["DATABASE_URL"])
+                if raw_url.startswith("postgres://"):
+                    return raw_url.replace("postgres://", "postgresql+psycopg2://", 1)
+                elif raw_url.startswith("postgresql://") and not raw_url.startswith("postgresql+psycopg2://"):
+                    return raw_url.replace("postgresql://", "postgresql+psycopg2://", 1)
+                return raw_url
+            if "POSTGRES_HOST" in st.secrets:
+                user = st.secrets["POSTGRES_USER"]
+                pwd = st.secrets["POSTGRES_PASSWORD"]
+                host = st.secrets["POSTGRES_HOST"]
+                port = st.secrets.get("POSTGRES_PORT", "5432")
+                db = st.secrets["POSTGRES_DB"]
+                return f"postgresql+psycopg2://{user}:{pwd}@{host}:{port}/{db}?sslmode=require"
+    except Exception:
+        pass
+
+    # 2. Check environment variable DATABASE_URL
     db_url = os.getenv("DATABASE_URL")
     if db_url:
         if db_url.startswith("postgres://"):
-            db_url = db_url.replace("postgres://", "postgresql+psycopg2://", 1)
+            return db_url.replace("postgres://", "postgresql+psycopg2://", 1)
         elif db_url.startswith("postgresql://") and not db_url.startswith("postgresql+psycopg2://"):
-            db_url = db_url.replace("postgresql://", "postgresql+psycopg2://", 1)
+            return db_url.replace("postgresql://", "postgresql+psycopg2://", 1)
         return db_url
 
+    # 3. Check individual env variables
     user = os.getenv("POSTGRES_USER")
     password = os.getenv("POSTGRES_PASSWORD")
     db = os.getenv("POSTGRES_DB")
