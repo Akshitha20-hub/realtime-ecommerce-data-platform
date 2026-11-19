@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: ecommerce_raw
+    description: "Raw relational e-commerce tables loaded via automated batch ETL"
+    tables:
+      - name: customers
+      - name: products
+      - name: orders
+      - name: order_items
+      - name: payments
+      - name: events
