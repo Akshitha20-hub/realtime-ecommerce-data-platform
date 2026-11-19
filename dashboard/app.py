@@ -77,17 +77,19 @@ st.sidebar.caption("Built for portfolio & internship interviews 🚀")
 # Data-loading helper (live DB or demo)
 # ---------------------------------------------------------------------------
 @st.cache_data(ttl=120)
-def _safe_kpi() -> dict:
+def _safe_kpi(is_live: bool = False) -> dict:
     """Fetch live KPI data, fall back to demo values on any error."""
-    try:
-        df = run_query("revenue_summary.sql")
-        return {
-            "total_revenue":   float(df["total_revenue"].iloc[0]),
-            "total_orders":    int(df["total_orders"].iloc[0]),
-            "avg_order_value": float(df["avg_order_value"].iloc[0]),
-        }
-    except Exception:
-        return demo_revenue_summary()
+    if is_live:
+        try:
+            df = run_query("revenue_summary.sql")
+            return {
+                "total_revenue":   float(df["total_revenue"].iloc[0]),
+                "total_orders":    int(df["total_orders"].iloc[0]),
+                "avg_order_value": float(df["avg_order_value"].iloc[0]),
+            }
+        except Exception:
+            return demo_revenue_summary()
+    return demo_revenue_summary()
 
 
 @st.cache_data(ttl=120)
@@ -96,8 +98,8 @@ def load(sql_file: str, _demo_fn, is_live: bool = False):
     if is_live:
         try:
             return run_query(sql_file)
-        except Exception:
-            st.warning("⚠️ Could not reach PostgreSQL. Showing demo data.")
+        except Exception as exc:
+            st.warning(f"⚠️ Live query notice: {exc}. Displaying cached view.")
     return _demo_fn() if callable(_demo_fn) else _demo_fn
 
 
@@ -114,7 +116,7 @@ st.divider()
 # ===========================================================================
 # SECTION 1 — KPI CARDS
 # ===========================================================================
-kpis = demo_revenue_summary() if not use_live_db else _safe_kpi()
+kpis = _safe_kpi(use_live_db)
 
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("💰 Total Revenue",    f"${kpis['total_revenue']:,.0f}")
@@ -129,6 +131,9 @@ st.divider()
 # ===========================================================================
 st.subheader("📈 Monthly Revenue Trend")
 monthly_df = load("monthly_revenue.sql", demo_monthly_revenue, use_live_db)
+if "month" not in monthly_df.columns:
+    if "order_year" in monthly_df.columns and "order_month" in monthly_df.columns:
+        monthly_df["month"] = monthly_df["order_year"].astype(str) + "-" + monthly_df["order_month"].astype(str).str.zfill(2)
 
 fig_rev = px.area(
     monthly_df,
